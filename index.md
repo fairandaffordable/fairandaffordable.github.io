@@ -1,12 +1,12 @@
 ---
 title: FaAP
-subtitle: Fair and Affordable Pricing Initiative
+subtitle: The Fair and Affordable Pricing Initiative
 layout: page
 ---
 
-# The Fair and Affordable Pricing Initiative
+# Welcome
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+This is the website of the Fair and Affordable Pricing Initiative, a regional cooperation of European Countries aiming to expand access to medicinal products. 
 
 ## Ruby Gem
 

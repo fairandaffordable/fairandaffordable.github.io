@@ -1,4 +1,4 @@
-- name: Pages
+- name: What we do
   link: #
   dropdown:
     - name: Page With Sidebar
