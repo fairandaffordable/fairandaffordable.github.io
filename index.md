@@ -1,10 +1,10 @@
 ---
-title: Bulma Clean Theme
+title: FaAP
 subtitle: Fair and Affordable Pricing Initiative
 layout: page
 ---
 
-# Bulma Clean Theme demo website
+# The Fair and Affordable Pricing Initiative
 
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
 
@@ -15,10 +15,6 @@ The ruby gem is available on the Ruby Gems website at the following location. [h
 ## GitHub Pages
 
 The theme can be used with GitHub Pages bu setting the `remote_theme` in your Jekyll sites `_config.yml`
-
-```yml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
 
 ## Instructions
 
