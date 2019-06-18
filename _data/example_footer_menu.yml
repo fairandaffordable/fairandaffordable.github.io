@@ -1,6 +1,6 @@
 - name: Home
   link: /
-- name: Blog
+- name: News
   link: /blog/
 - name: Products
   link: /products/

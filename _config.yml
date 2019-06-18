@@ -1,9 +1,9 @@
 # Site Settings
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
+title: FaAP
+tagline: FaAP
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  The demo site for FaAP, made with Jekyll and GitHub pages websites
 baseurl: ""
 url: "fairandaffordable.github.io"
 permalink: pretty
