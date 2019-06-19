@@ -1,8 +1,9 @@
 ---
-title: Page With Sidebar
-subtitle: A demo page with a sidebar
+title: What we do
+subtitle: Information Exchange
 layout: page
-show_sidebar: true
+show_sidebar: false
+manubar: example_menu
 ---
 
 This is a demo page showing the sidebar.
