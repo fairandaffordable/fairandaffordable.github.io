@@ -1,7 +1,7 @@
 - name: Home
   link: /
 - name: News
-  link: /blog/
+  link: /news/
 - name: Mission
   link: /mission/
 - name: Privacy Policy

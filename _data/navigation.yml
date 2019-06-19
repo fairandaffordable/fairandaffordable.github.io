@@ -1,14 +1,12 @@
 - name: What we do
   link: #
   dropdown:
-    - name: Page With Sidebar
-      link: /page-1/
-    - name: Page No Sidebar
-      link: /page-2/
-    - name: Page With Menubar
-      link: /page-3/
-    - name: Page With Tabs
-      link: /page-4/
+    - name: Information Exchange
+      link: /information/
+    - name: Data Sharing
+      link: /datasharing/
+    - name: Pilot Negotiations
+      link: /negotiations/
 - name: Mission
   link: /mission/
 - name: News

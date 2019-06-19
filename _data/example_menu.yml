@@ -5,13 +5,11 @@
     - name: What we do
       link: #
       items:
-        - name: Page With Sidebar 
-          link: /page-1/
-        - name: Page Without Sidebar
-          link: /page-2/
-        - name: Page With Menubar
-          link: /page-3/
-        - name: Page With Tabs
-          link: /page-4/
+        - name: Information Exchange 
+          link: /information/
+        - name: Data Sharing
+          link: /datasharing/
+        - name: Pilot Negotiations
+          link: /negotiations/
     - name: News
-      link: /blog/
+      link: /news/
