@@ -1,10 +1,10 @@
 ---
-title: FaAP
+title: Welcome
 subtitle: The Fair and Affordable Pricing Initiative
 layout: page
 ---
 
-# Welcome
+# Objective
 
 This is the website of the Fair and Affordable Pricing Initiative (*FaAP* in short), a regional cooperation of European Countries aiming to **improve and facilitate access to effective and affordable medicinal products**.
 
