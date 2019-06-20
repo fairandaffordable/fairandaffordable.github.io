@@ -1,6 +1,6 @@
 ---
 title: What we do
-subtitle: Information Exchange
+subtitle: Mutual Cooperation
 layout: page
 show_sidebar: false
 menubar: example_menu
