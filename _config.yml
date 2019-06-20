@@ -3,7 +3,7 @@ title: FaAP
 tagline: FaAP
 email: your-email@domain.com
 description: >
-  The demo site for FaAP, made with Jekyll and GitHub pages websites
+  The demo site for FaAP, made with Jekyll and GitHub pages.
 baseurl: ""
 url: "fairandaffordable.github.io"
 permalink: pretty
