@@ -1,13 +1,13 @@
 - name: What we do
   link: #
   dropdown:
-    - name: Information Exchange
-      link: /information/
+    - name: Mutual Cooperation
+      link: /mutual/
     - name: Data Sharing
       link: /datasharing/
     - name: Pilot Negotiations
       link: /negotiations/
-- name: Mission
-  link: /mission/
+- name: Achievements
+  link: /achievements/
 - name: News
   link: /blog/
