@@ -1,6 +1,6 @@
 ---
-title: Mission
-subtitle: The mission, vision and history of FaAP
+title: Achievements
+subtitle: The achievements and history of FaAP
 layout: page
 show_sidebar: false
 ---
