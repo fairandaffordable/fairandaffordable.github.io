@@ -24,8 +24,7 @@ The second Memorandum of Understanding was signed in Warsaw, on the 15th of May,
 ## Visibility
 
 > **There is an institutional regional cooperation initiative worth mentioning based on a memorandum of understanding signed by selected CEE countries called V4+ Fair and Affordable Pricing**. Its ultimate goal is to develop and harmonize methods of cooperation and negotiations with MAHs concerning pricing and conditions for reimbursement of selected health technologies with a special emphasis on the highest priced drugs including orphan medicinal products. The objective is to build an active institutional network, exchange of expertise and experience in pricing and reimbursement and conduct common health technology assessment aimed at facilitation access to effective and affordable treatment solutions.
-
-[Front. Pharmacol., 08 May 2019](https://doi.org/10.3389/fphar.2019.00487?target=_blank)
+<br>[Front. Pharmacol., 08 May 2019](https://doi.org/10.3389/fphar.2019.00487?target=_blank)
 
 > Representatives drew attention to existing regional cooperation mechanisms, including the political declaration adopted by Croatia, the Czech Republic, Hungary, Lithuania, Poland and Slovakia in March 2017 on cooperation in the area of fair and affordable pricing
 
