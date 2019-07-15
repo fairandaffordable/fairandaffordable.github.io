@@ -2,9 +2,9 @@
 
 graph TD
     A["fa:fa-industry"<br>Applicant]-->|Submits a dossier|B["fa:fa-building"<br>National Health Insurance Fund]
-    B-.->|Full procedure|C["fa:fa-file-text"<br>NIPN<br>Department for HTA]
-    B-->|All procedures|E["fa:fa-money"<br>NHIF<br>Department of Reimbursement]
-    B-.->|Full procedure|F["fa:fa-stethoscope"<br>Egészségügyi Szakmai Kollégium<br>Releváns tagozata]
+    B-.->|Full procedure|C["fa:fa-pills"<br>NIPN<br>Department for HTA]
+    B-->|All procedures|E["fa:fa-money-bill-alt"<br>NHIF<br>Department of Reimbursement]
+    B-.->|Full procedure|F["fa:fa-stethoscope"<br>Egészségügyi Szakmai Kollégium]
     C-.->|Opinion|H
     E-->H
     F-.->|Opinion|H["fa:fa-users"<br>Technology Assessment Committee]
@@ -13,7 +13,7 @@ graph TD
     I-.->K["fa:fa-certificate"<br>NHIF Decision]
     J-->|MoH Decision|L["fa:fa-gavel"<br>Official Gazette];
 
-classDef parhu fill:#343a40,stroke:#343a40,color:whitesmoke,stroke-width:0.5px,font-style:normal,font-size:larger;
+classDef parhu stroke:#343a40,stroke-width:0.5px,font-style:normal,font-size:larger;
 class A,B,C,D,E,F,H,I,J,K,L parhu
 
 </div>
