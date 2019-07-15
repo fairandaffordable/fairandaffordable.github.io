@@ -1,0 +1,19 @@
+<div class="mermaid" style="text-align:center">
+
+graph TD
+    A["fa:fa-industry"<br>Kérelmező]-->|Kérelmet nyújt be&nbsp;|B["fa:fa-building"<br>Nemzeti Egészségbiztosítási Alapkezelő]
+    B-.->|Csak normál eljárás esetén |C["fa:fa-file-text"<br>OGYÉI<br>Technológia-értékelő Főosztály]
+    B-->|Minden eljárástípus esetén|E["fa:fa-money"<br>NEAK<br>Ártámogatási Főosztály]
+    B-.->|Csak normál eljárás esetén|F["fa:fa-stethoscope"<br>Egészségügyi Szakmai Kollégium<br>Releváns tagozata]
+    C-.->|Szakvéleményt készít|H
+    E-->|Elővéleményt készít|H
+    F-.->|Szakvéleményt készít|H["fa:fa-users"<br>Technológia-értékelő Bizottság]
+    H-->|Javaslatot tesz|I["fa:fa-money"<br>NEAK<br>Ártámogatási Főosztály]
+    I-.->|Felterjesztést készít|J["fa:fa-university"<br>Emberi Erőforrások Minisztériuma<br>Gyógyszerészeti és Orvostechnikai Főosztály]
+    I-.->|Határozatot hoz|K["fa:fa-certificate"<br>NEAK Határozat]
+    J-->|Jogszabályalkotás|L["fa:fa-gavel"<br>Magyar Közlöny];
+
+classDef parhu fill:#343a40,stroke:#343a40,color:whitesmoke,stroke-width:0.5px,font-style:normal,font-size:larger;
+class A,B,C,D,E,F,H,I,J,K,L parhu
+
+</div>
