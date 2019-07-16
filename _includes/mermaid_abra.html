@@ -1,17 +1,17 @@
 <div class="mermaid" style="text-align:center">
 
 graph TD
-    A["fa:fa-industry"<br>Applicant]-->|Submits a dossier|B["fa:fa-building"<br>National Health Insurance Fund]
-    B-.->|Full procedure|C["fa:fa-pills"<br>NIPN<br>Department for HTA]
-    B-->|All procedures|E["fa:fa-money-bill-alt"<br>NHIF<br>Department of Reimbursement]
-    B-.->|Full procedure|F["fa:fa-stethoscope"<br>Board of Medical<br>Professionals]
+    A[Applicant]-->|Submits a dossier|B[National Health Insurance Fund]
+    B-.->|Full procedure|C[NIPN<br>Department for HTA]
+    B-->|All procedures|E[NHIF<br>Department of Reimbursement]
+    B-.->|Full procedure|F[Board of Medical<br>Professionals]
     C-.->|Opinion|H
     E-->H
-    F-.->|Opinion|H["fa:fa-users"<br>Technology Assessment Committee]
-    H-->|Suggestion|I["fa:fa-money-bill-alt"<br>NHIF<br>Department of Reimbursement]
-    I-.->|Proposal for decision|J["fa:fa-university"<br>Ministry of Health]
-    I-.->K["fa:fa-certificate"<br>NHIF Decision]
-    J-->|MoH Decision|L["fa:fa-gavel"<br>Official Gazette];
+    F-.->|Opinion|H[Technology Assessment Committee]
+    H-->|Suggestion|I[NHIF<br>Department of Reimbursement]
+    I-.->|Proposal for decision|J[Ministry of Health]
+    I-.->K[NHIF Decision]
+    J-->|MoH Decision|L[Official Gazette];
 
 classDef parhu stroke:#343a40,stroke-width:0.5px,font-style:normal,font-size:larger;
 class A,B,C,D,E,F,H,I,J,K,L parhu
