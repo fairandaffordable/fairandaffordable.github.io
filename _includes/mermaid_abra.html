@@ -2,13 +2,13 @@
 
 graph TD
     A[Applicant]-->|Submits a dossier|B[National Health Insurance Fund]
-    B-.->|Full procedure|C[NIPN<br>Department for HTA]
-    B-->|All procedures|E[NHIF<br>Department of Reimbursement]
-    B-.->|Full procedure|F[Board of Medical<br>Professionals]
+    B-.->|Full procedure|C[NIPN - Department for HTA]
+    B-->|All procedures|E[NHIF - Department of Reimbursement]
+    B-.->|Full procedure|F[Board of Medical Professionals]
     C-.->|Opinion|H
     E-->H
     F-.->|Opinion|H[Technology Assessment Committee]
-    H-->|Suggestion|I[NHIF<br>Department of Reimbursement]
+    H-->|Suggestion|I[NHIF - Department of Reimbursement]
     I-.->|Proposal for decision|J[Ministry of Health]
     I-.->K[NHIF Decision]
     J-->|MoH Decision|L[Official Gazette];
