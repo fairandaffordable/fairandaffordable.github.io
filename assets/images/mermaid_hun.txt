@@ -1,0 +1,15 @@
+graph TD;
+    A[fa:fa-industry<br>Applicant]-->|Submits a dossier|B[fa:fa-building<br>National Health Insurance Fund];
+    B-.->|Full procedure|C[fa:fa-pills<br>NIPN<br>Department for HTA];
+    B-->|All procedures|E[fa:fa-coins<br>NHIF<br>Department of Reimbursement];
+    B-.->|Full procedure|F[fa:fa-stethoscope<br>Board of Medical<br>Professionals];
+    C-.->|Opinion|H;
+    E-->H;
+    F-.->|Opinion|H[fa:fa-users<br>Technology Assessment Committee];
+    H-->|Advice|I[fa:fa-coins<br>NHIF<br>Department of Reimbursement];
+    I-.->|Proposal for decision|J[fa:fa-university<br>Ministry of Health];
+    I-.->K[fa:fa-map-signs<br>NHIF Decision];
+    J-->|MoH Decision|L[fa:fa-gavel<br>Official Gazette];
+
+classDef parhu stroke:#343a40,stroke-width:0.5px,font-style:normal,font-size:larger,text-align:center;
+class A,B,C,D,E,F,H,I,J,K,L parhu
