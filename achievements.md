@@ -21,6 +21,82 @@ The operational framework of FaAP was initially established by the health minist
 
 The second Memorandum of Understanding was signed in Warsaw, on the 15th of May, 2019.
 
+<ul class="timeline" id="timeline">
+    <li class="li past">
+        <div class="timestamp">
+            <span class="place">Warsaw</span>
+            <span class="date">03/03/2017<span>
+        </div>
+        <div class="status">
+            <h4> First Memorandum of Understanding </h4>
+        </div>
+    </li>
+    <li class="li past">
+        <div class="timestamp">
+            <span class="place">Zagreb</span>
+            <span class="date">01/06/2017<span>
+        </div>
+        <div class="status">
+      <h4> Coordonation Committee Meeting </h4>
+    </div>
+  </li>
+  <li class="li past">
+    <div class="timestamp">
+      <span class="place">Vilnius</span>
+      <span class="date">26/10/2017<span>
+    </div>
+    <div class="status">
+      <h4> Coordonation Committee Meeting </h4>
+    </div>
+  </li>
+  <li class="li past">
+    <div class="timestamp">
+      <span class="place">Warsaw</span>
+      <span class="date">14/12/2017<span>
+    </div>
+    <div class="status">
+      <h4> Coordonation Committee Meeting </h4>
+    </div>
+  </li>
+  <li class="li past">
+    <div class="timestamp">
+      <span class="place">Vilnius</span>
+      <span class="date">19/04/2018<span>
+          </div>
+    <div class="status">
+      <h4> Coordonation Committee Meeting </h4>
+    </div>
+  </li>
+  <li class="li past">
+    <div class="timestamp">
+      <span class="place">Budapest</span>
+      <span class="date">14/12/2018<span>
+          </div>
+    <div class="status">
+      <h4> Coordonation Committee Meeting </h4>
+    </div>
+  </li>
+          <li class="li past">
+    <div class="timestamp">
+      <span class="place">Warsaw</span>
+      <span class="date">15/05/2019<span>
+          </div>
+    <div class="status">
+      <h4> Coordonation Committee Meeting </h4>
+    </div>
+  </li>
+          <li class="li past">
+    <div class="timestamp">
+      <span class="place">Warsaw</span>
+      <span class="date">11/07/2019<span>
+          </div>
+    <div class="status">
+      <h4> Coordonation Committee Meeting </h4>
+    </div>
+  </li>
+</ul>
+
+
 ## Visibility
 
 > **There is an institutional regional cooperation initiative worth mentioning based on a memorandum of understanding signed by selected CEE countries called V4+ Fair and Affordable Pricing**. Its ultimate goal is to develop and harmonize methods of cooperation and negotiations with MAHs concerning pricing and conditions for reimbursement of selected health technologies with a special emphasis on the highest priced drugs including orphan medicinal products. The objective is to build an active institutional network, exchange of expertise and experience in pricing and reimbursement and conduct common health technology assessment aimed at facilitation access to effective and affordable treatment solutions.
