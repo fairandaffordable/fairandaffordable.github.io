@@ -22,7 +22,7 @@ The operational framework of FaAP was initially established by the health minist
 The second Memorandum of Understanding was signed in Warsaw, on the 15th of May, 2019.
 
 <div class="timeline_part">
-    <ul class="timeline" id="timeline">
+    <ul class="timeline" id="timeline_ac">
         <li class="li past">
             <div class="timestamp">
                 <span class="place">Warsaw</span>
@@ -32,7 +32,7 @@ The second Memorandum of Understanding was signed in Warsaw, on the 15th of May,
                 <h4> First Memorandum of Understanding </h4>
             </div>
         </li>
-        <li class="li past">
+        <li id="li past">
             <div class="timestamp">
                 <span class="place">Zagreb</span>
                 <span class="date">01/06/2017</span>
@@ -41,7 +41,7 @@ The second Memorandum of Understanding was signed in Warsaw, on the 15th of May,
                 <h4> Coordonation Committee Meeting </h4>
             </div>
         </li>
-        <li class="li past">
+        <li id="li past">
             <div class="timestamp">
                 <span class="place">Vilnius</span>
                 <span class="date">26/10/2017</span>
@@ -50,7 +50,7 @@ The second Memorandum of Understanding was signed in Warsaw, on the 15th of May,
                 <h4> Coordonation Committee Meeting </h4>
             </div>
         </li>
-        <li class="li past">
+        <li id="li past">
             <div class="timestamp">
                 <span class="place">Warsaw</span>
                 <span class="date">14/12/2017</span>
@@ -59,7 +59,7 @@ The second Memorandum of Understanding was signed in Warsaw, on the 15th of May,
                 <h4> Coordonation Committee Meeting </h4>
             </div>
         </li>
-        <li class="li past">
+        <li id="li past">
             <div class="timestamp">
                 <span class="place">Vilnius</span>
                 <span class="date">19/04/2018</span>
@@ -68,7 +68,7 @@ The second Memorandum of Understanding was signed in Warsaw, on the 15th of May,
                 <h4> Coordonation Committee Meeting </h4>
             </div>
         </li>
-        <li class="li past">
+        <li id="li past">
             <div class="timestamp">
                 <span class="place">Budapest</span>
                 <span class="date">14/12/2018</span>
@@ -77,7 +77,7 @@ The second Memorandum of Understanding was signed in Warsaw, on the 15th of May,
                 <h4> Coordonation Committee Meeting </h4>
             </div>
         </li>
-        <li class="li past">
+        <li id="li past">
             <div class="timestamp">
                 <span class="place">Warsaw</span>
                 <span class="date">15/05/2019</span>
@@ -86,7 +86,7 @@ The second Memorandum of Understanding was signed in Warsaw, on the 15th of May,
                 <h4> Second Memorandum of Understanding </h4>
             </div>
         </li>
-        <li class="li past">
+        <li id="li past">
             <div class="timestamp">
                 <span class="place">Warsaw</span>
                 <span class="date">11/07/2019</span>
