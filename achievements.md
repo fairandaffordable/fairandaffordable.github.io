@@ -20,84 +20,74 @@ The operational framework of FaAP was initially established by the health minist
 #### Warsaw - 11/07/2019
 
 The second Memorandum of Understanding was signed in Warsaw, on the 15th of May, 2019.
+              
+<div class="timeline">
+      <div class="ewrap">
+        <div class="event">
+          <strong class="date">03/03/2017 - Warsaw</strong>
+          <p class="text">
+            First Memorandum of Understanding
+          </p>
+        </div>
+      </div>
+      <div class="ewrap right">
+        <div class="event">
+          <strong class="date">01/06/2017 - Zagreb</strong>
+          <p class="text">
+            Coordonation Committee Meetin
+          </p>
+        </div>
+      </div>
+      <div class="ewrap">
+        <div class="event">
+          <strong class="date">26/10/2017 - Vilnius</strong>
+          <p class="text">
+            Coordonation Committee Meetin
+          </p>
+        </div>
+      </div>
+      <div class="ewrap right">
+        <div class="event">
+          <strong class="date">14/12/2017 - Warsaw</strong>
+          <p class="text">
+            Coordonation Committee Meetin
+          </p>
+        </div>
+      </div>
+      <div class="ewrap">
+        <div class="event">
+          <strong class="date">19/04/2018 - Vilnius</strong>
+          <p class="text">
+            Coordonation Committee Meetin
+          </p>
+        </div>
+      </div>
+      <div class="ewrap right">
+        <div class="event">
+          <strong class="date">14/12/2018 - Budapest</strong>
+          <p class="text">
+            Coordonation Committee Meetin
+          </p>
+        </div>
+      </div>
+      <div class="ewrap">
+        <div class="event">
+          <strong class="date">15/05/2019 - Warsaw</strong>
+          <p class="text">
+            Second Memorandum of Understanding
+          </p>
+        </div>
+      </div>
+      <div class="ewrap right">
+        <div class="event">
+          <strong class="date">11/07/2019 - Warsaw</strong>
+          <p class="text">
+            HTA meeting Warsaw
+          </p>
+        </div>
+      </div>
+</div>
 
-<div class="timeline_part">
-    <ul class="timeline" id="timeline_ac">
-        <li id="li_past">
-            <div class="timestamp">
-                <span class="place">Warsaw</span>
-                <span class="date">03/03/2017</span>
-            </div>
-            <div class="status">
-                <h4> First Memorandum of Understanding </h4>
-            </div>
-        </li>
-        <li id="li_past">
-            <div class="timestamp">
-                <span class="place">Zagreb</span>
-                <span class="date">01/06/2017</span>
-            </div>
-            <div class="status">
-                <h4> Coordonation Committee Meeting </h4>
-            </div>
-        </li>
-        <li id="li_past">
-            <div class="timestamp">
-                <span class="place">Vilnius</span>
-                <span class="date">26/10/2017</span>
-            </div>
-            <div class="status">
-                <h4> Coordonation Committee Meeting </h4>
-            </div>
-        </li>
-        <li id="li_past">
-            <div class="timestamp">
-                <span class="place">Warsaw</span>
-                <span class="date">14/12/2017</span>
-            </div>
-            <div class="status">
-                <h4> Coordonation Committee Meeting </h4>
-            </div>
-        </li>
-        <li id="li_past">
-            <div class="timestamp">
-                <span class="place">Vilnius</span>
-                <span class="date">19/04/2018</span>
-            </div>
-            <div class="status">
-                <h4> Coordonation Committee Meeting </h4>
-            </div>
-        </li>
-        <li id="li_past">
-            <div class="timestamp">
-                <span class="place">Budapest</span>
-                <span class="date">14/12/2018</span>
-            </div>
-            <div class="status">
-                <h4> Coordonation Committee Meeting </h4>
-            </div>
-        </li>
-        <li id="li_past">
-            <div class="timestamp">
-                <span class="place">Warsaw</span>
-                <span class="date">15/05/2019</span>
-            </div>
-            <div class="status">
-                <h4> Second Memorandum of Understanding </h4>
-            </div>
-        </li>
-        <li id="li_past">
-            <div class="timestamp">
-                <span class="place">Warsaw</span>
-                <span class="date">11/07/2019</span>
-            </div>
-            <div class="status">
-                <h4> HTA meeting Warsaw </h4>
-            </div>
-        </li>
-    </ul>
-</div>              
-        
 
 ## Visibility
 
