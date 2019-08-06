@@ -6,15 +6,12 @@ show_sidebar: false
 menubar: example_menu
 ---
 
-This page will be about data sharing in FaAP
-
-
 ### Key stakeholders in decision making
 
-| Country       | Financing body| HTA           | Ministry of Health|
-|---------------|---------------|---------------|-------------------|
-| Poland        | [Narodowy Fundusz Zdrowia](http://www.nfz.gov.pl/) | [Agencja Oceny Technologii Medycznych i Taryfikacji (AOTMiT)](http://www.aotm.gov.pl/www/) | [Ministerstwo Zdrowia Rzeczypospolitej Polskiej](https://www.gov.pl/web/zdrowie/) |
-| Hungary       | [Nemzeti Egészségbiztosítási Alapkezelő](http://www.neak.gov.hu) | [Technológia Értékelő Főosztály](https://ogyei.gov.hu/tei) | [Emberi Erőforrások Minisztériuma](https://www.kormany.hu/hu/emberi-eroforrasok-miniszteriuma) |
-| Lithuania     | [Valstybinė ligonių kasa](http://www.vlk.lt/) | [VALSTYBINĖ AKREDITAVIMO SVEIKATOS PRIEŽIŪROS VEIKLAI TARNYBA](http://www.vaspvt.gov.lt/) | [Lietuvos Respublikos sveikatos apsaugos ministerija](http://sam.lrv.lt/lt/) |
-| Slovakia      | [Všeobecná zdravotná poisťovňa](https://www.vszp.sk/) | [TBA]() | [Ministerstvo zdravotníctva Slovenskej republiky](https://www.health.gov.sk/Titulka) |
-| Czech Republic| [Všeobecná zdravotní pojišťovna](https://www.vzp.cz/) | [Státní ústav pro kontrolu léčiv](http://www.sukl.cz/) | [Ministerstvo zdravotnictví České republiky](https://www.mzcr.cz/) |
+| Country       | Financing agent| Health Technology Assessment | Ministry of Health|
+|---------------|----------------|------------------------------|-------------------|
+| Poland        | [Narodowy Fundusz Zdrowia (NFZ)](http://www.nfz.gov.pl/) | [Agencja Oceny Technologii Medycznych i Taryfikacji (AOTMiT)](http://www.aotm.gov.pl/www/) | [Ministerstwo Zdrowia Rzeczypospolitej Polskiej (MZRP)](https://www.gov.pl/web/zdrowie/) |
+| Hungary       | [Nemzeti Egészségbiztosítási Alapkezelő (NEAK)](http://www.neak.gov.hu) | [Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (OGYÉI)](https://ogyei.gov.hu/tei) | [Emberi Erőforrások Minisztériuma (EMMI)](https://www.kormany.hu/hu/emberi-eroforrasok-miniszteriuma) |
+| Lithuania     | [Valstybinė Ligonių Kasa (VLK)](http://www.vlk.lt/) | [Valstybiné Akreditavimo Sveikatos Prieziuros Veiklai Tarnyba (VASPVT)](http://www.vaspvt.gov.lt/) | [Lietuvos Respublikos sveikatos Apsaugos Ministerija (LRSAM)](http://sam.lrv.lt/lt/) |
+| Slovakia      | [Všeobecná Zdravotná Poisťovňa (VsZP)](https://www.vszp.sk/) | [TBA]() | [Ministerstvo zdravotníctva Slovenskej Republiky (MZSR)](https://www.health.gov.sk/Titulka) |
+| Czech Republic| [Všeobecná Zdravotní Pojišťovna (VZP)](https://www.vzp.cz/) | [Státní Ústav Pro Kontrolu Léčiv (SÚKL)](http://www.sukl.cz/) | [Ministerstvo zdravotnictví České Republiky (MZCR)](https://www.mzcr.cz/) |

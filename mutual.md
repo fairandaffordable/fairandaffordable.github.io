@@ -6,9 +6,7 @@ show_sidebar: false
 menubar: example_menu
 ---
 
-This is page will be about mutual cooperation in FaAP.
-
-The local reimbursement application procedures in partnering FaAP countries are as following:
+The local reimbursement application procedures in each of the partnering FaAP countries are introduced below.
 
 ### Czech Republic
 
@@ -18,8 +16,10 @@ The local reimbursement process is initiated by the (representative of the) mark
 
 {% include mermaid_abra.html%}
 
+The database of available products with their reimbursement status is available [here](http://www.oep.hu/felso_menu/szakmai_oldalak/gyogyszer_segedeszkoz_gyogyfurdo_tamogatas/egeszsegugyi_vallalkozasoknak/pupha/Vegleges_PUPHA.html?target=_blank). The regulatory database is available at [this website](https://ogyei.gov.hu/drug_database?target=_blank) 
+
 ### Lithuania
 
 ### Poland
 
-### Slovak Republic
+### Slovakia

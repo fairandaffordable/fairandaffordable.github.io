@@ -5,21 +5,7 @@ layout: page
 show_sidebar: false
 ---
 
-The operational framework of FaAP was initially established by the health ministers of participant countries signing the first Memorandum of Understanding on 3rd of March, 2017. Since the signature, the participating countries organized meetings according to the memorandum, in rotation, depicting the progress in our cooperation.
-
-#### Zagreb - 01/06/2017
-
-#### Vilnius - 26/10/2017
-
-#### Warsaw - 14/12/2017
-
-#### Vilnius - 19/04/2018
-
-#### Budapest - 14/12/2018
-
-#### Warsaw - 11/07/2019
-
-The second Memorandum of Understanding was signed in Warsaw, on the 15th of May, 2019.
+The operational framework of FaAP was initially established by the health ministers of participant countries signing the first Memorandum of Understanding on 3rd of March, 2017. Since the signature, the participating countries organized meetings according to the memorandum, in rotation, depicting the progress in our cooperation. The second Memorandum of Understanding was signed in Warsaw, on the 15th of May, 2019.
               
 <div class="timeline">
       <div class="ewrap">
@@ -34,7 +20,7 @@ The second Memorandum of Understanding was signed in Warsaw, on the 15th of May,
         <div class="event">
           <strong class="date">01/06/2017 - Zagreb</strong>
           <p class="text">
-            Coordonation Committee Meetin
+            Coordonation Committee Meeting
           </p>
         </div>
       </div>
@@ -42,7 +28,7 @@ The second Memorandum of Understanding was signed in Warsaw, on the 15th of May,
         <div class="event">
           <strong class="date">26/10/2017 - Vilnius</strong>
           <p class="text">
-            Coordonation Committee Meetin
+            Coordonation Committee Meeting
           </p>
         </div>
       </div>
@@ -50,7 +36,7 @@ The second Memorandum of Understanding was signed in Warsaw, on the 15th of May,
         <div class="event">
           <strong class="date">14/12/2017 - Warsaw</strong>
           <p class="text">
-            Coordonation Committee Meetin
+            Coordonation Committee Meeting
           </p>
         </div>
       </div>
@@ -58,7 +44,7 @@ The second Memorandum of Understanding was signed in Warsaw, on the 15th of May,
         <div class="event">
           <strong class="date">19/04/2018 - Vilnius</strong>
           <p class="text">
-            Coordonation Committee Meetin
+            Coordonation Committee Meeting
           </p>
         </div>
       </div>
@@ -66,7 +52,7 @@ The second Memorandum of Understanding was signed in Warsaw, on the 15th of May,
         <div class="event">
           <strong class="date">14/12/2018 - Budapest</strong>
           <p class="text">
-            Coordonation Committee Meetin
+            Coordonation Committee Meeting
           </p>
         </div>
       </div>
