@@ -12,7 +12,7 @@
                     {% include menubar.html %}
                 </div>
                 {% endif %}
-                <div class="column">
+                <div class="column" onLoad="buildHtmlTable()">
                     {% include tabs.html %}
                     {{ content }}
                 </div>
