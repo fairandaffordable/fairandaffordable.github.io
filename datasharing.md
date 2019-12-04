@@ -15,3 +15,20 @@ menubar: example_menu
 | Lithuania     | [Valstybinė Ligonių Kasa (VLK)](http://www.vlk.lt/) | [Valstybiné Akreditavimo Sveikatos Prieziuros Veiklai Tarnyba (VASPVT)](http://www.vaspvt.gov.lt/) | [Lietuvos Respublikos sveikatos Apsaugos Ministerija (LRSAM)](http://sam.lrv.lt/lt/) |
 | Slovakia      | [Všeobecná Zdravotná Poisťovňa (VsZP)](https://www.vszp.sk/) | [TBA]() | [Ministerstvo zdravotníctva Slovenskej Republiky (MZSR)](https://www.health.gov.sk/Titulka) |
 | Czech Republic| [Všeobecná Zdravotní Pojišťovna (VZP)](https://www.vzp.cz/) | [Státní Ústav Pro Kontrolu Léčiv (SÚKL)](http://www.sukl.cz/) | [Ministerstvo zdravotnictví České Republiky (MZCR)](https://www.mzcr.cz/) |
+
+### Products undergoing evaluation
+#### Hungary
+<table id="table_id">
+<thead>
+<tr>
+<th>Product</th>
+<th>Submission Date</th>
+</tr>
+</thead>
+{% for gyogyszer in site.data.neak_gyogyszerek %}
+  <tr>
+    <td>{{gyogyszer.Product}}</td>
+    <td>{{gyogyszer.Submission}}</td>
+  </tr>
+{% endfor %}
+</table>
