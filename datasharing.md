@@ -17,7 +17,13 @@ menubar: example_menu
 | Czech Republic| [Všeobecná Zdravotní Pojišťovna (VZP)](https://www.vzp.cz/) | [Státní Ústav Pro Kontrolu Léčiv (SÚKL)](http://www.sukl.cz/) | [Ministerstvo zdravotnictví České Republiky (MZCR)](https://www.mzcr.cz/) |
 
 ### Products undergoing evaluation
+
+This section demonstrates products undergoing evaluation in each of the participating countries.
+
 #### Hungary
+
+The products undergoing evaluation are published by the National Health Insurance Fund. This data is used to generate and populate the table below.
+
 <table id="table_id">
 <thead>
 <tr>
