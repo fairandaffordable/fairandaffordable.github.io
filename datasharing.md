@@ -22,7 +22,7 @@ This section demonstrates products undergoing evaluation in each of the particip
 
 #### Hungary
 
-The products undergoing evaluation are published by the National Health Insurance Fund. This data is used to generate and populate the table below.
+The products undergoing evaluation are published by the National Health Insurance Fund. This data is used to generate and populate the table below on product names and submission dates.
 
 <table id="table_id">
 <thead>
