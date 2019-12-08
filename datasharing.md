@@ -8,6 +8,9 @@ menubar: example_menu
 
 ### Key stakeholders in decision making
 
+The table below helps to identify each stakeholder (Financing agent, HTA, Ministry of Health) 
+ in the reimbursement procedure of participating countries.
+
 | Country       | Financing agent| Health Technology Assessment | Ministry of Health|
 |---------------|----------------|------------------------------|-------------------|
 | Poland        | [Narodowy Fundusz Zdrowia (NFZ)](http://www.nfz.gov.pl/) | [Agencja Oceny Technologii Medycznych i Taryfikacji (AOTMiT)](http://www.aotm.gov.pl/www/) | [Ministerstwo Zdrowia Rzeczypospolitej Polskiej (MZRP)](https://www.gov.pl/web/zdrowie/) |
@@ -19,6 +22,8 @@ menubar: example_menu
 ### Products undergoing evaluation
 
 This section demonstrates products undergoing evaluation in each of the participating countries.
+
+#### Poland
 
 #### Hungary
 
@@ -38,3 +43,9 @@ The products undergoing evaluation are published by the National Health Insuranc
   </tr>
 {% endfor %}
 </table>
+
+#### Lithuania
+
+#### Slovakia
+
+#### Czech Republic

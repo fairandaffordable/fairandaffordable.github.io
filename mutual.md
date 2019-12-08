@@ -6,7 +6,8 @@ show_sidebar: false
 menubar: example_menu
 ---
 
-The local reimbursement application procedures in each of the partnering FaAP countries are introduced below.
+The local reimbursement application procedures in each of the partnering FaAP countries are introduced below to facilitate cooperation
+between countries.
 
 ### Czech Republic
 
