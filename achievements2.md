@@ -100,7 +100,7 @@ The operational framework of FaAP was initially established by the health minist
 </section>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.5/jquery.mobile.min.js'></script>
-<script  src="./timeline.js"></script>
+<script  src="/assets/js/timeline.js"></script>
 
 ## Visibility
 
