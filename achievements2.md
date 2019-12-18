@@ -8,10 +8,10 @@ show_sidebar: false
 The operational framework of FaAP was initially established by the health ministers of participant countries signing the first Memorandum of Understanding on 3rd of March, 2017. Since the signature, the participating countries organized meetings according to the memorandum, in rotation, depicting the progress in our cooperation. The second Memorandum of Understanding was signed in Warsaw, on the 15th of May, 2019.
               
 <section class="cd-horizontal-timeline">
-	<div class="timeline">
+	<div class="cd-timeline">
 		<div class="events-wrapper">
 			<div class="events">
-				<ol>
+				<ol class="cd-olist">
 					<li><a href="#0" data-date="03/03/2017" class="selected">03 March</a></li>
 					<li><a href="#0" data-date="01/06/2017">01 June</a></li>
 					<li><a href="#0" data-date="26/10/2017">26 Oct</a></li>
