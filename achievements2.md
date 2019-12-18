@@ -31,7 +31,7 @@ The operational framework of FaAP was initially established by the health minist
 		</ul> <!-- .cd-timeline-navigation -->
 	</div> <!-- .timeline -->
 	<div class="events-content">
-		<ol>
+		<ol class="cd-olist">
 			<li class="selected" data-date="03/03/2017">
 				<h2>Warsaw</h2>
 				<em>March 3rd, 2017</em>
