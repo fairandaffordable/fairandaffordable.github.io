@@ -60,7 +60,7 @@ The operational framework of FaAP was initially established by the health minist
 					Coordonation Committee Meeting
 				</p>
 			</li>
-			<li data-date="19/04/2018">
+			<li id="cd-list" data-date="19/04/2018">
 				<h2>Vilnius</h2>
 				<em>April 19th, 2018</em>
 				<p>	
