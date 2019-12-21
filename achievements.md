@@ -7,73 +7,100 @@ show_sidebar: false
 
 The operational framework of FaAP was initially established by the health ministers of participant countries signing the first Memorandum of Understanding on 3rd of March, 2017. Since the signature, the participating countries organized meetings according to the memorandum, in rotation, depicting the progress in our cooperation. The second Memorandum of Understanding was signed in Warsaw, on the 15th of May, 2019.
               
-<div class="timeline">
-      <div class="ewrap">
-        <div class="event">
-          <strong class="date">03/03/2017 - Warsaw</strong>
-          <p class="text">
-            First Memorandum of Understanding
-          </p>
-        </div>
-      </div>
-      <div class="ewrap right">
-        <div class="event">
-          <strong class="date">01/06/2017 - Zagreb</strong>
-          <p class="text">
-            Coordonation Committee Meeting
-          </p>
-        </div>
-      </div>
-      <div class="ewrap">
-        <div class="event">
-          <strong class="date">26/10/2017 - Vilnius</strong>
-          <p class="text">
-            Coordonation Committee Meeting
-          </p>
-        </div>
-      </div>
-      <div class="ewrap right">
-        <div class="event">
-          <strong class="date">14/12/2017 - Warsaw</strong>
-          <p class="text">
-            Coordonation Committee Meeting
-          </p>
-        </div>
-      </div>
-      <div class="ewrap">
-        <div class="event">
-          <strong class="date">19/04/2018 - Vilnius</strong>
-          <p class="text">
-            Coordonation Committee Meeting
-          </p>
-        </div>
-      </div>
-      <div class="ewrap right">
-        <div class="event">
-          <strong class="date">14/12/2018 - Budapest</strong>
-          <p class="text">
-            Coordonation Committee Meeting
-          </p>
-        </div>
-      </div>
-      <div class="ewrap">
-        <div class="event">
-          <strong class="date">15/05/2019 - Warsaw</strong>
-          <p class="text">
-            Second Memorandum of Understanding
-          </p>
-        </div>
-      </div>
-      <div class="ewrap right">
-        <div class="event">
-          <strong class="date">11/07/2019 - Warsaw</strong>
-          <p class="text">
-            HTA meeting Warsaw
-          </p>
-        </div>
-      </div>
-</div>
-
+<section class="cd-horizontal-timeline">
+	<div class="cd-timeline">
+		<div class="events-wrapper">
+			<div class="events">
+				<ol>
+					<li id="cd-list"><a href="#0" data-date="03/03/2017" class="selected">03 March</a></li>
+					<li id="cd-list"><a href="#0" data-date="01/06/2017">01 June</a></li>
+					<li id="cd-list"><a href="#0" data-date="26/10/2017">26 Oct</a></li>
+					<li id="cd-list"><a href="#0" data-date="14/12/2017">14 Dec</a></li>
+					<li id="cd-list"><a href="#0" data-date="19/04/2018">19 April</a></li>
+                    <li id="cd-list"><a href="#0" data-date="14/12/2018">14 Dec</a></li>
+                    <li id="cd-list"><a href="#0" data-date="15/05/2019">15 May</a></li>
+                    <li id="cd-list"><a href="#0" data-date="11/07/2019">11 July</a></li>
+                    <li id="cd-list"><a href="#0" data-date="03/11/2019">03-05 Nov</a></li>
+				</ol>
+				<span class="filling-line" aria-hidden="true"></span>
+			</div> <!-- .events -->
+		</div> <!-- .events-wrapper -->
+		<ul class="cd-timeline-navigation">
+			<li><a href="#0" class="prev inactive">Prev</a></li>
+			<li><a href="#0" class="next">Next</a></li>
+		</ul> <!-- .cd-timeline-navigation -->
+	</div> <!-- .timeline -->
+	<div class="events-content">
+		<ol>
+			<li class="selected" id="cd-list" data-date="03/03/2017">
+				<h2>Warsaw</h2>
+				<em>March 3rd, 2017</em>
+				<p>	
+					Signing of the first Memorandum of Understanding.
+				</p>
+			</li>
+			<li id="cd-list" data-date="01/06/2017">
+				<h2>Zagreb</h2>
+				<em>June 1st, 2017</em>
+				<p>	
+					Coordination Committee meeting
+				</p>
+			</li>
+			<li id="cd-list" data-date="26/10/2017">
+				<h2>Vilnius</h2>
+				<em>October 26th, 2017</em>
+				<p>	
+					Coordonation Committee Meeting
+				</p>
+			</li>
+			<li id="cd-list" data-date="14/12/2017">
+				<h2>Warsaw</h2>
+				<em>December 14th, 2017</em>
+				<p>	
+					Coordonation Committee Meeting
+				</p>
+			</li>
+			<li id="cd-list" data-date="19/04/2018">
+				<h2>Vilnius</h2>
+				<em>April 19th, 2018</em>
+				<p>	
+					Coordonation Committee Meeting
+				</p>
+			</li>
+			<li id="cd-list" data-date="14/12/2018">
+				<h2>Budapest</h2>
+				<em>December 14th, 2018</em>
+				<p>	
+					Coordonation Committee Meeting
+				</p>
+			</li>
+			<li id="cd-list" data-date="15/05/2019">
+				<h2>Warsaw</h2>
+				<em>May 15th, 2019</em>
+				<p>	
+					Signing of the second Memorandum of Understanding
+				</p>
+			</li>
+			<li id="cd-list" data-date="11/07/2019">
+				<h2>Warsaw</h2>
+				<em>July 11th, 2019</em>
+				<p>	
+					HTA meeting
+				</p>
+			</li>
+      <li id="cd-list" data-date="03/11/2019">
+				<h2>Prague</h2>
+				<em>November 3rd-5th, 2019</em>
+				<p>	
+					Coordination Committee Meeting
+				</p>
+			</li>
+		</ol>
+	</div> <!-- .events-content -->
+</section>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.5/jquery.mobile.min.js'></script>
+<script  src="/assets/js/timeline.js"></script>
 
 ## Visibility
 

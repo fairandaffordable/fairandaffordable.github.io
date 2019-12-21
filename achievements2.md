@@ -8,19 +8,19 @@ show_sidebar: false
 The operational framework of FaAP was initially established by the health ministers of participant countries signing the first Memorandum of Understanding on 3rd of March, 2017. Since the signature, the participating countries organized meetings according to the memorandum, in rotation, depicting the progress in our cooperation. The second Memorandum of Understanding was signed in Warsaw, on the 15th of May, 2019.
               
 <section class="cd-horizontal-timeline">
-	<div class="timeline">
+	<div class="cd-timeline">
 		<div class="events-wrapper">
 			<div class="events">
 				<ol>
-					<li><a href="#0" data-date="03/03/2017" class="selected">03 March</a></li>
-					<li><a href="#0" data-date="01/06/2017">01 June</a></li>
-					<li><a href="#0" data-date="26/10/2017">26 Oct</a></li>
-					<li><a href="#0" data-date="14/12/2017">14 Dec</a></li>
-					<li><a href="#0" data-date="19/04/2018">19 April</a></li>
-                    <li><a href="#0" data-date="14/12/2018">14 Dec</a></li>
-                    <li><a href="#0" data-date="15/05/2019">15 May</a></li>
-                    <li><a href="#0" data-date="11/07/2019">11 July</a></li>
-                    <li><a href="#0" data-date="03/11/2019">03-05 Nov</a></li>
+					<li id="cd-list"><a href="#0" data-date="03/03/2017" class="selected">03 March</a></li>
+					<li id="cd-list"><a href="#0" data-date="01/06/2017">01 June</a></li>
+					<li id="cd-list"><a href="#0" data-date="26/10/2017">26 Oct</a></li>
+					<li id="cd-list"><a href="#0" data-date="14/12/2017">14 Dec</a></li>
+					<li id="cd-list"><a href="#0" data-date="19/04/2018">19 April</a></li>
+                    <li id="cd-list"><a href="#0" data-date="14/12/2018">14 Dec</a></li>
+                    <li id="cd-list"><a href="#0" data-date="15/05/2019">15 May</a></li>
+                    <li id="cd-list"><a href="#0" data-date="11/07/2019">11 July</a></li>
+                    <li id="cd-list"><a href="#0" data-date="03/11/2019">03-05 Nov</a></li>
 				</ol>
 				<span class="filling-line" aria-hidden="true"></span>
 			</div> <!-- .events -->
@@ -32,63 +32,63 @@ The operational framework of FaAP was initially established by the health minist
 	</div> <!-- .timeline -->
 	<div class="events-content">
 		<ol>
-			<li class="selected" data-date="03/03/2017">
+			<li class="selected" id="cd-list" data-date="03/03/2017">
 				<h2>Warsaw</h2>
 				<em>March 3rd, 2017</em>
 				<p>	
 					Signing of the first Memorandum of Understanding.
 				</p>
 			</li>
-			<li data-date="01/06/2017">
+			<li id="cd-list" data-date="01/06/2017">
 				<h2>Zagreb</h2>
 				<em>June 1st, 2017</em>
 				<p>	
 					Coordination Committee meeting
 				</p>
 			</li>
-			<li data-date="26/10/2017">
+			<li id="cd-list" data-date="26/10/2017">
 				<h2>Vilnius</h2>
 				<em>October 26th, 2017</em>
 				<p>	
 					Coordonation Committee Meeting
 				</p>
 			</li>
-			<li data-date="14/12/2017">
+			<li id="cd-list" data-date="14/12/2017">
 				<h2>Warsaw</h2>
 				<em>December 14th, 2017</em>
 				<p>	
 					Coordonation Committee Meeting
 				</p>
 			</li>
-			<li data-date="19/04/2018">
+			<li id="cd-list" data-date="19/04/2018">
 				<h2>Vilnius</h2>
 				<em>April 19th, 2018</em>
 				<p>	
 					Coordonation Committee Meeting
 				</p>
 			</li>
-			<li data-date="14/12/2018">
+			<li id="cd-list" data-date="14/12/2018">
 				<h2>Budapest</h2>
 				<em>December 14th, 2018</em>
 				<p>	
 					Coordonation Committee Meeting
 				</p>
 			</li>
-			<li data-date="15/05/2019">
+			<li id="cd-list" data-date="15/05/2019">
 				<h2>Warsaw</h2>
 				<em>May 15th, 2019</em>
 				<p>	
 					Signing of the second Memorandum of Understanding
 				</p>
 			</li>
-			<li data-date="11/07/2019">
+			<li id="cd-list" data-date="11/07/2019">
 				<h2>Warsaw</h2>
 				<em>July 11th, 2019</em>
 				<p>	
 					HTA meeting
 				</p>
 			</li>
-      <li data-date="03/11/2019">
+      <li id="cd-list" data-date="03/11/2019">
 				<h2>Prague</h2>
 				<em>November 3rd-5th, 2019</em>
 				<p>	
