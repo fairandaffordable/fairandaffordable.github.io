@@ -98,9 +98,9 @@ The operational framework of FaAP was initially established by the health minist
 		</ol>
 	</div> <!-- .events-content -->
 </section>
-<script>$.ajaxPrefilter(function( options, originalOptions, jqXHR ) { options.async = true; });</script>
+<!--<script>$.ajaxPrefilter(function( options, originalOptions, jqXHR ) { options.async = true; });</script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.5/jquery.mobile.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.5/jquery.mobile.min.js'></script>-->
 <script src="/assets/js/timeline.js"></script>
 
 ## Visibility
