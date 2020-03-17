@@ -49,3 +49,17 @@ The products undergoing evaluation are published by the National Health Insuranc
 #### Slovakia
 
 #### Czech Republic
+<table id="table_id2">
+<thead>
+<tr>
+<th>Product</th>
+<th>Submission Date</th>
+</tr>
+</thead>
+{% for gyogyszer in site.data.sukl_gyogyszerek %}
+  <tr>
+    <td>{{gyogyszer.Product}}</td>
+    <td>{{gyogyszer.Submission}}</td>
+  </tr>
+{% endfor %}
+</table>
