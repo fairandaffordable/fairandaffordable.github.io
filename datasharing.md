@@ -52,7 +52,7 @@ The products undergoing evaluation are published by the National Health Insuranc
 
 The products undergoing evaluation are published by SÚKL.
 
-<table id="table_id">
+<table id="table_id2">
 <thead>
 <tr>
 <th>Product</th>
