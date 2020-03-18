@@ -5,7 +5,7 @@
 "Roactemra 162mg solution for injection in pre-filled syringe",2018-12-19
 "Kineret 100 mg/0,67 ml solution for injection in pre-filled syringe",2018-12-21
 "Gammanorm 165 mg/ml solution for injection, 1x12 ml",2019-01-16
-"Uptravi 200 mikrogramm film-coated tablets",2019-01-22
+"Uptravi 200 microgram film-coated tablets",2019-01-22
 "Testarzon 20 mg/g transzdermális gél, 1x85,5 g többdosesos tartályban (56 doses)",2019-01-23
 "Liprolog 200 egység/ml solution for injection in pre-filled pen",2019-01-30
 "Kivizidiale 0,04 mg/ml  + 5 mg/ml oldatos szemcsepp 1x2,5 ml pp tartályban",2019-01-31
@@ -23,8 +23,8 @@
 "Quinsair 240 mg oldat porlasztásra, 56x2,4ml ampulla + 1 porlasztó",2019-02-19
 "Imbruvica 140 mg hard capsule",2019-02-28
 "Zytiga 500 mg film-coated tablets",2019-02-28
-"Plegridy 63 mikrogramm solution for injection in pre-filled pen, plegridy 94 mikrogramm solution for injection in pre-filled pen, 1+1x63+94mcg előretöltött injekciós tollban",2019-03-01
-"Plegridy 125 mikrogramm solution for injection in pre-filled pen, 2x előretöltött injekciós tollban",2019-03-01
+"Plegridy 63 microgram solution for injection in pre-filled pen, plegridy 94 microgram solution for injection in pre-filled pen, 1+1x63+94mcg in pre-filled pen",2019-03-01
+"Plegridy 125 microgram solution for injection in pre-filled pen, 2x in pre-filled pen",2019-03-01
 "Ibrance 125 mg hard capsule, 21x in blister",2019-03-01
 "Praluent 75 mg solution for injection in pre-filled pen",2019-03-01
 "Darzalex 20 mg/ml concentrate for solution for infusion, 1x5ml injection vial",2019-03-01
@@ -54,9 +54,9 @@
 "Truxima 500mg concentrate for solution for infusion",2019-05-16
 "Vosevi 400 mg/100 mg/100 mg film-coated tablets 28x",2019-05-18
 "Pentaglobin 50 mg/ml solution for infusion, 1x100 ml",2019-05-22
-"Nolpaza 20 mg gyomornedv-ellenálló tablets, 28x in blister",2019-06-01
-"Noacid 20 mg gyomornedv-ellenálló tablets, 28x in blister",2019-06-04
-"Noacid 40 mg gyomornedv-ellenálló tablets, 28x in blister",2019-06-04
+"Nolpaza 20 mg gastro-resistant tablets tablets, 28x in blister",2019-06-01
+"Noacid 20 mg gastro-resistant tablets tablets, 28x in blister",2019-06-04
+"Noacid 40 mg gastro-resistant tablets tablets, 28x in blister",2019-06-04
 "Skyrizi 75mg solution for injection in pre-filled syringe",2019-06-04
 "Jinarc 15 mg tablets + jinarc 45 mg tablets, 28+28x in blister",2019-06-07
 "Crysvita 20 mg solution for injection, 1x10 ml injection vial",2019-06-12
@@ -80,7 +80,7 @@
 "Ocaliva 5 mg film-coated tablets, 30x",2019-07-26
 "Taltz 80 mg solution for injection in pre-filled pen, 1x",2019-08-02
 "Human albumin kedrion 200 g/l solution for infusion",2019-08-06
-"Rekovelle 12 mikrogramm/0,36 ml solution for injection 1x előretöltött injekciós tollban+3injekciós tű",2019-08-07
+"Rekovelle 12 microgram/0,36 ml solution for injection 1x in pre-filled pen+3injekciós tű",2019-08-07
 "Blemaren effervescent tablets, 4x20 pieces",2019-08-08
 "Suprax 100mg/5ml por belsőleges szuszpenzióhoz 1x26,5g üvegben 50ml -hez",2019-08-24
 "Privigen 100 mg/ml (1x400ml) solution for infusion",2019-09-03
@@ -123,7 +123,7 @@
 "Kevzara 150mg solution for injection in pre-filled pen 2x",2019-11-14
 "Kevzara 200mg solution for injection in pre-filled pen 2x",2019-11-14
 "Hemlibra 150 mg/ml solution for injection, 1x60mg/0,4 ml injection vial",2019-11-23
-"Sabacomb 250 mikrogramm/ 100 mikrogramm túlnyomásos inhalációs szuszpenzió, 1 x 200 doses",2019-11-28
+"Sabacomb 250 microgram/ 100 microgram pressurized inhalation suspension, 1 x 200 doses",2019-11-28
 "Aksolin 875 mg/125mg powder for internal infusion 14x",2019-11-30
 "Tecentriq 1200 mg powder for concentrate for solution for infusion",2019-11-30
 "Tecentriq 840 mg concentrate for solution for infusion, 1x14 ml injection vial",2019-11-30
@@ -135,7 +135,7 @@
 "Keytruda 25mg/ml concentrate for solution for infusion, 1x",2019-12-18
 "Jivi 500ne powder and solvent for solution for injection 1x",2019-12-18
 "Cabometyx 20mg film-coated tablets, 30x",2019-12-18
-"Kymriah 1,2x10^6-6x10^8 sejt diszperziós infusion",2019-12-20
+"Kymriah 1,2x10^6-6x10^8 cells dispersion for infusion",2019-12-20
 "Clexane 2000 ne (20 mg)/0,2 ml solution for injection in pre-filled syringe, 10x",2019-12-20
 "Clexane 4000 ne (40 mg)/0,4 ml solution for injection in pre-filled syringe, 10x",2019-12-20
 "Clexane 6000 ne (60 mg)/0,6 ml solution for injection in pre-filled syringe, 10x",2019-12-20
