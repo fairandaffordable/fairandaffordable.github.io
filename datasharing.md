@@ -50,7 +50,7 @@ The products undergoing evaluation are published by the National Health Insuranc
 
 #### Czech Republic
 
-The products undergoing evaluation are published by SÚKL.
+The products undergoing evaluation are published by SÚKL (undergoing testing right now).
 
 <table id="table_id2">
 <thead>
