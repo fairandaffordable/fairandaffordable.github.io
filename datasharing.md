@@ -6,7 +6,7 @@ show_sidebar: false
 menubar: example_menu
 ---
 
-### Key stakeholders in decision making
+## Key stakeholders in decision making
 
 The table below helps to identify each stakeholder (Financing agent, HTA, Ministry of Health) 
  in the reimbursement procedure of participating countries.
@@ -19,13 +19,13 @@ The table below helps to identify each stakeholder (Financing agent, HTA, Minist
 | Slovakia      | [Všeobecná Zdravotná Poisťovňa (VsZP)](https://www.vszp.sk/) | [TBA]() | [Ministerstvo zdravotníctva Slovenskej Republiky (MZSR)](https://www.health.gov.sk/Titulka) |
 | Czech Republic| [Všeobecná Zdravotní Pojišťovna (VZP)](https://www.vzp.cz/) | [Státní Ústav Pro Kontrolu Léčiv (SÚKL)](http://www.sukl.cz/) | [Ministerstvo zdravotnictví České Republiky (MZCR)](https://www.mzcr.cz/) |
 
-### Products undergoing evaluation
+## Products undergoing evaluation
 
 This section demonstrates products undergoing evaluation in each of the participating countries.
 
-#### Poland
+### Poland
 
-#### Hungary
+### Hungary
 
 The products undergoing evaluation are published by the National Health Insurance Fund. [This data](www.neak.gov.hu/felso_menu/szakmai_oldalak/gyogyszer_segedeszkoz_gyogyfurdo_tamogatas/egeszsegugyi_vallalkozasoknak/gyartok_forgalomba_hozok/KERELEM_IND_ELJ_GYOGYSZ_TAPSZ.html7?target=_blank) is used to generate and populate the table below on product names and submission dates.
 
@@ -44,11 +44,11 @@ The products undergoing evaluation are published by the National Health Insuranc
 {% endfor %}
 </table>
 
-#### Lithuania
+### Lithuania
 
-#### Slovakia
+### Slovakia
 
-#### Czech Republic
+### Czech Republic
 
 The products undergoing evaluation are published by the State Institute for Drug Control (SÚKL). [This data](http://www.sukl.cz/sukl/prehled-spravnich-rizeni?target=blank) is used to generate and populate the table below on product names and submission dates.
 
