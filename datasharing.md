@@ -27,7 +27,7 @@ This section demonstrates products undergoing evaluation in each of the particip
 
 #### Hungary
 
-The products undergoing evaluation are published by the National Health Insurance Fund. This data is used to generate and populate the table below on product names and submission dates.
+The products undergoing evaluation are published by the National Health Insurance Fund. [This data](www.neak.gov.hu/felso_menu/szakmai_oldalak/gyogyszer_segedeszkoz_gyogyfurdo_tamogatas/egeszsegugyi_vallalkozasoknak/gyartok_forgalomba_hozok/KERELEM_IND_ELJ_GYOGYSZ_TAPSZ.html7?target=_blank) is used to generate and populate the table below on product names and submission dates.
 
 <table id="table_id">
 <thead>
@@ -50,7 +50,7 @@ The products undergoing evaluation are published by the National Health Insuranc
 
 #### Czech Republic
 
-The products undergoing evaluation are published by SÚKL (undergoing testing right now).
+The products undergoing evaluation are published by the State Institute for Drug Control (SÚKL). [This data](http://www.sukl.cz/sukl/prehled-spravnich-rizeni?target=blank) is used to generate and populate the table below on product names and submission dates.
 
 <table id="table_id2">
 <thead>
