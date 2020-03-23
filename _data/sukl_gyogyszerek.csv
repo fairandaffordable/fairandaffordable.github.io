@@ -156,6 +156,22 @@
 "Gamunex 100mg/ml inf sol 1x50ml i",2019-12-08
 "Gamunex 100mg/ml inf sol 1x100ml i",2019-12-08
 "Gamunex 100mg/ml inf sol 1x10ml i",2019-12-08
+"Fucicort lipid 20 mg/g + 1 mg/g 20mg/g+1mg/g crm 5g",2019-12-08
+"Fucicort lipid 20 mg/g + 1 mg/g 20mg/g+1mg/g crm 30g",2019-12-08
+"Fucicort lipid 20 mg/g + 1 mg/g 20mg/g+1mg/g crm 60g",2019-12-08
+"Megamox 1 g 875mg/125mg film-coated tablets 14",2019-12-08
+"Canri 20mg/ml inf cnc sol 1x2ml",2019-12-08
+"Canri 20mg/ml inf cnc sol 1x5ml",2019-12-08
+"Orfadin 2mg cps dur 60",2019-12-08
+"Ganfort 0,3mg/ml+5mg/ml oph gtt sol 1x3ml",2019-12-08
+"Lumigan 0,3mg/ml oph gtt sol 1x3ml",2019-12-08
+"Alerpalux 1mg/ml oph gtt sol 3x5ml",2019-12-08
+"Roxilip 10mg film-coated tablets 28",2019-12-08
+"Vasopirin 100mg tbl ent 60",2019-12-08
+"Emerade 150 mikrogramů 150mcg inj sol pep 2x0,15ml",2019-12-08
+"Emerade 300 mikrogramů 300mcg inj sol pep 2x0,3ml",2019-12-08
+"Emerade 500 mikrogramů 500mcg inj sol pep 2x0,5ml",2019-12-08
+"Relistor 12mg/0,6ml inj sol 7x0,6ml+7stř",2019-12-08
 "Nebivolol sandoz 5 mg 5mg tbl nob 14",2019-12-08
 "Nebivolol sandoz 5 mg 5mg tbl nob 28",2019-12-08
 "Xaleec 8mg tbl nob 30 i",2019-12-08
@@ -179,22 +195,6 @@
 "Dyxal 5mg cps dur 30x1",2019-12-08
 "Dyxal 20mg cps dur 30x1",2019-12-08
 "Flukonazol sandoz 100mg cps dur 28",2019-12-08
-"Fucicort lipid 20 mg/g + 1 mg/g 20mg/g+1mg/g crm 5g",2019-12-08
-"Fucicort lipid 20 mg/g + 1 mg/g 20mg/g+1mg/g crm 30g",2019-12-08
-"Fucicort lipid 20 mg/g + 1 mg/g 20mg/g+1mg/g crm 60g",2019-12-08
-"Megamox 1 g 875mg/125mg film-coated tablets 14",2019-12-08
-"Canri 20mg/ml inf cnc sol 1x2ml",2019-12-08
-"Canri 20mg/ml inf cnc sol 1x5ml",2019-12-08
-"Orfadin 2mg cps dur 60",2019-12-08
-"Ganfort 0,3mg/ml+5mg/ml oph gtt sol 1x3ml",2019-12-08
-"Lumigan 0,3mg/ml oph gtt sol 1x3ml",2019-12-08
-"Alerpalux 1mg/ml oph gtt sol 3x5ml",2019-12-08
-"Roxilip 10mg film-coated tablets 28",2019-12-08
-"Vasopirin 100mg tbl ent 60",2019-12-08
-"Emerade 150 mikrogramů 150mcg inj sol pep 2x0,15ml",2019-12-08
-"Emerade 300 mikrogramů 300mcg inj sol pep 2x0,3ml",2019-12-08
-"Emerade 500 mikrogramů 500mcg inj sol pep 2x0,5ml",2019-12-08
-"Relistor 12mg/0,6ml inj sol 7x0,6ml+7stř",2019-12-08
 "Taxotere 20mg/ml inf cnc sol 1x1ml",2019-12-07
 "Taxotere 160mg/8ml inf cnc sol 1x8ml",2019-12-07
 "Plexxo 25mg tbl nob 30",2019-12-07
@@ -1350,10 +1350,10 @@
 "Trimbow 87mcg/5mcg/9mcg inh sol pss 1x180dáv",2019-07-16
 "Ajovy 225mg inj sol 1x1,5ml",2019-07-16
 "Progesteron besins 200mg vag cps mol 15",2019-07-11
+"Imraldi 40mg inj sol 2x(1x0,8ml)",2019-07-02
 "Humira 80mg inj sol 1x0,8ml i",2019-07-02
 "Humira 80mg inj sol 1x0,8ml",2019-07-02
 "Humira 20mg inj sol 2x0,2ml i",2019-07-02
-"Imraldi 40mg inj sol 2x(1x0,8ml)",2019-07-02
 "Zessly 100mg inf plv csl 1",2019-07-02
 "Amgevita 40mg inj sol isp 2x0,8ml",2019-07-01
 "Amgevita 40mg inj sol pep 2x0,8ml",2019-07-01
