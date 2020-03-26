@@ -226,6 +226,8 @@
 "Fentanyl kalceks 0,05mg/ml inj sol 5x10ml",2019-12-07
 "Fentanyl kalceks 0,05mg/ml inj sol 50x10ml",2019-12-07
 "Tramadol kalceks 50mg/ml inj/inf sol 100x2ml h",2019-12-07
+"Gecrol 0,5mg cps dur 30",2019-12-07
+"Rextol 5 mcg/ml 5mcg/ml inj sol 5x2ml",2019-12-07
 "Ardeaelytosol f 1/2 4,5g/l+25g/l inf sol 1x80ml",2019-12-07
 "Ardeaelytosol f 1/2 4,5g/l+25g/l inf sol 1x500ml",2019-12-07
 "Ardeaelytosol f 1/3 3g/l+33,33g/l inf sol 1x500ml",2019-12-07
@@ -251,8 +253,6 @@
 "Ammonaps 940mg/g gra 1x532g",2019-12-07
 "Mictonetten 5mg tbl obd 50",2019-12-07
 "Mictonetten 5mg tbl obd 30",2019-12-07
-"Gecrol 0,5mg cps dur 30",2019-12-07
-"Rextol 5 mcg/ml 5mcg/ml inj sol 5x2ml",2019-12-07
 "Doxorubicin medac 2mg/ml inf sol 1x5ml",2019-12-07
 "Temomedac 5mg cps dur 5",2019-12-07
 "Temomedac 180mg cps dur 5",2019-12-07
@@ -1143,9 +1143,9 @@
 "Meropenem bradex 500mg inj/inf plv sol 50",2019-11-21
 "Meropenem bradex 1g inj/inf plv sol 50",2019-11-21
 "Alecensa 150mg cps dur 224(4x56)",2019-11-20
-"Vizilatan 50mcg/ml oph gtt sol 1x2,5ml",2019-11-20
 "Remodulin 1mg/ml inf sol 1x20ml",2019-11-20
 "Remodulin 10mg/ml inf sol 1x20ml",2019-11-20
+"Vizilatan 50mcg/ml oph gtt sol 1x2,5ml",2019-11-20
 "Prohance 279,3mg/ml inj sol isp 1x15ml",2019-11-20
 "Multihance 529mg/ml inj sol isp 1x10ml",2019-11-20
 "Sevelamer carbonate winthrop 800mg film-coated tablets 180",2019-11-20
