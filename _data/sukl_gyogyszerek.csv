@@ -38,6 +38,7 @@
 "Esbriet 267mg film-coated tablets 252(84x3) ii",2020-03-26
 "Ibalgin 600 600mg film-coated tablets 30",2020-03-26
 "Ibalgin 600mg film-coated tablets 30",2020-03-26
+"Mayzent 2mg film-coated tablets 28",2020-03-23
 "Zoletorv 10mg/10mg film-coated tablets 30",2020-03-23
 "Zoletorv 10mg/20mg film-coated tablets 30",2020-03-23
 "Zoletorv 10mg/20mg film-coated tablets 30x1",2020-03-23
@@ -50,7 +51,6 @@
 "Atofab 25mg cps dur 28 i",2020-03-23
 "Atofab 40mg cps dur 28 i",2020-03-23
 "Atofab 60mg cps dur 28 i",2020-03-23
-"Mayzent 2mg film-coated tablets 28",2020-03-23
 "Tazip 4g/0,5g inf plv sol 10",2020-03-19
 "Sterile water for injection fresenius 100% par lqf 10x500ml ii",2020-03-19
 "Sterile water for injection fresenius 100% par lqf 20x250ml ii",2020-03-19
@@ -69,9 +69,9 @@
 "Hulio 40mg inj sol 2x0,8ml",2020-03-03
 "Revestive 5mg inj pso lqf 28+28x0,5ml isp",2020-03-02
 "Revestive 1,25mg inj pso lqf 28+28x0,5ml isp",2020-03-02
-"Adcetris 50mg inf plv csl 1",2020-02-28
 "Opdivo 10mg/ml inf cnc sol 1x4ml",2020-02-28
 "Opdivo 10mg/ml inf cnc sol 1x10ml",2020-02-28
+"Adcetris 50mg inf plv csl 1",2020-02-28
 "Egolanza 15mg film-coated tablets 28",2020-02-27
 "Egolanza 20mg film-coated tablets 28",2020-02-27
 "Prolutex 25 mg injekční roztok 25mg inj sol 7x1ml",2020-02-25
@@ -693,6 +693,10 @@
 "Lozap 50 zentiva 50mg film-coated tablets 30 i",2019-11-28
 "Lozap 100 zentiva 100mg film-coated tablets 90 al",2019-11-28
 "Amlodipin vitabalans 10 mg 10mg tbl nob 30",2019-11-28
+"Novoseven 1mg(50kiu) inj pso lqf 1+1x1,1ml ii",2019-11-27
+"Novoseven 2mg(100kiu) inj pso lqf 1+1x2,1ml ii",2019-11-27
+"Novoseven 5mg(250kiu) inj pso lqf 1+1x5,2ml ii",2019-11-27
+"Victoza 6mg/ml inj sol 3x3ml",2019-11-27
 "Braunovidon gáza s mastí 0,1g/g lig ipr 1x7,5cm",2019-11-27
 "Braunovidon gáza s mastí 0,1g/g lig ipr 1x20cm",2019-11-27
 "Braunovidon gáza s mastí 0,1g/g lig ipr 10x7,5cm",2019-11-27
@@ -700,10 +704,6 @@
 "Gelofusine 40mg/ml+7,02mg/ml inf sol 1x500ml",2019-11-27
 "Hydrogenuhličitan sodný 4,2%(w/v)-braun 42mg/ml inf sol 1x250ml",2019-11-27
 "Takiprin 20 mg/ml injekční roztok 20mg/ml inj sol 10x5ml",2019-11-27
-"Novoseven 1mg(50kiu) inj pso lqf 1+1x1,1ml ii",2019-11-27
-"Novoseven 2mg(100kiu) inj pso lqf 1+1x2,1ml ii",2019-11-27
-"Novoseven 5mg(250kiu) inj pso lqf 1+1x5,2ml ii",2019-11-27
-"Victoza 6mg/ml inj sol 3x3ml",2019-11-27
 "Dexamed 8mg/2ml inj sol 100x2ml",2019-11-27
 "Medoram plus h 2,5mg/12,5mg tbl nob 30",2019-11-27
 "Ferant 250 mikrogramů injekční roztok 250mcg inj sol 5x5ml",2019-11-27
@@ -1219,10 +1219,10 @@
 "Humira 40mg inj sol 2x0,4ml",2019-11-06
 "Humira 40mg inj sol 2x0,4ml i",2019-11-06
 "Velbienne 2mg/1mg 2mg/1mg film-coated tablets 3x28",2019-11-05
-"Somatuline autogel 120mg inj sol isp 1x0,5ml+stř",2019-11-01
-"Somatuline autogel 60mg inj sol isp 1x0,5ml+stř",2019-11-01
 "Xarelto 2,5mg film-coated tablets 100x1 ii",2019-11-01
 "Xarelto 10mg film-coated tablets 100x1 ii",2019-11-01
+"Somatuline autogel 120mg inj sol isp 1x0,5ml+stř",2019-11-01
+"Somatuline autogel 60mg inj sol isp 1x0,5ml+stř",2019-11-01
 "Virgan 1,5mg/g oční gel 1,5mg/g oph gel 1x5g ii",2019-10-31
 "Parsabiv 2,5mg inj sol 6x0,5ml",2019-10-29
 "Parsabiv 5mg inj sol 6x1ml",2019-10-29
@@ -1349,13 +1349,13 @@
 "Pregabalin sandoz 75mg cps dur 56",2019-08-08
 "Pregabalin sandoz 150mg cps dur 56",2019-08-08
 "Idacio 40mg inj sol 2x0,8ml",2019-08-02
+"Remsima 100mg inf plv csl 4",2019-08-02
 "Entyvio 300mg inf plv csl 1",2019-08-02
 "Cosentyx 150mg inj sol pep 2x1ml",2019-08-02
 "Kyntheum 210mg inj sol 2x1,5ml",2019-08-02
 "Tremfya 100mg inj sol 1x1ml",2019-08-02
 "Taltz 80mg inj sol pep 2x1ml",2019-08-02
 "Olumiant 4mg film-coated tablets 35 i",2019-08-02
-"Remsima 100mg inf plv csl 4",2019-08-02
 "Xeljanz 10mg film-coated tablets 56",2019-08-02
 "Xeljanz 10mg film-coated tablets 112",2019-08-02
 "Xeljanz 10mg film-coated tablets 182",2019-08-02
@@ -1380,10 +1380,10 @@
 "Trimbow 87mcg/5mcg/9mcg inh sol pss 1x180dáv",2019-07-16
 "Ajovy 225mg inj sol 1x1,5ml",2019-07-16
 "Progesteron besins 200mg vag cps mol 15",2019-07-11
+"Imraldi 40mg inj sol 2x(1x0,8ml)",2019-07-02
 "Humira 80mg inj sol 1x0,8ml i",2019-07-02
 "Humira 80mg inj sol 1x0,8ml",2019-07-02
 "Humira 20mg inj sol 2x0,2ml i",2019-07-02
-"Imraldi 40mg inj sol 2x(1x0,8ml)",2019-07-02
 "Zessly 100mg inf plv csl 1",2019-07-02
 "Amgevita 40mg inj sol isp 2x0,8ml",2019-07-01
 "Amgevita 40mg inj sol pep 2x0,8ml",2019-07-01
