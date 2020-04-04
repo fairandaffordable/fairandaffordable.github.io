@@ -1,4 +1,5 @@
 "Product","Submission"
+"Klabax 500mg film-coated tablets 14",2020-04-02
 "Opdivo 10mg/ml inf cnc sol 1x4ml",2020-03-31
 "Opdivo 10mg/ml inf cnc sol 1x10ml",2020-03-31
 "Bosentan ebewe 125mg film-coated tablets 56",2020-03-31
@@ -38,7 +39,6 @@
 "Esbriet 267mg film-coated tablets 252(84x3) ii",2020-03-26
 "Ibalgin 600 600mg film-coated tablets 30",2020-03-26
 "Ibalgin 600mg film-coated tablets 30",2020-03-26
-"Mayzent 2mg film-coated tablets 28",2020-03-23
 "Zoletorv 10mg/10mg film-coated tablets 30",2020-03-23
 "Zoletorv 10mg/20mg film-coated tablets 30",2020-03-23
 "Zoletorv 10mg/20mg film-coated tablets 30x1",2020-03-23
@@ -46,6 +46,7 @@
 "Zoletorv 10mg/40mg film-coated tablets 30",2020-03-23
 "Zoletorv 10mg/40mg film-coated tablets 30x1",2020-03-23
 "Zoletorv 10mg/40mg film-coated tablets 100",2020-03-23
+"Mayzent 2mg film-coated tablets 28",2020-03-23
 "Atofab 10mg cps dur 28 i",2020-03-23
 "Atofab 18mg cps dur 28 i",2020-03-23
 "Atofab 25mg cps dur 28 i",2020-03-23
@@ -1348,7 +1349,6 @@
 "Adempas 2,5mg film-coated tablets 42",2019-08-09
 "Pregabalin sandoz 75mg cps dur 56",2019-08-08
 "Pregabalin sandoz 150mg cps dur 56",2019-08-08
-"Idacio 40mg inj sol 2x0,8ml",2019-08-02
 "Remsima 100mg inf plv csl 4",2019-08-02
 "Entyvio 300mg inf plv csl 1",2019-08-02
 "Cosentyx 150mg inj sol pep 2x1ml",2019-08-02
@@ -1356,6 +1356,7 @@
 "Tremfya 100mg inj sol 1x1ml",2019-08-02
 "Taltz 80mg inj sol pep 2x1ml",2019-08-02
 "Olumiant 4mg film-coated tablets 35 i",2019-08-02
+"Idacio 40mg inj sol 2x0,8ml",2019-08-02
 "Xeljanz 10mg film-coated tablets 56",2019-08-02
 "Xeljanz 10mg film-coated tablets 112",2019-08-02
 "Xeljanz 10mg film-coated tablets 182",2019-08-02
@@ -1413,9 +1414,6 @@
 "Siranalen 150mg cps dur 56 i",2019-06-29
 "Preglenix 75mg cps dur 84",2019-06-29
 "Preglenix 150mg cps dur 84",2019-06-29
-"Pregabalin accord 75mg cps dur 56",2019-06-28
-"Pregabalin accord 150mg cps dur 56",2019-06-28
-"Pregabalin accord 300mg cps dur 56",2019-06-28
 "Pragiola 75mg cps dur 84",2019-06-28
 "Pragiola 150mg cps dur 84",2019-06-28
 "Pragiola 300mg cps dur 84",2019-06-28
@@ -1434,6 +1432,9 @@
 "Kartesada 300mg cps dur 14",2019-06-28
 "Kartesada 300mg cps dur 21",2019-06-28
 "Kartesada 300mg cps dur 56",2019-06-28
+"Pregabalin accord 75mg cps dur 56",2019-06-28
+"Pregabalin accord 150mg cps dur 56",2019-06-28
+"Pregabalin accord 300mg cps dur 56",2019-06-28
 "Preglenix 75mg cps dur 84",2019-06-28
 "Preglenix 150mg cps dur 84",2019-06-28
 "Pregabalin mylan 75mg cps dur 14",2019-06-28
