@@ -1,4 +1,7 @@
 "Product","Submission"
+"Darzalex 20mg/ml inf cnc sol 1x5ml",2020-04-08
+"Darzalex 20mg/ml inf cnc sol 1x20ml",2020-04-08
+"Mabthera 1600mg inj sol 1x13,4ml",2020-04-08
 "Imatinib mylan 400 mg 400mg film-coated tablets 30",2020-04-08
 "Imatinib mylan 400mg film-coated tablets 30",2020-04-08
 "Meaxin 400mg film-coated tablets 30 ii",2020-04-08
@@ -85,9 +88,9 @@
 "Hulio 40mg inj sol 2x0,8ml",2020-03-03
 "Revestive 5mg inj pso lqf 28+28x0,5ml isp",2020-03-02
 "Revestive 1,25mg inj pso lqf 28+28x0,5ml isp",2020-03-02
-"Adcetris 50mg inf plv csl 1",2020-02-28
 "Opdivo 10mg/ml inf cnc sol 1x4ml",2020-02-28
 "Opdivo 10mg/ml inf cnc sol 1x10ml",2020-02-28
+"Adcetris 50mg inf plv csl 1",2020-02-28
 "Egolanza 15mg film-coated tablets 28",2020-02-27
 "Egolanza 20mg film-coated tablets 28",2020-02-27
 "Prolutex 25 mg injekční roztok 25mg inj sol 7x1ml",2020-02-25
@@ -197,11 +200,6 @@
 "Flixabi 100mg inf plv csl 1",2019-12-16
 "Benepali 50mg inj sol 4x0,98ml",2019-12-16
 "Cablivi 10mg inj pso lqf 1+1x1ml isp+ad+j",2019-12-12
-"Letrovena 2,5mg film-coated tablets 30",2019-12-08
-"Gamunex 100mg/ml inf sol 1x200ml i",2019-12-08
-"Gamunex 100mg/ml inf sol 1x50ml i",2019-12-08
-"Gamunex 100mg/ml inf sol 1x100ml i",2019-12-08
-"Gamunex 100mg/ml inf sol 1x10ml i",2019-12-08
 "Nebivolol sandoz 5 mg 5mg tbl nob 14",2019-12-08
 "Nebivolol sandoz 5 mg 5mg tbl nob 28",2019-12-08
 "Xaleec 8mg tbl nob 30 i",2019-12-08
@@ -228,12 +226,6 @@
 "Fucicort lipid 20 mg/g + 1 mg/g 20mg/g+1mg/g crm 5g",2019-12-08
 "Fucicort lipid 20 mg/g + 1 mg/g 20mg/g+1mg/g crm 30g",2019-12-08
 "Fucicort lipid 20 mg/g + 1 mg/g 20mg/g+1mg/g crm 60g",2019-12-08
-"Megamox 1 g 875mg/125mg film-coated tablets 14",2019-12-08
-"Canri 20mg/ml inf cnc sol 1x2ml",2019-12-08
-"Canri 20mg/ml inf cnc sol 1x5ml",2019-12-08
-"Orfadin 2mg cps dur 60",2019-12-08
-"Ganfort 0,3mg/ml+5mg/ml oph gtt sol 1x3ml",2019-12-08
-"Lumigan 0,3mg/ml oph gtt sol 1x3ml",2019-12-08
 "Alerpalux 1mg/ml oph gtt sol 3x5ml",2019-12-08
 "Roxilip 10mg film-coated tablets 28",2019-12-08
 "Vasopirin 100mg tbl ent 60",2019-12-08
@@ -241,6 +233,17 @@
 "Emerade 300 mikrogramů 300mcg inj sol pep 2x0,3ml",2019-12-08
 "Emerade 500 mikrogramů 500mcg inj sol pep 2x0,5ml",2019-12-08
 "Relistor 12mg/0,6ml inj sol 7x0,6ml+7stř",2019-12-08
+"Letrovena 2,5mg film-coated tablets 30",2019-12-08
+"Gamunex 100mg/ml inf sol 1x200ml i",2019-12-08
+"Gamunex 100mg/ml inf sol 1x50ml i",2019-12-08
+"Gamunex 100mg/ml inf sol 1x100ml i",2019-12-08
+"Gamunex 100mg/ml inf sol 1x10ml i",2019-12-08
+"Megamox 1 g 875mg/125mg film-coated tablets 14",2019-12-08
+"Canri 20mg/ml inf cnc sol 1x2ml",2019-12-08
+"Canri 20mg/ml inf cnc sol 1x5ml",2019-12-08
+"Orfadin 2mg cps dur 60",2019-12-08
+"Ganfort 0,3mg/ml+5mg/ml oph gtt sol 1x3ml",2019-12-08
+"Lumigan 0,3mg/ml oph gtt sol 1x3ml",2019-12-08
 "Taxotere 20mg/ml inf cnc sol 1x1ml",2019-12-07
 "Taxotere 160mg/8ml inf cnc sol 1x8ml",2019-12-07
 "Plexxo 25mg tbl nob 30",2019-12-07
@@ -1419,8 +1422,6 @@
 "Pregabalin belupo 75 mg tvrdé tobolky 75mg cps dur 56",2019-06-29
 "Pregabalin belupo 150 mg tvrdé tobolky 150mg cps dur 56",2019-06-29
 "Pregabalin belupo 300 mg tvrdé tobolky 300mg cps dur 56",2019-06-29
-"Preglenix 75mg cps dur 84",2019-06-29
-"Preglenix 150mg cps dur 84",2019-06-29
 "Prelica 75 mg 75mg cps dur 98",2019-06-29
 "Prelica 150 mg 150mg cps dur 98",2019-06-29
 "Siranalen 150mg cps dur 56 ii",2019-06-29
@@ -1429,12 +1430,10 @@
 "Siranalen 75mg cps dur 14 i",2019-06-29
 "Siranalen 75mg cps dur 56 i",2019-06-29
 "Siranalen 150mg cps dur 56 i",2019-06-29
+"Preglenix 75mg cps dur 84",2019-06-29
+"Preglenix 150mg cps dur 84",2019-06-29
 "Preglenix 75mg cps dur 84",2019-06-28
 "Preglenix 150mg cps dur 84",2019-06-28
-"Pregabalin mylan 75mg cps dur 14",2019-06-28
-"Pregabalin mylan 75mg cps dur 56",2019-06-28
-"Pregabalin mylan 150mg cps dur 56",2019-06-28
-"Pregabalin mylan 300mg cps dur 56",2019-06-28
 "Pregabalin accord 75mg cps dur 56",2019-06-28
 "Pregabalin accord 150mg cps dur 56",2019-06-28
 "Pregabalin accord 300mg cps dur 56",2019-06-28
@@ -1456,6 +1455,10 @@
 "Kartesada 300mg cps dur 14",2019-06-28
 "Kartesada 300mg cps dur 21",2019-06-28
 "Kartesada 300mg cps dur 56",2019-06-28
+"Pregabalin mylan 75mg cps dur 14",2019-06-28
+"Pregabalin mylan 75mg cps dur 56",2019-06-28
+"Pregabalin mylan 150mg cps dur 56",2019-06-28
+"Pregabalin mylan 300mg cps dur 56",2019-06-28
 "Ricefan 250 mg 250mg film-coated tablets 10",2019-06-27
 "Ricefan 250 mg 250mg film-coated tablets 14",2019-06-27
 "Keytruda 25mg/ml inf cnc sol 1x4ml",2019-06-25
