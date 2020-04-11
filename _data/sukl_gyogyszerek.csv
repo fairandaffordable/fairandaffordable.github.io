@@ -105,9 +105,9 @@
 "Itulazax 12sq-bet por lyo 90",2020-02-24
 "Azacitidine accord 25mg/ml inj plv sus 1x100mg",2020-02-22
 "Lannatam 0,4mg cps rdr 50",2020-02-20
+"Tecentriq 1200mg inf cnc sol 1x20ml",2020-02-19
 "Alfacalcidol cande 1mcg cps mol 30",2020-02-19
 "Alfacalcidol cande 1mcg cps mol 90",2020-02-19
-"Tecentriq 1200mg inf cnc sol 1x20ml",2020-02-19
 "Aqua pro iniectione ardeapharma 100% par lqf 1x500ml",2020-02-19
 "Aqua pro iniectione ardeapharma 100% par lqf 1x250ml",2020-02-19
 "Fulphila 6mg inj sol 1x0,6ml ii",2020-02-17
@@ -223,9 +223,6 @@
 "Dyxal 5mg cps dur 30x1",2019-12-08
 "Dyxal 20mg cps dur 30x1",2019-12-08
 "Flukonazol sandoz 100mg cps dur 28",2019-12-08
-"Fucicort lipid 20 mg/g + 1 mg/g 20mg/g+1mg/g crm 5g",2019-12-08
-"Fucicort lipid 20 mg/g + 1 mg/g 20mg/g+1mg/g crm 30g",2019-12-08
-"Fucicort lipid 20 mg/g + 1 mg/g 20mg/g+1mg/g crm 60g",2019-12-08
 "Alerpalux 1mg/ml oph gtt sol 3x5ml",2019-12-08
 "Roxilip 10mg film-coated tablets 28",2019-12-08
 "Vasopirin 100mg tbl ent 60",2019-12-08
@@ -233,6 +230,9 @@
 "Emerade 300 mikrogramů 300mcg inj sol pep 2x0,3ml",2019-12-08
 "Emerade 500 mikrogramů 500mcg inj sol pep 2x0,5ml",2019-12-08
 "Relistor 12mg/0,6ml inj sol 7x0,6ml+7stř",2019-12-08
+"Fucicort lipid 20 mg/g + 1 mg/g 20mg/g+1mg/g crm 5g",2019-12-08
+"Fucicort lipid 20 mg/g + 1 mg/g 20mg/g+1mg/g crm 30g",2019-12-08
+"Fucicort lipid 20 mg/g + 1 mg/g 20mg/g+1mg/g crm 60g",2019-12-08
 "Letrovena 2,5mg film-coated tablets 30",2019-12-08
 "Gamunex 100mg/ml inf sol 1x200ml i",2019-12-08
 "Gamunex 100mg/ml inf sol 1x50ml i",2019-12-08
@@ -244,14 +244,16 @@
 "Orfadin 2mg cps dur 60",2019-12-08
 "Ganfort 0,3mg/ml+5mg/ml oph gtt sol 1x3ml",2019-12-08
 "Lumigan 0,3mg/ml oph gtt sol 1x3ml",2019-12-08
-"Taxotere 20mg/ml inf cnc sol 1x1ml",2019-12-07
-"Taxotere 160mg/8ml inf cnc sol 1x8ml",2019-12-07
-"Plexxo 25mg tbl nob 30",2019-12-07
-"Plexxo 100mg tbl nob 30",2019-12-07
 "Instanyl 100mcg/dáv nas spr sol 1x1,8ml/10dáv i",2019-12-07
 "Instanyl 200mcg/dáv nas spr sol 1x1,8ml/10dáv i",2019-12-07
 "Incresync 12,5mg/45mg film-coated tablets 28",2019-12-07
 "Incresync 25mg/45mg film-coated tablets 28",2019-12-07
+"Gecrol 0,5mg cps dur 30",2019-12-07
+"Rextol 5 mcg/ml 5mcg/ml inj sol 5x2ml",2019-12-07
+"Taxotere 20mg/ml inf cnc sol 1x1ml",2019-12-07
+"Taxotere 160mg/8ml inf cnc sol 1x8ml",2019-12-07
+"Plexxo 25mg tbl nob 30",2019-12-07
+"Plexxo 100mg tbl nob 30",2019-12-07
 "Entecavir avmc 0,5mg film-coated tablets 30x1",2019-12-07
 "Entecavir avmc 0,5mg film-coated tablets 30",2019-12-07
 "Entecavir avmc 1mg film-coated tablets 30x1",2019-12-07
@@ -262,8 +264,6 @@
 "Fentanyl kalceks 0,05mg/ml inj sol 5x10ml",2019-12-07
 "Fentanyl kalceks 0,05mg/ml inj sol 50x10ml",2019-12-07
 "Tramadol kalceks 50mg/ml inj/inf sol 100x2ml h",2019-12-07
-"Gecrol 0,5mg cps dur 30",2019-12-07
-"Rextol 5 mcg/ml 5mcg/ml inj sol 5x2ml",2019-12-07
 "Ardeaelytosol f 1/2 4,5g/l+25g/l inf sol 1x80ml",2019-12-07
 "Ardeaelytosol f 1/2 4,5g/l+25g/l inf sol 1x500ml",2019-12-07
 "Ardeaelytosol f 1/3 3g/l+33,33g/l inf sol 1x500ml",2019-12-07
@@ -306,11 +306,7 @@
 "Neupro 3mg/24h tdr emp 7x6,75mg",2019-12-06
 "Bimican 0,3mg/ml oph gtt sol 6x3ml",2019-12-06
 "Levetiracetam ucb 100mg/ml por sol 1x300ml iii",2019-12-06
-"Finard 5mg film-coated tablets 60",2019-12-06
-"Javlor 25mg/ml inf cnc sol 1x2ml ii",2019-12-06
-"Javlor 25mg/ml inf cnc sol 1x10ml ii",2019-12-06
 "Clarelux 500mcg/g drm spm 100g",2019-12-06
-"Xaloptic combi 0,05mg/ml+5mg/ml oph gtt sol 1x2,5ml",2019-12-06
 "Rosi 10mg film-coated tablets 30",2019-12-06
 "Rosi 20mg film-coated tablets 30",2019-12-06
 "Rosi 40mg film-coated tablets 30",2019-12-06
@@ -318,6 +314,12 @@
 "Tamayra 10 mg/5 mg 10mg/5mg cps dur 28",2019-12-06
 "Candesartan/hydrochlorothiazide swyssi 8mg/12,5mg tbl nob 30",2019-12-06
 "Candesartan/hydrochlorothiazide swyssi 16mg/12,5mg tbl nob 30",2019-12-06
+"Sofenacol 5mg film-coated tablets 100",2019-12-06
+"Sofenacol 10mg film-coated tablets 100",2019-12-06
+"Finard 5mg film-coated tablets 60",2019-12-06
+"Javlor 25mg/ml inf cnc sol 1x2ml ii",2019-12-06
+"Javlor 25mg/ml inf cnc sol 1x10ml ii",2019-12-06
+"Xaloptic combi 0,05mg/ml+5mg/ml oph gtt sol 1x2,5ml",2019-12-06
 "Ramil 5mg tbl nob 30",2019-12-06
 "Ramil 10mg tbl nob 30",2019-12-06
 "Irbesartan hydrochlorothiazide zentiva 300mg/12,5mg film-coated tablets 28",2019-12-06
@@ -354,8 +356,6 @@
 "Helicid 40 mg 40mg cps etd 28(2x14) i",2019-12-06
 "Torvacard neo 80mg film-coated tablets 90",2019-12-06
 "Anopyrin 100mg tbl nob 100",2019-12-06
-"Sofenacol 5mg film-coated tablets 100",2019-12-06
-"Sofenacol 10mg film-coated tablets 100",2019-12-06
 "Stimuloton 100mg film-coated tablets 28",2019-12-05
 "Egistrozol 1 mg 1mg film-coated tablets 50",2019-12-05
 "Torvazin 10mg film-coated tablets 28",2019-12-05
