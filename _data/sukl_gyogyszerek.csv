@@ -199,9 +199,9 @@
 "Revlimid 10mg cps dur 21",2020-01-30
 "Revlimid 15mg cps dur 21",2020-01-30
 "Revlimid 25mg cps dur 21",2020-01-30
-"Libtayo 350mg inf cnc sol 1x7ml",2020-01-30
 "Opdivo 10mg/ml inf cnc sol 1x4ml",2020-01-30
 "Opdivo 10mg/ml inf cnc sol 1x10ml",2020-01-30
+"Libtayo 350mg inf cnc sol 1x7ml",2020-01-30
 "Aubagio 14mg film-coated tablets 28",2020-01-29
 "Pradaxa 110mg cps dur 10x1 i",2020-01-27
 "Pradaxa 110mg cps dur 30x1 i",2020-01-27
@@ -629,6 +629,21 @@
 "Fycompa 12mg film-coated tablets 28",2019-11-30
 "Minirin melt 240mcg por lyo 30",2019-11-30
 "Norprolac 25/50 mcg tablety 25mcg+50mcg tbl nob 3+3",2019-11-30
+"Vincristine teva 1 mg/ml 1mg/ml inj sol 1x5ml",2019-11-29
+"Ivabradin teva 5mg film-coated tablets 56",2019-11-29
+"Ivabradin teva 7,5mg film-coated tablets 56",2019-11-29
+"Valganciclovir teva 450mg film-coated tablets 60",2019-11-29
+"Docetaxel teva 20mg/ml inf cnc sol 1x1ml",2019-11-29
+"Docetaxel teva 20mg/ml inf cnc sol 1x4ml",2019-11-29
+"Copaxone 40mg/ml inj sol isp 3x1ml",2019-11-29
+"Zoleptil 25 25mg tbl obd 30",2019-11-29
+"Zoleptil 50 50mg tbl obd 30",2019-11-29
+"Oxykodon teva 10mg tbl pro 30 ii",2019-11-29
+"Oxykodon teva 20mg tbl pro 30 ii",2019-11-29
+"Oxykodon teva 40mg tbl pro 30 ii",2019-11-29
+"Oxykodon teva 80mg tbl pro 30 ii",2019-11-29
+"Efavirenz/ emtricitabine/ tenofovir disoproxil teva 600mg/200mg/245mg film-coated tablets 30",2019-11-29
+"Efavirenz/ emtricitabine/ tenofovir disoproxil teva 600mg/200mg/245mg film-coated tablets 30x1",2019-11-29
 "Infalin duo 3mg/ml+0,25mg/ml aur gtt sol 10ml",2019-11-29
 "Alyostal prick 100ic/ml drm ptc sol 1x3ml ic",2019-11-29
 "Phostal 0,01-10ir/ml inj sus 4x5ml ir",2019-11-29
@@ -696,21 +711,6 @@
 "Lutrate depot 3,75mg inj plq sus pro 1+1x2ml isp",2019-11-29
 "Mesulid 100mg tbl nob 15",2019-11-29
 "Mesulid 100mg por gra sus 15 i",2019-11-29
-"Vincristine teva 1 mg/ml 1mg/ml inj sol 1x5ml",2019-11-29
-"Ivabradin teva 5mg film-coated tablets 56",2019-11-29
-"Ivabradin teva 7,5mg film-coated tablets 56",2019-11-29
-"Valganciclovir teva 450mg film-coated tablets 60",2019-11-29
-"Docetaxel teva 20mg/ml inf cnc sol 1x1ml",2019-11-29
-"Docetaxel teva 20mg/ml inf cnc sol 1x4ml",2019-11-29
-"Copaxone 40mg/ml inj sol isp 3x1ml",2019-11-29
-"Zoleptil 25 25mg tbl obd 30",2019-11-29
-"Zoleptil 50 50mg tbl obd 30",2019-11-29
-"Oxykodon teva 10mg tbl pro 30 ii",2019-11-29
-"Oxykodon teva 20mg tbl pro 30 ii",2019-11-29
-"Oxykodon teva 40mg tbl pro 30 ii",2019-11-29
-"Oxykodon teva 80mg tbl pro 30 ii",2019-11-29
-"Efavirenz/ emtricitabine/ tenofovir disoproxil teva 600mg/200mg/245mg film-coated tablets 30",2019-11-29
-"Efavirenz/ emtricitabine/ tenofovir disoproxil teva 600mg/200mg/245mg film-coated tablets 30x1",2019-11-29
 "Wakix 4,5mg film-coated tablets 30",2019-11-28
 "Wakix 18mg film-coated tablets 30",2019-11-28
 "Helixate nexgen 1000iu inj pso lqf 1+1x2,5ml+set",2019-11-28
