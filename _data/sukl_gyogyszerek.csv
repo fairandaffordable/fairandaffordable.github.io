@@ -43,8 +43,6 @@
 "Lixiana 30mg film-coated tablets 100",2020-04-14
 "Lixiana 60mg film-coated tablets 30",2020-04-14
 "Lixiana 60mg film-coated tablets 100",2020-04-14
-"Mekinist 0,5mg film-coated tablets 30",2020-04-09
-"Mekinist 2mg film-coated tablets 30",2020-04-09
 "Hemlibra 30mg/ml inj sol 1x1ml",2020-04-09
 "Hemlibra 150mg/ml inj sol 1x0,4ml",2020-04-09
 "Hemlibra 150mg/ml inj sol 1x0,7ml",2020-04-09
@@ -52,6 +50,8 @@
 "Tafinlar 50mg cps dur 120",2020-04-09
 "Tafinlar 75mg cps dur 28",2020-04-09
 "Tafinlar 75mg cps dur 120",2020-04-09
+"Mekinist 0,5mg film-coated tablets 30",2020-04-09
+"Mekinist 2mg film-coated tablets 30",2020-04-09
 "Darzalex 20mg/ml inf cnc sol 1x5ml",2020-04-08
 "Darzalex 20mg/ml inf cnc sol 1x20ml",2020-04-08
 "Mabthera 1600mg inj sol 1x13,4ml",2020-04-08
@@ -219,9 +219,9 @@
 "Nalgesin 550mg film-coated tablets 30",2020-01-25
 "Epipen jr. 150mcg inj sol pep 2x0,3ml",2020-01-21
 "Nplate 250mcg inj pso lqf 1+1x0,72ml isp",2020-01-14
+"Bilamcar 8mg/10mg cps dur 28",2020-01-08
 "Rixathon 100mg inf cnc sol 2x10ml",2020-01-08
 "Rixathon 500mg inf cnc sol 1x50ml",2020-01-08
-"Bilamcar 8mg/10mg cps dur 28",2020-01-08
 "Siranalen 150mg cps dur 112 ii",2019-12-29
 "Siranalen 150mg cps dur 84 ii",2019-12-29
 "Siranalen 75mg cps dur 84 ii",2019-12-29
@@ -1727,12 +1727,12 @@
 "Rosuvastatin aurovitas 40mg film-coated tablets 30",2019-01-31
 "Rosuvastatin aurovitas 40mg film-coated tablets 100",2019-01-31
 "Tysabri 300mg inf cnc sol 1x15ml",2019-01-31
+"Lemtrada 12mg inf cnc sol 1x1,2ml",2019-01-31
 "Cabometyx 20mg film-coated tablets 30",2019-01-31
 "Cabometyx 40mg film-coated tablets 30",2019-01-31
 "Cabometyx 60mg film-coated tablets 30",2019-01-31
 "Repatha 140mg inj sol 2x1ml",2019-01-31
 "Adcetris 50mg inf plv csl 1",2019-01-31
-"Lemtrada 12mg inf cnc sol 1x1,2ml",2019-01-31
 "Egiramlon 10mg/10mg cps dur 30",2019-01-31
 "Egiramlon 5mg/5mg cps dur 100",2019-01-31
 "Egiramlon 5mg/10mg cps dur 100",2019-01-31
