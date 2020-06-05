@@ -189,7 +189,6 @@
 "Tedez 0,5mg/0,4mg cps dur 90",2020-02-15
 "Aripiprazol glenmark 10mg tbl nob 56x1",2020-02-14
 "Aripiprazol glenmark 15mg tbl nob 56x1",2020-02-14
-"Urogerolan 80mg film-coated tablets 30 ii",2020-02-13
 "Febuxostat mylan 80mg film-coated tablets 28 kal i",2020-02-13
 "Febuxostat msn 80mg film-coated tablets 28",2020-02-13
 "Febuxostat krka 80mg film-coated tablets 28",2020-02-13
@@ -203,6 +202,7 @@
 "Febuxostat accord 80mg film-coated tablets 84",2020-02-13
 "Febuxostat accord 120mg film-coated tablets 28",2020-02-13
 "Febuxostat accord 120mg film-coated tablets 84",2020-02-13
+"Urogerolan 80mg film-coated tablets 30 ii",2020-02-13
 "Truxima 500mg inf cnc sol 1x50ml",2020-02-11
 "Truxima 100mg inf cnc sol 2x10ml",2020-02-11
 "Alfacalcidol cande 1mcg cps mol 30",2020-02-10
@@ -1332,8 +1332,8 @@
 "Naxalgan 150mg cps dur 56",2019-10-15
 "Naxalgan 300mg cps dur 56",2019-10-15
 "Derin 200 mg potahované tablety 200mg film-coated tablets 100",2019-10-15
-"Dupixent 200mg inj sol 2x1,14ml ii",2019-10-14
 "Terrosa 20mcg/80mcl inj sol 1x2,4ml",2019-10-14
+"Dupixent 200mg inj sol 2x1,14ml ii",2019-10-14
 "Pergoveris 150iu/75iu inj pso lqf 1+1x1ml",2019-10-11
 "Pergoveris 150iu/75iu inj pso lqf 10+10x1ml",2019-10-11
 "Zetovar 10mg/80mg tbl nob 30",2019-10-10
@@ -1342,8 +1342,8 @@
 "Exviera 250mg film-coated tablets 56(4x14)",2019-10-07
 "Viekirax 12,5mg/75mg/50mg film-coated tablets 56(4x14)",2019-10-07
 "Hulio 40mg inj sol 6x0,8ml",2019-10-04
-"Bortezomib ebewe 3,5mg inj plv sol 1 ii",2019-10-03
 "Trulicity 1,5mg inj sol 4x0,5ml",2019-10-03
+"Bortezomib ebewe 3,5mg inj plv sol 1 ii",2019-10-03
 "Bortezomib adamed 3,5 mg prášek pro injekční roztok 3,5mg inj plv sol 1",2019-10-03
 "Zegomib 3,5mg inj plv sol 3",2019-10-03
 "Blincyto 38,5mcg inf pcs sol 1+1x10ml",2019-10-02
@@ -1450,13 +1450,13 @@
 "Kyntheum 210mg inj sol 2x1,5ml",2019-08-02
 "Tremfya 100mg inj sol 1x1ml",2019-08-02
 "Taltz 80mg inj sol pep 2x1ml",2019-08-02
+"Stelara 90mg inj sol isp 1x1ml",2019-08-02
+"Stelara 130mg inf cnc sol 1x26ml",2019-08-02
+"Stelara 45mg inj sol 1x0,5ml",2019-08-02
 "Olumiant 4mg film-coated tablets 35 i",2019-08-02
 "Xeljanz 10mg film-coated tablets 56",2019-08-02
 "Xeljanz 10mg film-coated tablets 112",2019-08-02
 "Xeljanz 10mg film-coated tablets 182",2019-08-02
-"Stelara 90mg inj sol isp 1x1ml",2019-08-02
-"Stelara 130mg inf cnc sol 1x26ml",2019-08-02
-"Stelara 45mg inj sol 1x0,5ml",2019-08-02
 "Otezla 30mg film-coated tablets 56",2019-08-02
 "Otezla 10mg+20mg+30mg film-coated tablets 4x10mg+4x20mg+19x30mg",2019-08-02
 "Taptiqom 15mcg/ml+5mg/ml oph gtt sol mdc 30x0,3ml",2019-07-31
@@ -1478,14 +1478,14 @@
 "Humira 20mg inj sol 2x0,2ml i",2019-07-02
 "Imraldi 40mg inj sol 2x(1x0,8ml)",2019-07-02
 "Zessly 100mg inf plv csl 1",2019-07-02
-"Amgevita 40mg inj sol isp 2x0,8ml",2019-07-01
-"Amgevita 40mg inj sol pep 2x0,8ml",2019-07-01
 "Afstyla 250iu inj pso lqf 1+1x2,5ml+ad+stř+set",2019-07-01
 "Afstyla 500iu inj pso lqf 1+1x2,5ml+ad+stř+set",2019-07-01
 "Afstyla 1000iu inj pso lqf 1+1x2,5ml+ad+stř+set",2019-07-01
 "Afstyla 1500iu inj pso lqf 1+1x5ml+ad+stř+set",2019-07-01
 "Afstyla 2000iu inj pso lqf 1+1x5ml+ad+stř+set",2019-07-01
 "Afstyla 3000iu inj pso lqf 1+1x5ml+ad+stř+set",2019-07-01
+"Amgevita 40mg inj sol isp 2x0,8ml",2019-07-01
+"Amgevita 40mg inj sol pep 2x0,8ml",2019-07-01
 "Pregabalin stada arzneimittel ag 75mg cps dur 56",2019-06-29
 "Pregabalin stada arzneimittel ag 150mg cps dur 56",2019-06-29
 "Pregabalin zentiva k.s. 150mg cps dur 56 ii",2019-06-29
@@ -1773,7 +1773,6 @@
 "Xultophy 100u/ml+3,6mg/ml inj sol 3x3ml",2019-01-22
 "Prevymis 240mg film-coated tablets 28x1",2019-01-21
 "Prevymis 240mg inf cnc sol 1x12ml",2019-01-21
-"Prevymis 240mg film-coated tablets 28x1",2019-01-21
 "Lentocilin s 2400 2,4miu inj psu lqf 1+1",2019-01-17
 "Cimzia 200mg inj sol 2x1ml i",2019-01-11
 "Ardeanutrisol g 5% 5% inf sol 1x80ml",2019-01-11
