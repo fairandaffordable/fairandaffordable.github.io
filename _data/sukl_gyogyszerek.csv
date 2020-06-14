@@ -46,10 +46,10 @@
 "Xeljanz 11mg tbl pro 28",2020-04-29
 "Xeljanz 11mg tbl pro 91",2020-04-29
 "Dupixent 300mg inj sol 2x2ml i",2020-04-28
-"Sertralin vale 50mg film-coated tablets 30",2020-04-27
-"Sertralin vale 100mg film-coated tablets 30",2020-04-27
 "Sertralin mylan 50mg film-coated tablets 30",2020-04-27
 "Sertralin mylan 100mg film-coated tablets 30",2020-04-27
+"Sertralin vale 50mg film-coated tablets 30",2020-04-27
+"Sertralin vale 100mg film-coated tablets 30",2020-04-27
 "Torvacard neo 30mg film-coated tablets 30",2020-04-23
 "Torvacard neo 60mg film-coated tablets 30",2020-04-23
 "Beovu 120mg/ml inj sol 1x0,165ml",2020-04-22
@@ -1269,7 +1269,6 @@
 "Jentadueto 2,5mg/850mg film-coated tablets 180(2x90x1)",2019-11-21
 "Spiolto respimat 2,5 mikrogramů/2,5 mikrogramů 2,5mcg/2,5mcg/dáv inh sol 3x60dáv+3inh",2019-11-21
 "Fosrenol 500mg tbl mnd 90(2x45)",2019-11-21
-"Alecensa 150mg cps dur 224(4x56)",2019-11-20
 "Vizilatan 50mcg/ml oph gtt sol 1x2,5ml",2019-11-20
 "Remodulin 1mg/ml inf sol 1x20ml",2019-11-20
 "Remodulin 10mg/ml inf sol 1x20ml",2019-11-20
@@ -1316,6 +1315,7 @@
 "Multihance 529mg/ml inj sol isp 1x10ml",2019-11-20
 "Levact 2,5mg/ml inf plv csl 20x25mg",2019-11-20
 "Levact 2,5mg/ml inf plv csl 5x100mg",2019-11-20
+"Alecensa 150mg cps dur 224(4x56)",2019-11-20
 "Tecentriq 840mg inf cnc sol 1x14ml",2019-11-19
 "Vipidia 25mg film-coated tablets 28",2019-11-19
 "Toujeo 300u/ml inj sol 3x1,5ml",2019-11-13
@@ -1522,6 +1522,8 @@
 "Siranalen 150mg cps dur 56 i",2019-06-29
 "Preglenix 75mg cps dur 84",2019-06-29
 "Preglenix 150mg cps dur 84",2019-06-29
+"Preglenix 75mg cps dur 84",2019-06-28
+"Preglenix 150mg cps dur 84",2019-06-28
 "Pregabalin mylan 75mg cps dur 14",2019-06-28
 "Pregabalin mylan 75mg cps dur 56",2019-06-28
 "Pregabalin mylan 150mg cps dur 56",2019-06-28
@@ -1547,8 +1549,6 @@
 "Kartesada 300mg cps dur 14",2019-06-28
 "Kartesada 300mg cps dur 21",2019-06-28
 "Kartesada 300mg cps dur 56",2019-06-28
-"Preglenix 75mg cps dur 84",2019-06-28
-"Preglenix 150mg cps dur 84",2019-06-28
 "Ricefan 250 mg 250mg film-coated tablets 10",2019-06-27
 "Ricefan 250 mg 250mg film-coated tablets 14",2019-06-27
 "Keytruda 25mg/ml inf cnc sol 1x4ml",2019-06-25
