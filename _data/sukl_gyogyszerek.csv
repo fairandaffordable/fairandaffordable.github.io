@@ -1,5 +1,8 @@
 "Product","Submission"
 "Semglee 100u/ml inj sol pep 5x3ml",2020-06-24
+"Trulicity 0,75mg inj sol 2x0,5ml",2020-06-15
+"Trulicity 0,75mg inj sol 4x0,5ml",2020-06-15
+"Erleada 60mg film-coated tablets 120",2020-06-15
 "Skyrizi 75mg inj sol 2x0,83ml",2020-06-09
 "Nalgesin 550mg film-coated tablets 20",2020-06-09
 "Nalgesin 550mg film-coated tablets 50",2020-06-09
@@ -196,15 +199,16 @@
 "Itulazax 12sq-bet por lyo 90",2020-02-24
 "Azacitidine accord 25mg/ml inj plv sus 1x100mg",2020-02-22
 "Lannatam 0,4mg cps rdr 50",2020-02-20
+"Tecentriq 1200mg inf cnc sol 1x20ml",2020-02-19
 "Aqua pro iniectione ardeapharma 100% par lqf 1x500ml",2020-02-19
 "Aqua pro iniectione ardeapharma 100% par lqf 1x250ml",2020-02-19
-"Tecentriq 1200mg inf cnc sol 1x20ml",2020-02-19
 "Alfacalcidol cande 1mcg cps mol 30",2020-02-19
 "Alfacalcidol cande 1mcg cps mol 90",2020-02-19
 "Fulphila 6mg inj sol 1x0,6ml ii",2020-02-17
 "Tedez 0,5mg/0,4mg cps dur 90",2020-02-15
 "Aripiprazol glenmark 10mg tbl nob 56x1",2020-02-14
 "Aripiprazol glenmark 15mg tbl nob 56x1",2020-02-14
+"Urogerolan 80mg film-coated tablets 30 ii",2020-02-13
 "Febuxostat mylan 80mg film-coated tablets 28 kal i",2020-02-13
 "Febuxostat msn 80mg film-coated tablets 28",2020-02-13
 "Febuxostat krka 80mg film-coated tablets 28",2020-02-13
@@ -218,7 +222,6 @@
 "Febuxostat accord 80mg film-coated tablets 84",2020-02-13
 "Febuxostat accord 120mg film-coated tablets 28",2020-02-13
 "Febuxostat accord 120mg film-coated tablets 84",2020-02-13
-"Urogerolan 80mg film-coated tablets 30 ii",2020-02-13
 "Truxima 500mg inf cnc sol 1x50ml",2020-02-11
 "Truxima 100mg inf cnc sol 2x10ml",2020-02-11
 "Alfacalcidol cande 1mcg cps mol 30",2020-02-10
@@ -728,7 +731,7 @@
 "Lutrate depot 3,75mg inj plq sus pro 1+1x2ml isp",2019-11-29
 "Mesulid 100mg tbl nob 15",2019-11-29
 "Mesulid 100mg por gra sus 15 i",2019-11-29
-"Vincristine teva 1 mg/ml 1mg/ml inj sol 1x5ml",2019-11-29
+"Vincristine teva 1mg/ml inj sol 1x5ml",2019-11-29
 "Ivabradin teva 5mg film-coated tablets 56",2019-11-29
 "Ivabradin teva 7,5mg film-coated tablets 56",2019-11-29
 "Valganciclovir teva 450mg film-coated tablets 60",2019-11-29
@@ -1778,8 +1781,8 @@
 "Benzetacil 6.3.3. 0,6miu/0,3miu/0,3miu inj psu lqf 1+1amp",2019-01-30
 "Benzetacil 6.3.3. 0,6miu/0,3miu/0,3miu inj psu lqf 1+1amp",2019-01-30
 "Quamatel 40mg film-coated tablets 28",2019-01-30
-"Sumamigren 50 mg 50mg film-coated tablets 6",2019-01-29
-"Sumamigren 100 mg 100mg film-coated tablets 6",2019-01-29
+"Sumamigren 50mg film-coated tablets 6",2019-01-29
+"Sumamigren 100mg film-coated tablets 6",2019-01-29
 "Xaloptic 0,005%(0,05mg/ml) oph gtt sol 1x2,5ml",2019-01-29
 "Xaloptic 0,005%(0,05mg/ml) oph gtt sol 3x2,5ml",2019-01-29
 "Glukóza 5 braun 50mg/ml inf sol 20x100ml",2019-01-29
@@ -1790,7 +1793,6 @@
 "Prevymis 240mg film-coated tablets 28x1",2019-01-21
 "Prevymis 240mg inf cnc sol 1x12ml",2019-01-21
 "Lentocilin s 2400 2,4miu inj psu lqf 1+1",2019-01-17
-"Cimzia 200mg inj sol 2x1ml i",2019-01-11
 "Ardeanutrisol g 5% 5% inf sol 1x80ml",2019-01-11
 "Ardeanutrisol g 5% 5% inf sol 1x500ml",2019-01-11
 "Ardeanutrisol g 10% 10% inf sol 1x80ml",2019-01-11
@@ -1813,10 +1815,13 @@
 "Ardeanutrisol g 5% 5% inf sol 20x80ml",2019-01-11
 "Ardeanutrisol g 5% 5% inf sol 10x500ml",2019-01-11
 "Ardeanutrisol g 5% 5% inf sol 10x250ml",2019-01-11
+"Cimzia 200mg inj sol 2x1ml i",2019-01-11
 "Pergoveris (300iu+150iu)/0,48ml inj sol 1x0,48ml+5j",2019-01-02
 "Pergoveris (450iu+225iu)/0,72ml inj sol 1x0,72ml+7j",2019-01-02
 "Pergoveris (900iu+450iu)/1,44ml inj sol 1x1,44ml+14j",2019-01-02
 "Temozolomide accord 5mg cps dur 5",2018-12-30
+"Water for injection fresenius kabi 100% par lqf 1x500ml ii",2018-12-27
+"Water for injection fresenius kabi 100% par lqf 1x250ml ii",2018-12-27
 "Sodium chloride fresenius kabi 0,9% 9mg/ml inf sol 1x500ml ii",2018-12-27
 "Sodium chloride fresenius kabi 0,9% 9mg/ml inf sol 1x1000ml ii",2018-12-27
 "Sodium chloride fresenius kabi 0,9% 9mg/ml inf sol 1x100ml ii",2018-12-27
@@ -1829,8 +1834,6 @@
 "Grimodin 300mg cps dur 50",2018-12-27
 "Grimodin 400mg cps dur 50",2018-12-27
 "Grimodin 600mg film-coated tablets 120",2018-12-27
-"Water for injection fresenius kabi 100% par lqf 1x500ml ii",2018-12-27
-"Water for injection fresenius kabi 100% par lqf 1x250ml ii",2018-12-27
 "Imbruvica 140mg cps dur 90",2018-12-21
 "Adcetris 50mg inf plv csl 1",2018-12-21
 "Osteogenon 830mg film-coated tablets 40",2018-12-19
