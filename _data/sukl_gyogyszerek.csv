@@ -1,5 +1,15 @@
 "Product","Submission"
 "Semglee 100u/ml inj sol pep 5x3ml",2020-06-24
+"Valsamtrio 5mg/160mg/12,5mg film-coated tablets 30",2020-06-17
+"Valsamtrio 5mg/160mg/12,5mg film-coated tablets 30x1",2020-06-17
+"Valsamtrio 10mg/160mg/12,5mg film-coated tablets 30",2020-06-17
+"Valsamtrio 10mg/160mg/12,5mg film-coated tablets 30x1",2020-06-17
+"Valsamtrio 5mg/160mg/25mg film-coated tablets 30",2020-06-17
+"Valsamtrio 5mg/160mg/25mg film-coated tablets 30x1",2020-06-17
+"Valsamtrio 10mg/160mg/25mg film-coated tablets 30",2020-06-17
+"Valsamtrio 10mg/160mg/25mg film-coated tablets 30x1",2020-06-17
+"Valsamtrio 10mg/320mg/25mg film-coated tablets 30",2020-06-17
+"Valsamtrio 10mg/320mg/25mg film-coated tablets 30x1",2020-06-17
 "Trulicity 0,75mg inj sol 2x0,5ml",2020-06-15
 "Trulicity 0,75mg inj sol 4x0,5ml",2020-06-15
 "Erleada 60mg film-coated tablets 120",2020-06-15
@@ -265,6 +275,9 @@
 "Siranalen 75mg cps dur 112 ii",2019-12-29
 "Kartesada 75mg cps dur 70",2019-12-29
 "Kartesada 150mg cps dur 70",2019-12-29
+"Pregabalin mylan 75mg cps dur 100",2019-12-29
+"Pregabalin mylan 150mg cps dur 100",2019-12-29
+"Pregabalin mylan 300mg cps dur 100",2019-12-29
 "Naxalgan 75mg cps dur 90",2019-12-29
 "Naxalgan 75mg cps dur 56",2019-12-29
 "Naxalgan 150mg cps dur 90",2019-12-29
@@ -273,9 +286,6 @@
 "Naxalgan 300mg cps dur 56",2019-12-29
 "Pragiola 75mg cps dur 90",2019-12-29
 "Pragiola 150mg cps dur 90",2019-12-29
-"Pregabalin mylan 75mg cps dur 100",2019-12-29
-"Pregabalin mylan 150mg cps dur 100",2019-12-29
-"Pregabalin mylan 300mg cps dur 100",2019-12-29
 "Forxiga 5mg film-coated tablets 30x1",2019-12-20
 "Forxiga 5mg film-coated tablets 90x1",2019-12-20
 "Tysabri 300mg inf cnc sol 1x15ml",2019-12-20
@@ -1377,9 +1387,9 @@
 "Diflucan 150mg cps dur 1 i",2019-09-19
 "Diflucan 100mg cps dur 28 i",2019-09-19
 "Spiriva respimat 2,5mcg inh sol 3x60dáv+1inh",2019-09-17
-"Simponi 45mg/0,45ml inj sol pep 1x0,45ml",2019-09-16
 "Kuvan 100mg tbl sol 30",2019-09-16
 "Kuvan 100mg tbl sol 120",2019-09-16
+"Simponi 45mg/0,45ml inj sol pep 1x0,45ml",2019-09-16
 "Lorviqua 25mg film-coated tablets 120",2019-09-13
 "Lorviqua 100mg film-coated tablets 30",2019-09-13
 "Tagrisso 40mg film-coated tablets 30x1",2019-09-12
@@ -1725,6 +1735,9 @@
 "Egolanza 10mg film-coated tablets 56",2019-02-15
 "Egolanza 5mg film-coated tablets 56",2019-02-15
 "Gilenya 0,5mg cps dur 28",2019-02-12
+"Lyxumia 10mcg inj sol 1x3ml",2019-02-08
+"Lyxumia 20mcg inj sol 2x3ml",2019-02-08
+"Lyxumia 10mcg+20mcg inj sol 1x3ml+1x3ml",2019-02-08
 "Apo-gab 100mg cps dur 60",2019-02-08
 "Apo-gab 100mg cps dur 90",2019-02-08
 "Apo-gab 300mg cps dur 60",2019-02-08
@@ -1733,9 +1746,6 @@
 "Apo-gab 400mg cps dur 90",2019-02-08
 "Apo-gab 600mg film-coated tablets 60",2019-02-08
 "Apo-gab 800mg film-coated tablets 60",2019-02-08
-"Lyxumia 10mcg inj sol 1x3ml",2019-02-08
-"Lyxumia 20mcg inj sol 2x3ml",2019-02-08
-"Lyxumia 10mcg+20mcg inj sol 1x3ml+1x3ml",2019-02-08
 "Hulio 40mg inj sol 2x0,8ml",2019-02-05
 "Apo-gab 100mg cps dur 60",2019-02-05
 "Apo-gab 100mg cps dur 90",2019-02-05
@@ -1753,9 +1763,9 @@
 "Kanjinti 420mg inf plv csl 1",2019-02-01
 "Herzuma 150mg inf plv csl 1",2019-02-01
 "Ontruzant 150mg inf plv csl 1",2019-02-01
-"Omeprazol galmed 20 mg 20mg cps etd 14",2019-02-01
-"Omeprazol galmed 20 mg 20mg cps etd 14 i",2019-02-01
-"Omeprazol galmed 20 mg 20mg cps etd 14 ii",2019-02-01
+"Omeprazol galmed 20mg cps etd 14",2019-02-01
+"Omeprazol galmed 20mg cps etd 14 i",2019-02-01
+"Omeprazol galmed 20mg cps etd 14 ii",2019-02-01
 "Rosuvastatin aurovitas 10mg film-coated tablets 30",2019-01-31
 "Rosuvastatin aurovitas 10mg film-coated tablets 100",2019-01-31
 "Rosuvastatin aurovitas 20mg film-coated tablets 100",2019-01-31
@@ -1763,6 +1773,8 @@
 "Rosuvastatin aurovitas 40mg film-coated tablets 30",2019-01-31
 "Rosuvastatin aurovitas 40mg film-coated tablets 100",2019-01-31
 "Adcetris 50mg inf plv csl 1",2019-01-31
+"Apo-bicalutamid 150 mg 150mg film-coated tablets 30",2019-01-31
+"Apo-anastrozol 1 mg 1mg film-coated tablets 30",2019-01-31
 "Tysabri 300mg inf cnc sol 1x15ml",2019-01-31
 "Lemtrada 12mg inf cnc sol 1x1,2ml",2019-01-31
 "Cabometyx 20mg film-coated tablets 30",2019-01-31
@@ -1774,13 +1786,10 @@
 "Egiramlon 5mg/10mg cps dur 100",2019-01-31
 "Egiramlon 10mg/5mg cps dur 100",2019-01-31
 "Egiramlon 10mg/10mg cps dur 100",2019-01-31
-"Apo-anastrozol 1 mg 1mg film-coated tablets 30",2019-01-31
-"Apo-bicalutamid 150 mg 150mg film-coated tablets 30",2019-01-31
-"Benzetacil 1.200.000 iu 1200000iu inj psu lqf 1+1amp",2019-01-30
-"Benzetacil 2.400.000 iu 2400000iu inj psu lqf 1+1amp",2019-01-30
-"Benzetacil 6.3.3. 0,6miu/0,3miu/0,3miu inj psu lqf 1+1amp",2019-01-30
 "Benzetacil 6.3.3. 0,6miu/0,3miu/0,3miu inj psu lqf 1+1amp",2019-01-30
 "Quamatel 40mg film-coated tablets 28",2019-01-30
+"Benzetacil 1.200.000 iu 1200000iu inj psu lqf 1+1amp",2019-01-30
+"Benzetacil 2.400.000 iu 2400000iu inj psu lqf 1+1amp",2019-01-30
 "Sumamigren 50mg film-coated tablets 6",2019-01-29
 "Sumamigren 100mg film-coated tablets 6",2019-01-29
 "Xaloptic 0,005%(0,05mg/ml) oph gtt sol 1x2,5ml",2019-01-29
