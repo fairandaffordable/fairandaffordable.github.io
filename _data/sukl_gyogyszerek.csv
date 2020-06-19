@@ -148,12 +148,12 @@
 "Trelema 100mg film-coated tablets 56 ii",2020-03-28
 "Trelema 150mg film-coated tablets 56 ii",2020-03-28
 "Trelema 200mg film-coated tablets 56 ii",2020-03-28
-"Vimpat 10mg/ml sir 1x200ml",2020-03-27
 "Arkvimma 50mg film-coated tablets 14",2020-03-27
 "Arkvimma 50mg film-coated tablets 56",2020-03-27
 "Arkvimma 100mg film-coated tablets 56",2020-03-27
 "Arkvimma 150mg film-coated tablets 56",2020-03-27
 "Arkvimma 200mg film-coated tablets 56",2020-03-27
+"Vimpat 10mg/ml sir 1x200ml",2020-03-27
 "Tecentriq 1200mg inf cnc sol 1x20ml",2020-03-26
 "Esbriet 267mg film-coated tablets 252(84x3) ii",2020-03-26
 "Ibalgin 600mg film-coated tablets 30",2020-03-26
@@ -266,18 +266,18 @@
 "Nalgesin 550mg film-coated tablets 30",2020-01-25
 "Epipen jr. 150mcg inj sol pep 2x0,3ml",2020-01-21
 "Nplate 250mcg inj pso lqf 1+1x0,72ml isp",2020-01-14
+"Bilamcar 8mg/10mg cps dur 28",2020-01-08
 "Rixathon 100mg inf cnc sol 2x10ml",2020-01-08
 "Rixathon 500mg inf cnc sol 1x50ml",2020-01-08
-"Bilamcar 8mg/10mg cps dur 28",2020-01-08
-"Siranalen 150mg cps dur 112 ii",2019-12-29
-"Siranalen 150mg cps dur 84 ii",2019-12-29
-"Siranalen 75mg cps dur 84 ii",2019-12-29
-"Siranalen 75mg cps dur 112 ii",2019-12-29
 "Kartesada 75mg cps dur 70",2019-12-29
 "Kartesada 150mg cps dur 70",2019-12-29
 "Pregabalin mylan 75mg cps dur 100",2019-12-29
 "Pregabalin mylan 150mg cps dur 100",2019-12-29
 "Pregabalin mylan 300mg cps dur 100",2019-12-29
+"Siranalen 150mg cps dur 112 ii",2019-12-29
+"Siranalen 150mg cps dur 84 ii",2019-12-29
+"Siranalen 75mg cps dur 84 ii",2019-12-29
+"Siranalen 75mg cps dur 112 ii",2019-12-29
 "Naxalgan 75mg cps dur 90",2019-12-29
 "Naxalgan 75mg cps dur 56",2019-12-29
 "Naxalgan 150mg cps dur 90",2019-12-29
@@ -676,6 +676,21 @@
 "Fycompa 12mg film-coated tablets 28",2019-11-30
 "Minirin melt 240mcg por lyo 30",2019-11-30
 "Norprolac 25mcg+50mcg tbl nob 3+3",2019-11-30
+"Vincristine teva 1mg/ml inj sol 1x5ml",2019-11-29
+"Ivabradin teva 5mg film-coated tablets 56",2019-11-29
+"Ivabradin teva 7,5mg film-coated tablets 56",2019-11-29
+"Valganciclovir teva 450mg film-coated tablets 60",2019-11-29
+"Docetaxel teva 20mg/ml inf cnc sol 1x1ml",2019-11-29
+"Docetaxel teva 20mg/ml inf cnc sol 1x4ml",2019-11-29
+"Copaxone 40mg/ml inj sol isp 3x1ml",2019-11-29
+"Zoleptil 25 25mg tbl obd 30",2019-11-29
+"Zoleptil 50 50mg tbl obd 30",2019-11-29
+"Oxykodon teva 10mg tbl pro 30 ii",2019-11-29
+"Oxykodon teva 20mg tbl pro 30 ii",2019-11-29
+"Oxykodon teva 40mg tbl pro 30 ii",2019-11-29
+"Oxykodon teva 80mg tbl pro 30 ii",2019-11-29
+"Efavirenz/ emtricitabine/ tenofovir disoproxil teva 600mg/200mg/245mg film-coated tablets 30",2019-11-29
+"Efavirenz/ emtricitabine/ tenofovir disoproxil teva 600mg/200mg/245mg film-coated tablets 30x1",2019-11-29
 "Fluconazole aurovitas 100mg cps dur 7",2019-11-29
 "Lamotrigin aurovitas 25mg tbl nob 30",2019-11-29
 "Lamotrigin aurovitas 100mg tbl nob 30",2019-11-29
@@ -741,25 +756,15 @@
 "Lutrate depot 3,75mg inj plq sus pro 1+1x2ml isp",2019-11-29
 "Mesulid 100mg tbl nob 15",2019-11-29
 "Mesulid 100mg por gra sus 15 i",2019-11-29
-"Vincristine teva 1mg/ml inj sol 1x5ml",2019-11-29
-"Ivabradin teva 5mg film-coated tablets 56",2019-11-29
-"Ivabradin teva 7,5mg film-coated tablets 56",2019-11-29
-"Valganciclovir teva 450mg film-coated tablets 60",2019-11-29
-"Docetaxel teva 20mg/ml inf cnc sol 1x1ml",2019-11-29
-"Docetaxel teva 20mg/ml inf cnc sol 1x4ml",2019-11-29
-"Copaxone 40mg/ml inj sol isp 3x1ml",2019-11-29
-"Zoleptil 25 25mg tbl obd 30",2019-11-29
-"Zoleptil 50 50mg tbl obd 30",2019-11-29
-"Oxykodon teva 10mg tbl pro 30 ii",2019-11-29
-"Oxykodon teva 20mg tbl pro 30 ii",2019-11-29
-"Oxykodon teva 40mg tbl pro 30 ii",2019-11-29
-"Oxykodon teva 80mg tbl pro 30 ii",2019-11-29
-"Efavirenz/ emtricitabine/ tenofovir disoproxil teva 600mg/200mg/245mg film-coated tablets 30",2019-11-29
-"Efavirenz/ emtricitabine/ tenofovir disoproxil teva 600mg/200mg/245mg film-coated tablets 30x1",2019-11-29
 "Infalin duo 3mg/ml+0,25mg/ml aur gtt sol 10ml",2019-11-29
 "Risperdal 1mg film-coated tablets 20",2019-11-29
 "Wakix 4,5mg film-coated tablets 30",2019-11-28
 "Wakix 18mg film-coated tablets 30",2019-11-28
+"Atorvastatin +pharma 20mg film-coated tablets 30",2019-11-28
+"Setaloft 50mg film-coated tablets 30",2019-11-28
+"Setaloft 100mg film-coated tablets 30",2019-11-28
+"Hyplafin 5mg film-coated tablets 30 i",2019-11-28
+"Duloxetin +pharma 30mg cps etd 10",2019-11-28
 "Helixate nexgen 1000iu inj pso lqf 1+1x2,5ml+set",2019-11-28
 "Ventavis 10mcg/ml sol neb 30x2ml i",2019-11-28
 "Helixate nexgen 2000iu inj pso lqf 1+1x5ml+set",2019-11-28
@@ -774,11 +779,6 @@
 "Palladone sr 24mg cps pro 30",2019-11-28
 "Flutiform k-haler 50mcg/5mcg/dáv inh sus pss 3x120dáv",2019-11-28
 "Flutiform k-haler 125mcg/5mcg/dáv inh sus pss 3x120dáv",2019-11-28
-"Atorvastatin +pharma 20mg film-coated tablets 30",2019-11-28
-"Setaloft 50mg film-coated tablets 30",2019-11-28
-"Setaloft 100mg film-coated tablets 30",2019-11-28
-"Hyplafin 5mg film-coated tablets 30 i",2019-11-28
-"Duloxetin +pharma 30mg cps etd 10",2019-11-28
 "Alimta 100mg inf plv csl 1",2019-11-28
 "Strattera 60mg cps dur 7",2019-11-28
 "Bosentan abdi 62,5mg film-coated tablets 56",2019-11-28
@@ -816,6 +816,10 @@
 "Lozap 50 zentiva 50mg film-coated tablets 30 i",2019-11-28
 "Lozap 100 zentiva 100mg film-coated tablets 90 al",2019-11-28
 "Amlodipin vitabalans 10 mg 10mg tbl nob 30",2019-11-28
+"Novoseven 1mg(50kiu) inj pso lqf 1+1x1,1ml ii",2019-11-27
+"Novoseven 2mg(100kiu) inj pso lqf 1+1x2,1ml ii",2019-11-27
+"Novoseven 5mg(250kiu) inj pso lqf 1+1x5,2ml ii",2019-11-27
+"Victoza 6mg/ml inj sol 3x3ml",2019-11-27
 "Braunovidon gáza s mastí 0,1g/g lig ipr 1x7,5cm",2019-11-27
 "Braunovidon gáza s mastí 0,1g/g lig ipr 1x20cm",2019-11-27
 "Braunovidon gáza s mastí 0,1g/g lig ipr 10x7,5cm",2019-11-27
@@ -869,10 +873,6 @@
 "Aranesp 150mcg inj sol isp 1x0,3ml ii",2019-11-27
 "Aranesp 300mcg inj sol isp 1x0,6ml ii",2019-11-27
 "Kanjinti 420mg inf plv csl 1",2019-11-27
-"Novoseven 1mg(50kiu) inj pso lqf 1+1x1,1ml ii",2019-11-27
-"Novoseven 2mg(100kiu) inj pso lqf 1+1x2,1ml ii",2019-11-27
-"Novoseven 5mg(250kiu) inj pso lqf 1+1x5,2ml ii",2019-11-27
-"Victoza 6mg/ml inj sol 3x3ml",2019-11-27
 "Roferon-a 9 miu/0,5 ml 9miu/0,5ml inj sol isp 5x0,5ml",2019-11-27
 "Roferon-a 6 miu/0,5 ml 6miu/0,5ml inj sol isp 5x0,5ml",2019-11-27
 "Roferon-a 3 miu/0,5ml 3miu/0,5ml inj sol isp 5x0,5ml",2019-11-27
@@ -1282,9 +1282,9 @@
 "Jentadueto 2,5mg/850mg film-coated tablets 180(2x90x1)",2019-11-21
 "Spiolto respimat 2,5 mikrogramů/2,5 mikrogramů 2,5mcg/2,5mcg/dáv inh sol 3x60dáv+3inh",2019-11-21
 "Fosrenol 500mg tbl mnd 90(2x45)",2019-11-21
-"Vizilatan 50mcg/ml oph gtt sol 1x2,5ml",2019-11-20
 "Remodulin 1mg/ml inf sol 1x20ml",2019-11-20
 "Remodulin 10mg/ml inf sol 1x20ml",2019-11-20
+"Vizilatan 50mcg/ml oph gtt sol 1x2,5ml",2019-11-20
 "Transtec 35mcg/h tdr emp 10",2019-11-20
 "Transtec 52,5mcg/h tdr emp 10",2019-11-20
 "Transtec 70mcg/h tdr emp 10",2019-11-20
@@ -1342,10 +1342,10 @@
 "Humira 40mg inj sol 2x0,4ml",2019-11-06
 "Humira 40mg inj sol 2x0,4ml i",2019-11-06
 "Velbienne 2mg/1mg 2mg/1mg film-coated tablets 3x28",2019-11-05
-"Xarelto 2,5mg film-coated tablets 100x1 ii",2019-11-01
-"Xarelto 10mg film-coated tablets 100x1 ii",2019-11-01
 "Somatuline autogel 120mg inj sol isp 1x0,5ml+stř",2019-11-01
 "Somatuline autogel 60mg inj sol isp 1x0,5ml+stř",2019-11-01
+"Xarelto 2,5mg film-coated tablets 100x1 ii",2019-11-01
+"Xarelto 10mg film-coated tablets 100x1 ii",2019-11-01
 "Virgan 1,5mg/g oční gel 1,5mg/g oph gel 1x5g ii",2019-10-31
 "Parsabiv 2,5mg inj sol 6x0,5ml",2019-10-29
 "Parsabiv 5mg inj sol 6x1ml",2019-10-29
@@ -1470,8 +1470,6 @@
 "Adempas 2,5mg film-coated tablets 42",2019-08-09
 "Pregabalin sandoz 75mg cps dur 56",2019-08-08
 "Pregabalin sandoz 150mg cps dur 56",2019-08-08
-"Idacio 40mg inj sol 2x0,8ml",2019-08-02
-"Remsima 100mg inf plv csl 4",2019-08-02
 "Entyvio 300mg inf plv csl 1",2019-08-02
 "Kevzara 150mg inj sol 2x1,14ml",2019-08-02
 "Kevzara 200mg inj sol 2x1,14ml",2019-08-02
@@ -1486,6 +1484,8 @@
 "Xeljanz 10mg film-coated tablets 56",2019-08-02
 "Xeljanz 10mg film-coated tablets 112",2019-08-02
 "Xeljanz 10mg film-coated tablets 182",2019-08-02
+"Idacio 40mg inj sol 2x0,8ml",2019-08-02
+"Remsima 100mg inf plv csl 4",2019-08-02
 "Otezla 30mg film-coated tablets 56",2019-08-02
 "Otezla 10mg+20mg+30mg film-coated tablets 4x10mg+4x20mg+19x30mg",2019-08-02
 "Taptiqom 15mcg/ml+5mg/ml oph gtt sol mdc 30x0,3ml",2019-07-31
@@ -1593,8 +1593,6 @@
 "Everolimus teva 10mg tbl nob 30x1",2019-05-24
 "Febuxostat krka 80mg film-coated tablets 28",2019-05-24
 "Febuxostat krka 120mg film-coated tablets 28",2019-05-24
-"Diphereline s.r. 3mg inj plq sus pro 1+1x2ml amp",2019-05-22
-"Lenvima 4mg cps dur 30",2019-05-22
 "Euvascor 10mg/5mg cps dur 30",2019-05-22
 "Euvascor 20mg/5mg cps dur 30",2019-05-22
 "Euvascor 40mg/5mg cps dur 30",2019-05-22
@@ -1603,6 +1601,8 @@
 "Euvascor 40mg/10mg cps dur 30",2019-05-22
 "Suliqua 100u/ml+50mcg/ml inj sol 5x3ml",2019-05-22
 "Suliqua 100u/ml+33mcg/ml inj sol 5x3ml",2019-05-22
+"Diphereline s.r. 3mg inj plq sus pro 1+1x2ml amp",2019-05-22
+"Lenvima 4mg cps dur 30",2019-05-22
 "Diphereline s.r. 22,5mg inj plq sus pro 1+1x2ml amp",2019-05-22
 "Opdivo 10mg/ml inf cnc sol 1x24ml",2019-05-21
 "Ryzodeg 100u/ml inj sol pep 5x3ml",2019-05-17
@@ -1762,17 +1762,16 @@
 "Kanjinti 150mg inf plv csl 1",2019-02-01
 "Kanjinti 420mg inf plv csl 1",2019-02-01
 "Herzuma 150mg inf plv csl 1",2019-02-01
-"Ontruzant 150mg inf plv csl 1",2019-02-01
 "Omeprazol galmed 20mg cps etd 14",2019-02-01
 "Omeprazol galmed 20mg cps etd 14 i",2019-02-01
 "Omeprazol galmed 20mg cps etd 14 ii",2019-02-01
+"Ontruzant 150mg inf plv csl 1",2019-02-01
 "Rosuvastatin aurovitas 10mg film-coated tablets 30",2019-01-31
 "Rosuvastatin aurovitas 10mg film-coated tablets 100",2019-01-31
 "Rosuvastatin aurovitas 20mg film-coated tablets 100",2019-01-31
 "Rosuvastatin aurovitas 20mg film-coated tablets 30",2019-01-31
 "Rosuvastatin aurovitas 40mg film-coated tablets 30",2019-01-31
 "Rosuvastatin aurovitas 40mg film-coated tablets 100",2019-01-31
-"Adcetris 50mg inf plv csl 1",2019-01-31
 "Apo-bicalutamid 150 mg 150mg film-coated tablets 30",2019-01-31
 "Apo-anastrozol 1 mg 1mg film-coated tablets 30",2019-01-31
 "Tysabri 300mg inf cnc sol 1x15ml",2019-01-31
@@ -1786,6 +1785,7 @@
 "Egiramlon 5mg/10mg cps dur 100",2019-01-31
 "Egiramlon 10mg/5mg cps dur 100",2019-01-31
 "Egiramlon 10mg/10mg cps dur 100",2019-01-31
+"Adcetris 50mg inf plv csl 1",2019-01-31
 "Benzetacil 6.3.3. 0,6miu/0,3miu/0,3miu inj psu lqf 1+1amp",2019-01-30
 "Quamatel 40mg film-coated tablets 28",2019-01-30
 "Benzetacil 1.200.000 iu 1200000iu inj psu lqf 1+1amp",2019-01-30
@@ -1843,8 +1843,8 @@
 "Grimodin 300mg cps dur 50",2018-12-27
 "Grimodin 400mg cps dur 50",2018-12-27
 "Grimodin 600mg film-coated tablets 120",2018-12-27
-"Imbruvica 140mg cps dur 90",2018-12-21
 "Adcetris 50mg inf plv csl 1",2018-12-21
+"Imbruvica 140mg cps dur 90",2018-12-21
 "Osteogenon 830mg film-coated tablets 40",2018-12-19
 "Alecensa 150mg cps dur 240",2018-12-17
 "Humira 40mg inj sol 2x0,8ml",2018-12-17
