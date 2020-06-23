@@ -1,5 +1,6 @@
 "Product","Submission"
 "Semglee 100u/ml inj sol pep 5x3ml",2020-06-24
+"Clarelux 500mcg/g drm spm 100g",2020-06-22
 "Olpinat 5 mg 5mg film-coated tablets 56",2020-06-19
 "Olpinat 10 mg 10mg film-coated tablets 56",2020-06-19
 "Derin 25 mg potahované tablety 25mg film-coated tablets 60",2020-06-19
@@ -122,12 +123,12 @@
 "Opdivo 10mg/ml inf cnc sol 1x4ml",2020-03-31
 "Opdivo 10mg/ml inf cnc sol 1x10ml",2020-03-31
 "Bosentan ebewe 125mg film-coated tablets 56",2020-03-31
-"Bosentan pharmascience international 125 mg potahované tablety 125mg film-coated tablets 56x1",2020-03-31
+"Bosentan welding 125 mg 125mg film-coated tablets 56",2020-03-31
 "Bosentan avmc 125mg film-coated tablets 56x1",2020-03-31
 "Empliciti 300mg inf plv csl 1",2020-03-31
 "Empliciti 400mg inf plv csl 1",2020-03-31
 "Kanuma 2mg/ml inf cnc sol 1x10ml",2020-03-31
-"Bosentan welding 125 mg 125mg film-coated tablets 56",2020-03-31
+"Bosentan pharmascience international 125 mg potahované tablety 125mg film-coated tablets 56x1",2020-03-31
 "Mavenclad 10mg tbl nob 1",2020-03-30
 "Mavenclad 10mg tbl nob 4",2020-03-30
 "Mavenclad 10mg tbl nob 6",2020-03-30
@@ -1750,7 +1751,6 @@
 "Apo-gab 400mg cps dur 90",2019-02-08
 "Apo-gab 600mg film-coated tablets 60",2019-02-08
 "Apo-gab 800mg film-coated tablets 60",2019-02-08
-"Hulio 40mg inj sol 2x0,8ml",2019-02-05
 "Apo-gab 100mg cps dur 60",2019-02-05
 "Apo-gab 100mg cps dur 90",2019-02-05
 "Apo-gab 300mg cps dur 60",2019-02-05
@@ -1759,6 +1759,7 @@
 "Apo-gab 400mg cps dur 90",2019-02-05
 "Apo-gab 600mg film-coated tablets 60",2019-02-05
 "Apo-gab 800mg film-coated tablets 60",2019-02-05
+"Hulio 40mg inj sol 2x0,8ml",2019-02-05
 "Kanjinti 150mg inf plv csl 1",2019-02-04
 "Kanjinti 420mg inf plv csl 1",2019-02-04
 "Rosemig sprintab 50 mg 50mg tbl sus 6 i",2019-02-02
@@ -1861,12 +1862,12 @@
 "Temozolomide glenmark 180mg cps dur 5",2018-12-14
 "Temozolomide glenmark 250mg cps dur 5",2018-12-14
 "Gazyvaro 1000mg inf cnc sol 1x40ml",2018-12-12
+"Mesalazin espl 1600mg tbl ret 60",2018-12-12
+"Asacol 1600mg tbl ret 60",2018-12-12
 "Steglatro 5mg film-coated tablets 28",2018-12-12
 "Steglatro 5mg film-coated tablets 98",2018-12-12
 "Segluromet 2,5mg/1000mg film-coated tablets 56",2018-12-12
 "Segluromet 2,5mg/1000mg film-coated tablets 196(4x49)",2018-12-12
-"Mesalazin espl 1600mg tbl ret 60",2018-12-12
-"Asacol 1600mg tbl ret 60",2018-12-12
 "Nivestim 30mu/0,5ml inj/inf sol 5x0,5ml",2018-12-09
 "Toviaz 4mg tbl pro 28",2018-12-05
 "Toviaz 8mg tbl pro 28",2018-12-05
