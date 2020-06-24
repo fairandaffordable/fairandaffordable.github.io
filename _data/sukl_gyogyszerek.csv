@@ -1,5 +1,8 @@
 "Product","Submission"
 "Semglee 100u/ml inj sol pep 5x3ml",2020-06-24
+"Movymia 20mcg/80mcl inj sol 3x2,4ml",2020-06-23
+"Movymia 20mcg/80mcl inj sol 1x2,4ml+pero",2020-06-23
+"Terrosa 20mcg/80mcl inj sol 1x2,4ml+terrosa pen",2020-06-23
 "Clarelux 500mcg/g drm spm 100g",2020-06-22
 "Olpinat 5 mg 5mg film-coated tablets 56",2020-06-19
 "Olpinat 10 mg 10mg film-coated tablets 56",2020-06-19
@@ -104,6 +107,11 @@
 "Darzalex 20mg/ml inf cnc sol 1x5ml",2020-04-08
 "Darzalex 20mg/ml inf cnc sol 1x20ml",2020-04-08
 "Mabthera 1600mg inj sol 1x13,4ml",2020-04-08
+"Temozolomide accord 20mg cps dur 5",2020-04-08
+"Temozolomide accord 100mg cps dur 5",2020-04-08
+"Temozolomide accord 140mg cps dur 5",2020-04-08
+"Temozolomide accord 180mg cps dur 5",2020-04-08
+"Temozolomide accord 250mg cps dur 5",2020-04-08
 "Imatinib mylan 400 mg 400mg film-coated tablets 30",2020-04-08
 "Imatinib mylan 400mg film-coated tablets 30",2020-04-08
 "Meaxin 400mg film-coated tablets 30 ii",2020-04-08
@@ -112,11 +120,6 @@
 "Imatinib glenmark 400mg film-coated tablets 30",2020-04-08
 "Latib 100 mg 100mg cps dur 60",2020-04-08
 "Latib 400 mg 400mg cps dur 30",2020-04-08
-"Temozolomide accord 20mg cps dur 5",2020-04-08
-"Temozolomide accord 100mg cps dur 5",2020-04-08
-"Temozolomide accord 140mg cps dur 5",2020-04-08
-"Temozolomide accord 180mg cps dur 5",2020-04-08
-"Temozolomide accord 250mg cps dur 5",2020-04-08
 "Salofalk 4g rct sus 7x60g",2020-04-07
 "Bavencio 20mg/ml inf cnc sol 1x10ml",2020-04-05
 "Klabax 500mg film-coated tablets 14",2020-04-02
@@ -1372,7 +1375,7 @@
 "Pergoveris 150iu/75iu inj pso lqf 10+10x1ml",2019-10-11
 "Zetovar 10mg/80mg tbl nob 30",2019-10-10
 "Dupixent 300mg inj sol 2x2ml ii",2019-10-09
-"Suliqua 100u/ml+50mcg/ml inj sol 5x3ml",2019-10-08
+"Suliqua 100u/ml+33mcg/ml inj sol 5x3ml",2019-10-08
 "Exviera 250mg film-coated tablets 56(4x14)",2019-10-07
 "Viekirax 12,5mg/75mg/50mg film-coated tablets 56(4x14)",2019-10-07
 "Hulio 40mg inj sol 6x0,8ml",2019-10-04
@@ -1485,10 +1488,10 @@
 "Stelara 90mg inj sol isp 1x1ml",2019-08-02
 "Stelara 130mg inf cnc sol 1x26ml",2019-08-02
 "Stelara 45mg inj sol 1x0,5ml",2019-08-02
-"Olumiant 4mg film-coated tablets 35 i",2019-08-02
 "Xeljanz 10mg film-coated tablets 56",2019-08-02
 "Xeljanz 10mg film-coated tablets 112",2019-08-02
 "Xeljanz 10mg film-coated tablets 182",2019-08-02
+"Olumiant 4mg film-coated tablets 35 i",2019-08-02
 "Idacio 40mg inj sol 2x0,8ml",2019-08-02
 "Remsima 100mg inf plv csl 4",2019-08-02
 "Otezla 30mg film-coated tablets 56",2019-08-02
