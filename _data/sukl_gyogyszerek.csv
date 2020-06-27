@@ -1410,6 +1410,7 @@
 "Kuvan 100mg tbl sol 30",2019-09-12
 "Kuvan 100mg tbl sol 120",2019-09-12
 "Derin 200 mg potahované tablety 200mg film-coated tablets 90",2019-09-09
+"Coltowan 10mg tbl nob 90",2019-09-06
 "Noveze 10mg tbl nob 30 ii",2019-09-06
 "Noveze 10mg tbl nob 98 ii",2019-09-06
 "Ezetimibe glenmark 10mg tbl nob 30",2019-09-06
@@ -1434,7 +1435,6 @@
 "Hartmann´s solution fresenius kabi inf sol 1x1000ml ii",2019-09-06
 "Ringer's solution fresenius kabi inf sol 1x500ml ii",2019-09-06
 "Ringer's solution fresenius kabi inf sol 1x1000ml ii",2019-09-06
-"Coltowan 10mg tbl nob 90",2019-09-06
 "Bisocard 5 5mg film-coated tablets 30",2019-09-06
 "Bisocard 10 10mg film-coated tablets 30",2019-09-06
 "Orencia 250mg inf plv csl 1+1xstř",2019-09-05
@@ -1474,8 +1474,8 @@
 "Wamlox 10mg/160mg film-coated tablets 90",2019-08-19
 "Ozempic 1mg inj sol 1x3ml+4j",2019-08-16
 "Bevespi aerosphere 7,2mcg/5mcg inh sus pss 1x120dáv",2019-08-15
-"Bosentan ebewe 125mg film-coated tablets 56",2019-08-12
 "Bosentan welding 125 mg 125mg film-coated tablets 56",2019-08-12
+"Bosentan ebewe 125mg film-coated tablets 56",2019-08-12
 "Adempas 0,5mg film-coated tablets 42",2019-08-09
 "Adempas 1mg film-coated tablets 42",2019-08-09
 "Adempas 1,5mg film-coated tablets 42",2019-08-09
@@ -1490,13 +1490,13 @@
 "Kyntheum 210mg inj sol 2x1,5ml",2019-08-02
 "Tremfya 100mg inj sol 1x1ml",2019-08-02
 "Taltz 80mg inj sol pep 2x1ml",2019-08-02
+"Olumiant 4mg film-coated tablets 35 i",2019-08-02
 "Xeljanz 10mg film-coated tablets 56",2019-08-02
 "Xeljanz 10mg film-coated tablets 112",2019-08-02
 "Xeljanz 10mg film-coated tablets 182",2019-08-02
 "Stelara 90mg inj sol isp 1x1ml",2019-08-02
 "Stelara 130mg inf cnc sol 1x26ml",2019-08-02
 "Stelara 45mg inj sol 1x0,5ml",2019-08-02
-"Olumiant 4mg film-coated tablets 35 i",2019-08-02
 "Idacio 40mg inj sol 2x0,8ml",2019-08-02
 "Remsima 100mg inf plv csl 4",2019-08-02
 "Otezla 30mg film-coated tablets 56",2019-08-02
@@ -1722,11 +1722,11 @@
 "Jivi 2000iu inj pso lqf 1+1x2,5ml isp+ad",2019-03-06
 "Jivi 3000iu inj pso lqf 1+1x2,5ml isp+ad",2019-03-06
 "Xermelo 250mg film-coated tablets 90",2019-03-04
-"Ogivri 150mg inf plv csl 1",2019-03-01
 "Lixiana 30mg film-coated tablets 30",2019-03-01
 "Lixiana 30mg film-coated tablets 100",2019-03-01
 "Lixiana 60mg film-coated tablets 30",2019-03-01
 "Lixiana 60mg film-coated tablets 100",2019-03-01
+"Ogivri 150mg inf plv csl 1",2019-03-01
 "Aldara 5% crm 12x250mg",2019-03-01
 "Bikalard 150mg film-coated tablets 90 i",2019-03-01
 "Escitil 10mg film-coated tablets 56",2019-02-22
@@ -1775,10 +1775,10 @@
 "Kanjinti 150mg inf plv csl 1",2019-02-01
 "Kanjinti 420mg inf plv csl 1",2019-02-01
 "Herzuma 150mg inf plv csl 1",2019-02-01
+"Ontruzant 150mg inf plv csl 1",2019-02-01
 "Omeprazol galmed 20mg cps etd 14",2019-02-01
 "Omeprazol galmed 20mg cps etd 14 i",2019-02-01
 "Omeprazol galmed 20mg cps etd 14 ii",2019-02-01
-"Ontruzant 150mg inf plv csl 1",2019-02-01
 "Rosuvastatin aurovitas 10mg film-coated tablets 30",2019-01-31
 "Rosuvastatin aurovitas 10mg film-coated tablets 100",2019-01-31
 "Rosuvastatin aurovitas 20mg film-coated tablets 100",2019-01-31
@@ -1844,6 +1844,9 @@
 "Temozolomide accord 5mg cps dur 5",2018-12-30
 "Water for injection fresenius kabi 100% par lqf 1x500ml ii",2018-12-27
 "Water for injection fresenius kabi 100% par lqf 1x250ml ii",2018-12-27
+"Grimodin 300mg cps dur 50",2018-12-27
+"Grimodin 400mg cps dur 50",2018-12-27
+"Grimodin 600mg film-coated tablets 120",2018-12-27
 "Sodium chloride fresenius kabi 0,9% 9mg/ml inf sol 1x500ml ii",2018-12-27
 "Sodium chloride fresenius kabi 0,9% 9mg/ml inf sol 1x1000ml ii",2018-12-27
 "Sodium chloride fresenius kabi 0,9% 9mg/ml inf sol 1x100ml ii",2018-12-27
@@ -1853,9 +1856,6 @@
 "Glucose fresenius kabi 5% 50mg/ml inf sol 1x250ml ii",2018-12-27
 "Glucose fresenius kabi 5% 50mg/ml inf sol 1x500ml ii",2018-12-27
 "Glucose fresenius kabi 5% 50mg/ml inf sol 1x100ml ii",2018-12-27
-"Grimodin 300mg cps dur 50",2018-12-27
-"Grimodin 400mg cps dur 50",2018-12-27
-"Grimodin 600mg film-coated tablets 120",2018-12-27
 "Adcetris 50mg inf plv csl 1",2018-12-21
 "Imbruvica 140mg cps dur 90",2018-12-21
 "Osteogenon 830mg film-coated tablets 40",2018-12-19
