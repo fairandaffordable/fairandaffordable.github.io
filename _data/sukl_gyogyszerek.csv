@@ -269,13 +269,13 @@
 "Amelgen 400mg vag glb 15",2020-01-31
 "Amelgen 400mg vag glb 45",2020-01-31
 "Idacio 40mg inj sol 2x0,8ml",2020-01-31
-"Libtayo 350mg inf cnc sol 1x7ml",2020-01-30
-"Opdivo 10mg/ml inf cnc sol 1x4ml",2020-01-30
-"Opdivo 10mg/ml inf cnc sol 1x10ml",2020-01-30
 "Revlimid 5mg cps dur 21",2020-01-30
 "Revlimid 10mg cps dur 21",2020-01-30
 "Revlimid 15mg cps dur 21",2020-01-30
 "Revlimid 25mg cps dur 21",2020-01-30
+"Libtayo 350mg inf cnc sol 1x7ml",2020-01-30
+"Opdivo 10mg/ml inf cnc sol 1x4ml",2020-01-30
+"Opdivo 10mg/ml inf cnc sol 1x10ml",2020-01-30
 "Aubagio 14mg film-coated tablets 28",2020-01-29
 "Trazimera 150mg inf plv csl 1",2020-01-27
 "Pradaxa 110mg cps dur 10x1 i",2020-01-27
@@ -1745,6 +1745,9 @@
 "Bikalard 150mg film-coated tablets 90 i",2019-03-01
 "Escitil 10mg film-coated tablets 56",2019-02-22
 "Escitil 20mg film-coated tablets 28",2019-02-22
+"Briviact 10mg/ml por sol 1x300ml",2019-02-22
+"Anagrelid sandoz 0,5mg cps dur 100",2019-02-22
+"Anagrelid leram 0,5mg cps dur 100",2019-02-22
 "Capecitabine pharmagen 150mg film-coated tablets 60 i",2019-02-22
 "Capecitabine pharmagen 150mg film-coated tablets 60 ii",2019-02-22
 "Capecitabine pharmagen 500mg film-coated tablets 120 i",2019-02-22
@@ -1754,9 +1757,6 @@
 "Capecitabine mylan 500mg film-coated tablets 120 i",2019-02-22
 "Capecitabine mylan 500mg film-coated tablets 120 ii",2019-02-22
 "Capecitabine glenmark 500mg film-coated tablets 60 ii",2019-02-22
-"Briviact 10mg/ml por sol 1x300ml",2019-02-22
-"Anagrelid sandoz 0,5mg cps dur 100",2019-02-22
-"Anagrelid leram 0,5mg cps dur 100",2019-02-22
 "Hyrimoz 40mg inj sol 2x0,8ml",2019-02-22
 "Egolanza 7,5mg film-coated tablets 56",2019-02-15
 "Egolanza 10mg film-coated tablets 56",2019-02-15
