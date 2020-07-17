@@ -300,15 +300,15 @@
 "Bilamcar 8mg/10mg cps dur 28",2020-01-08
 "Rixathon 100mg inf cnc sol 2x10ml",2020-01-08
 "Rixathon 500mg inf cnc sol 1x50ml",2020-01-08
-"Siranalen 150mg cps dur 112 ii",2019-12-29
-"Siranalen 150mg cps dur 84 ii",2019-12-29
-"Siranalen 75mg cps dur 84 ii",2019-12-29
-"Siranalen 75mg cps dur 112 ii",2019-12-29
 "Kartesada 75mg cps dur 70",2019-12-29
 "Kartesada 150mg cps dur 70",2019-12-29
 "Pregabalin mylan 75mg cps dur 100",2019-12-29
 "Pregabalin mylan 150mg cps dur 100",2019-12-29
 "Pregabalin mylan 300mg cps dur 100",2019-12-29
+"Siranalen 150mg cps dur 112 ii",2019-12-29
+"Siranalen 150mg cps dur 84 ii",2019-12-29
+"Siranalen 75mg cps dur 84 ii",2019-12-29
+"Siranalen 75mg cps dur 112 ii",2019-12-29
 "Naxalgan 75mg cps dur 90",2019-12-29
 "Naxalgan 75mg cps dur 56",2019-12-29
 "Naxalgan 150mg cps dur 90",2019-12-29
@@ -1429,6 +1429,9 @@
 "Kuvan 100mg tbl sol 120",2019-09-12
 "Derin 200 mg potahované tablety 200mg film-coated tablets 90",2019-09-09
 "Coltowan 10mg tbl nob 90",2019-09-06
+"Egitim 10mg tbl nob 30(3x10)",2019-09-06
+"Egitim 10mg tbl nob 60(6x10)",2019-09-06
+"Egitim 10mg tbl nob 90(9x10)",2019-09-06
 "Noveze 10mg tbl nob 30 ii",2019-09-06
 "Noveze 10mg tbl nob 98 ii",2019-09-06
 "Ezetimibe glenmark 10mg tbl nob 30",2019-09-06
@@ -1440,9 +1443,6 @@
 "Ezetimib aurovitas 10mg tbl nob 98",2019-09-06
 "Ezetimib apotex 10mg tbl nob 30 i",2019-09-06
 "Ezetimib apotex 10mg tbl nob 100 i",2019-09-06
-"Egitim 10mg tbl nob 30(3x10)",2019-09-06
-"Egitim 10mg tbl nob 60(6x10)",2019-09-06
-"Egitim 10mg tbl nob 90(9x10)",2019-09-06
 "Adezop 10mg tbl nob 28",2019-09-06
 "Adezop 10mg tbl nob 84",2019-09-06
 "Abilify 10mg por tbl dis 28x1",2019-09-06
