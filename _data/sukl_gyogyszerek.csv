@@ -1,4 +1,7 @@
 "Product","Submission"
+"Pragiola 75mg cps dur 90",2020-07-16
+"Pragiola 150mg cps dur 90",2020-07-16
+"Eylea 40mg/ml inj sol 1x0,09ml",2020-07-16
 "Revlimid 5mg cps dur 21",2020-07-15
 "Revlimid 10mg cps dur 21",2020-07-15
 "Revlimid 15mg cps dur 21",2020-07-15
@@ -71,7 +74,6 @@
 "Ezetimibe glenmark 10mg tbl nob 90",2020-05-29
 "Telmark 80 mg 80mg film-coated tablets 28",2020-05-29
 "Telmark 80 mg 80mg film-coated tablets 98",2020-05-29
-"Fortecortin 4 4mg tbl nob 30",2020-05-22
 "Fortecortin 4mg tbl nob 30",2020-05-22
 "Amarhyton 50mg cps pro 30",2020-05-18
 "Amarhyton 100mg cps pro 30",2020-05-18
@@ -1428,10 +1430,10 @@
 "Kuvan 100mg tbl sol 30",2019-09-12
 "Kuvan 100mg tbl sol 120",2019-09-12
 "Derin 200 mg potahované tablety 200mg film-coated tablets 90",2019-09-09
-"Coltowan 10mg tbl nob 90",2019-09-06
 "Egitim 10mg tbl nob 30(3x10)",2019-09-06
 "Egitim 10mg tbl nob 60(6x10)",2019-09-06
 "Egitim 10mg tbl nob 90(9x10)",2019-09-06
+"Coltowan 10mg tbl nob 90",2019-09-06
 "Noveze 10mg tbl nob 30 ii",2019-09-06
 "Noveze 10mg tbl nob 98 ii",2019-09-06
 "Ezetimibe glenmark 10mg tbl nob 30",2019-09-06
@@ -1508,13 +1510,13 @@
 "Kyntheum 210mg inj sol 2x1,5ml",2019-08-02
 "Tremfya 100mg inj sol 1x1ml",2019-08-02
 "Taltz 80mg inj sol pep 2x1ml",2019-08-02
-"Olumiant 4mg film-coated tablets 35 i",2019-08-02
-"Xeljanz 10mg film-coated tablets 56",2019-08-02
-"Xeljanz 10mg film-coated tablets 112",2019-08-02
-"Xeljanz 10mg film-coated tablets 182",2019-08-02
 "Stelara 90mg inj sol isp 1x1ml",2019-08-02
 "Stelara 130mg inf cnc sol 1x26ml",2019-08-02
 "Stelara 45mg inj sol 1x0,5ml",2019-08-02
+"Xeljanz 10mg film-coated tablets 56",2019-08-02
+"Xeljanz 10mg film-coated tablets 112",2019-08-02
+"Xeljanz 10mg film-coated tablets 182",2019-08-02
+"Olumiant 4mg film-coated tablets 35 i",2019-08-02
 "Idacio 40mg inj sol 2x0,8ml",2019-08-02
 "Remsima 100mg inf plv csl 4",2019-08-02
 "Otezla 30mg film-coated tablets 56",2019-08-02
@@ -1566,12 +1568,12 @@
 "Siranalen 150mg cps dur 56 i",2019-06-29
 "Preglenix 75mg cps dur 84",2019-06-29
 "Preglenix 150mg cps dur 84",2019-06-29
-"Preglenix 75mg cps dur 84",2019-06-28
-"Preglenix 150mg cps dur 84",2019-06-28
 "Pregabalin mylan 75mg cps dur 14",2019-06-28
 "Pregabalin mylan 75mg cps dur 56",2019-06-28
 "Pregabalin mylan 150mg cps dur 56",2019-06-28
 "Pregabalin mylan 300mg cps dur 56",2019-06-28
+"Preglenix 75mg cps dur 84",2019-06-28
+"Preglenix 150mg cps dur 84",2019-06-28
 "Pregabalin accord 75mg cps dur 56",2019-06-28
 "Pregabalin accord 150mg cps dur 56",2019-06-28
 "Pregabalin accord 300mg cps dur 56",2019-06-28
@@ -1817,9 +1819,9 @@
 "Egiramlon 10mg/5mg cps dur 100",2019-01-31
 "Egiramlon 10mg/10mg cps dur 100",2019-01-31
 "Adcetris 50mg inf plv csl 1",2019-01-31
-"Benzetacil 6.3.3. 0,6miu/0,3miu/0,3miu inj psu lqf 1+1amp",2019-01-30
 "Benzetacil 1.200.000 iu 1200000iu inj psu lqf 1+1amp",2019-01-30
 "Benzetacil 2.400.000 iu 2400000iu inj psu lqf 1+1amp",2019-01-30
+"Benzetacil 6.3.3. 0,6miu/0,3miu/0,3miu inj psu lqf 1+1amp",2019-01-30
 "Quamatel 40mg film-coated tablets 28",2019-01-30
 "Sumamigren 50mg film-coated tablets 6",2019-01-29
 "Sumamigren 100mg film-coated tablets 6",2019-01-29
@@ -1887,9 +1889,9 @@
 "Temozolomide glenmark 140mg cps dur 5",2018-12-14
 "Temozolomide glenmark 180mg cps dur 5",2018-12-14
 "Temozolomide glenmark 250mg cps dur 5",2018-12-14
+"Gazyvaro 1000mg inf cnc sol 1x40ml",2018-12-12
 "Mesalazin espl 1600mg tbl ret 60",2018-12-12
 "Asacol 1600mg tbl ret 60",2018-12-12
-"Gazyvaro 1000mg inf cnc sol 1x40ml",2018-12-12
 "Steglatro 5mg film-coated tablets 28",2018-12-12
 "Steglatro 5mg film-coated tablets 98",2018-12-12
 "Segluromet 2,5mg/1000mg film-coated tablets 56",2018-12-12
