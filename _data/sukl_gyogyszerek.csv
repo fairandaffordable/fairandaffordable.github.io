@@ -1,4 +1,12 @@
 "Product","Submission"
+"Polivy 140mg inf plv csl 1",2020-07-20
+"Elocta 250iu inj pso lqf 1+1x3ml isp",2020-07-17
+"Elocta 500iu inj pso lqf 1+1x3ml isp",2020-07-17
+"Elocta 750iu inj pso lqf 1+1x3ml isp",2020-07-17
+"Elocta 1000iu inj pso lqf 1+1x3ml isp",2020-07-17
+"Elocta 1500iu inj pso lqf 1+1x3ml isp",2020-07-17
+"Elocta 2000iu inj pso lqf 1+1x3ml isp",2020-07-17
+"Elocta 3000iu inj pso lqf 1+1x3ml isp",2020-07-17
 "Pragiola 75mg cps dur 90",2020-07-16
 "Pragiola 150mg cps dur 90",2020-07-16
 "Eylea 40mg/ml inj sol 1x0,09ml",2020-07-16
@@ -56,10 +64,10 @@
 "Valsacor 320mg film-coated tablets 84",2020-06-09
 "Valsacor 80mg film-coated tablets 60",2020-06-09
 "Valsacor 160mg film-coated tablets 60",2020-06-09
-"Bavencio 20mg/ml inf cnc sol 1x10ml",2020-06-09
 "Lorista h 50mg/12,5mg film-coated tablets 98",2020-06-09
 "Lorista h 100mg/25mg film-coated tablets 98",2020-06-09
 "Lorista h 100mg/12,5mg film-coated tablets 98",2020-06-09
+"Bavencio 20mg/ml inf cnc sol 1x10ml",2020-06-09
 "Cyramza 10mg/ml inf cnc sol 2x10ml",2020-06-08
 "Grimodin 600mg film-coated tablets 60",2020-06-05
 "Grimodin 300mg cps dur 60",2020-06-05
@@ -80,10 +88,10 @@
 "Azacitidin mylan 25mg/ml inj plv sus 1x100mg",2020-05-15
 "Tecentriq 1200mg inf cnc sol 1x20ml",2020-05-15
 "Kisqali 200mg film-coated tablets 63 i",2020-05-11
+"Ocrevus 300mg inf cnc sol 1x10ml",2020-05-07
 "Invega 3mg tbl pro 30",2020-05-07
 "Invega 6mg tbl pro 49 iii",2020-05-07
 "Invega 9mg tbl pro 49 i",2020-05-07
-"Ocrevus 300mg inf cnc sol 1x10ml",2020-05-07
 "Remsima 100mg inf plv csl 5",2020-05-04
 "Twicor 20mg/10mg film-coated tablets 30",2020-05-03
 "Twicor 20mg/10mg film-coated tablets 90",2020-05-03
@@ -101,14 +109,14 @@
 "Beovu 120mg/ml inj sol 1x0,165ml",2020-04-22
 "Gnak 50mg/ml inf sol 10x1000ml",2020-04-20
 "Keytruda 25mg/ml inf cnc sol 1x4ml",2020-04-17
-"Zomacton 10mg inj pso lqf 1x10mg+1x1ml",2020-04-17
-"Zomacton 4mg inj pso lqf 5+5 amp",2020-04-17
 "Saizen 5,83mg/ml inj sol 5x1,03ml",2020-04-17
 "Saizen 8mg/ml inj sol 5x2,5ml",2020-04-17
 "Saizen 8mg/ml inj sol 5x1,5ml",2020-04-17
 "Saizen 5,83mg/ml inj sol zvl 5x1,03ml",2020-04-17
 "Saizen 8mg/ml inj sol zvl 5x1,5ml",2020-04-17
 "Saizen 8mg/ml inj sol zvl 5x2,5ml",2020-04-17
+"Zomacton 10mg inj pso lqf 1x10mg+1x1ml",2020-04-17
+"Zomacton 4mg inj pso lqf 5+5 amp",2020-04-17
 "Perjeta 420mg inf cnc sol 1x14ml",2020-04-16
 "Lixiana 30mg film-coated tablets 30",2020-04-14
 "Lixiana 30mg film-coated tablets 100",2020-04-14
@@ -131,12 +139,12 @@
 "Mekinist 2mg film-coated tablets 30",2020-04-09
 "Darzalex 20mg/ml inf cnc sol 1x5ml",2020-04-08
 "Darzalex 20mg/ml inf cnc sol 1x20ml",2020-04-08
+"Mabthera 1600mg inj sol 1x13,4ml",2020-04-08
 "Temozolomide accord 20mg cps dur 5",2020-04-08
 "Temozolomide accord 100mg cps dur 5",2020-04-08
 "Temozolomide accord 140mg cps dur 5",2020-04-08
 "Temozolomide accord 180mg cps dur 5",2020-04-08
 "Temozolomide accord 250mg cps dur 5",2020-04-08
-"Mabthera 1600mg inj sol 1x13,4ml",2020-04-08
 "Imatinib mylan 400 mg 400mg film-coated tablets 30",2020-04-08
 "Imatinib mylan 400mg film-coated tablets 30",2020-04-08
 "Meaxin 400mg film-coated tablets 30 ii",2020-04-08
@@ -188,8 +196,8 @@
 "Arkvimma 200mg film-coated tablets 56",2020-03-27
 "Vimpat 10mg/ml sir 1x200ml",2020-03-27
 "Tecentriq 1200mg inf cnc sol 1x20ml",2020-03-26
-"Ibalgin 600mg film-coated tablets 30",2020-03-26
 "Esbriet 267mg film-coated tablets 252(84x3) ii",2020-03-26
+"Ibalgin 600mg film-coated tablets 30",2020-03-26
 "Atofab 10mg cps dur 28 i",2020-03-23
 "Atofab 18mg cps dur 28 i",2020-03-23
 "Atofab 25mg cps dur 28 i",2020-03-23
@@ -206,10 +214,10 @@
 "Tazip 4g/0,5g inf plv sol 10",2020-03-19
 "Sterile water for injection fresenius 100% par lqf 10x500ml ii",2020-03-19
 "Sterile water for injection fresenius 100% par lqf 20x250ml ii",2020-03-19
-"Avastin 25mg/ml inf cnc sol 1x4ml",2020-03-18
-"Avastin 25mg/ml inf cnc sol 1x16ml",2020-03-18
 "Kadcyla 100mg inf plv csl 1",2020-03-18
 "Kadcyla 160mg inf plv csl 1",2020-03-18
+"Avastin 25mg/ml inf cnc sol 1x4ml",2020-03-18
+"Avastin 25mg/ml inf cnc sol 1x16ml",2020-03-18
 "Dexamethasone krka 8mg/2ml inj/inf sol 10x2ml",2020-03-13
 "Baqsimi 3mg nas plv ads 1",2020-03-12
 "Valsartan/hydrochlorothiazid aurovitas 80mg/12,5mg film-coated tablets 28",2020-03-11
