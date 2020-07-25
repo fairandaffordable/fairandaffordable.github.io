@@ -537,6 +537,8 @@
 "Zoledronic acid medac 4mg/5ml inf cnc sol 1x5ml",2019-12-07
 "Oftan timolol 5mg/ml oph gtt sol 1x5ml",2019-12-07
 "Benepali 25mg inj sol 4x0,51ml",2019-12-07
+"Javlor 25mg/ml inf cnc sol 1x2ml ii",2019-12-06
+"Javlor 25mg/ml inf cnc sol 1x10ml ii",2019-12-06
 "Neupro 6mg/24h tdr emp 7x13,5mg",2019-12-06
 "Neupro 8mg/24h tdr emp 7x18mg",2019-12-06
 "Neupro 1mg/24h tdr emp 28x2,25mg",2019-12-06
@@ -544,8 +546,6 @@
 "Bimican 0,3mg/ml oph gtt sol 6x3ml",2019-12-06
 "Levetiracetam ucb 100mg/ml por sol 1x300ml iii",2019-12-06
 "Finard 5mg film-coated tablets 60",2019-12-06
-"Javlor 25mg/ml inf cnc sol 1x2ml ii",2019-12-06
-"Javlor 25mg/ml inf cnc sol 1x10ml ii",2019-12-06
 "Clarelux 500mcg/g drm spm 100g",2019-12-06
 "Xaloptic combi 0,05mg/ml+5mg/ml oph gtt sol 1x2,5ml",2019-12-06
 "Rosi 10mg film-coated tablets 30",2019-12-06
@@ -1603,6 +1603,7 @@
 "Adempas 2,5mg film-coated tablets 42",2019-08-09
 "Pregabalin sandoz 75mg cps dur 56",2019-08-08
 "Pregabalin sandoz 150mg cps dur 56",2019-08-08
+"Remsima 100mg inf plv csl 4",2019-08-02
 "Entyvio 300mg inf plv csl 1",2019-08-02
 "Kevzara 150mg inj sol 2x1,14ml",2019-08-02
 "Kevzara 200mg inj sol 2x1,14ml",2019-08-02
@@ -1618,7 +1619,6 @@
 "Xeljanz 10mg film-coated tablets 112",2019-08-02
 "Xeljanz 10mg film-coated tablets 182",2019-08-02
 "Idacio 40mg inj sol 2x0,8ml",2019-08-02
-"Remsima 100mg inf plv csl 4",2019-08-02
 "Otezla 30mg film-coated tablets 56",2019-08-02
 "Otezla 10mg+20mg+30mg film-coated tablets 4x10mg+4x20mg+19x30mg",2019-08-02
 "Taptiqom 15mcg/ml+5mg/ml oph gtt sol mdc 30x0,3ml",2019-07-31
