@@ -165,8 +165,6 @@
 "Trulicity 0,75mg inj sol 4x0,5ml",2020-06-15
 "Erleada 60mg film-coated tablets 120",2020-06-15
 "Skyrizi 75mg inj sol 2x0,83ml",2020-06-09
-"Nalgesin 550mg film-coated tablets 20",2020-06-09
-"Nalgesin 550mg film-coated tablets 50",2020-06-09
 "Valsacor 320mg film-coated tablets 84",2020-06-09
 "Valsacor 80mg film-coated tablets 60",2020-06-09
 "Valsacor 160mg film-coated tablets 60",2020-06-09
@@ -174,6 +172,8 @@
 "Lorista h 50mg/12,5mg film-coated tablets 98",2020-06-09
 "Lorista h 100mg/25mg film-coated tablets 98",2020-06-09
 "Lorista h 100mg/12,5mg film-coated tablets 98",2020-06-09
+"Nalgesin 550mg film-coated tablets 20",2020-06-09
+"Nalgesin 550mg film-coated tablets 50",2020-06-09
 "Cyramza 10mg/ml inf cnc sol 2x10ml",2020-06-08
 "Grimodin 600mg film-coated tablets 60",2020-06-05
 "Grimodin 300mg cps dur 60",2020-06-05
@@ -243,6 +243,8 @@
 "Tafinlar 75mg cps dur 120",2020-04-09
 "Mekinist 0,5mg film-coated tablets 30",2020-04-09
 "Mekinist 2mg film-coated tablets 30",2020-04-09
+"Darzalex 20mg/ml inf cnc sol 1x5ml",2020-04-08
+"Darzalex 20mg/ml inf cnc sol 1x20ml",2020-04-08
 "Mabthera 1600mg inj sol 1x13,4ml",2020-04-08
 "Imatinib mylan 400 mg 400mg film-coated tablets 30",2020-04-08
 "Imatinib mylan 400mg film-coated tablets 30",2020-04-08
@@ -252,8 +254,6 @@
 "Imatinib glenmark 400mg film-coated tablets 30",2020-04-08
 "Latib 100mg cps dur 60",2020-04-08
 "Latib 400mg cps dur 30",2020-04-08
-"Darzalex 20mg/ml inf cnc sol 1x5ml",2020-04-08
-"Darzalex 20mg/ml inf cnc sol 1x20ml",2020-04-08
 "Temozolomide accord 20mg cps dur 5",2020-04-08
 "Temozolomide accord 100mg cps dur 5",2020-04-08
 "Temozolomide accord 140mg cps dur 5",2020-04-08
@@ -397,11 +397,11 @@
 "Opdivo 10mg/ml inf cnc sol 1x4ml",2020-01-30
 "Opdivo 10mg/ml inf cnc sol 1x10ml",2020-01-30
 "Aubagio 14mg film-coated tablets 28",2020-01-29
+"Rydapt 25mg cps mol 112(4x28)",2020-01-27
 "Pradaxa 110mg cps dur 10x1 i",2020-01-27
 "Pradaxa 110mg cps dur 30x1 i",2020-01-27
 "Pradaxa 110mg cps dur 60x1 i",2020-01-27
 "Pradaxa 150mg cps dur 60x1 i",2020-01-27
-"Rydapt 25mg cps mol 112(4x28)",2020-01-27
 "Trazimera 150mg inf plv csl 1",2020-01-27
 "Emtricitabine/tenofovir disoproxil sandoz 200mg/245mg film-coated tablets 30",2020-01-27
 "Emtricitabine/tenofovir disoproxil accordpharma 200mg/245mg film-coated tablets 30x1",2020-01-27
