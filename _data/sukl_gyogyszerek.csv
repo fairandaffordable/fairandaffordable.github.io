@@ -1,8 +1,30 @@
 "Product","Submission"
+"Ibrance 75mg film-coated tablets 21",2020-08-25
+"Ibrance 100mg film-coated tablets 21",2020-08-25
+"Ibrance 125mg film-coated tablets 21",2020-08-25
+"Lorista h 50mg/12,5mg film-coated tablets 28",2020-08-24
+"Lorista h 100mg/25mg film-coated tablets 28",2020-08-24
+"Lorista h 50mg/12,5mg film-coated tablets 84",2020-08-24
+"Lorista h 100mg/12,5mg film-coated tablets 28",2020-08-24
+"Sorvasta 15mg film-coated tablets 28x1",2020-08-24
+"Sorvasta 15mg film-coated tablets 84x1",2020-08-24
+"Sorvasta 10mg film-coated tablets 28x1",2020-08-24
+"Sorvasta 40mg film-coated tablets 28x1",2020-08-24
+"Sorvasta 40mg film-coated tablets 84x1",2020-08-24
+"Sorvasta 30mg film-coated tablets 28x1",2020-08-24
+"Sorvasta 30mg film-coated tablets 84x1",2020-08-24
+"Sorvasta 20mg film-coated tablets 28x1",2020-08-24
+"Valsacor 160mg film-coated tablets 28",2020-08-24
+"Valsacor 320mg film-coated tablets 28",2020-08-24
+"Aryzalera 10mg tbl nob 30",2020-08-24
+"Aryzalera 15mg tbl nob 30",2020-08-24
+"Atoris 40mg film-coated tablets 30",2020-08-24
+"Atoris 80mg film-coated tablets 30",2020-08-24
 "Rinvoq 15mg tbl pro 28 kal",2020-08-21
 "Keytruda 25mg/ml inf cnc sol 1x4ml",2020-08-20
 "Ontruzant 150mg inf plv csl 1",2020-08-18
 "Metadon alkaloid 10mg/ml 10mg/ml por gtt sol 1x10ml",2020-08-17
+"Xorox 30mg/g oph ung 4,5g",2020-08-13
 "Granisetron b. braun 1 mg/ml 1mg/ml inj/inf cnc sol 5x3ml",2020-08-13
 "Rxulti 3mg film-coated tablets 28",2020-08-05
 "Spravato 28mg nas spr sol 1",2020-08-04
@@ -169,16 +191,16 @@
 "Trulicity 0,75mg inj sol 2x0,5ml",2020-06-15
 "Trulicity 0,75mg inj sol 4x0,5ml",2020-06-15
 "Erleada 60mg film-coated tablets 120",2020-06-15
+"Skyrizi 75mg inj sol 2x0,83ml",2020-06-09
+"Nalgesin 550mg film-coated tablets 20",2020-06-09
+"Nalgesin 550mg film-coated tablets 50",2020-06-09
+"Valsacor 320mg film-coated tablets 84",2020-06-09
+"Valsacor 80mg film-coated tablets 60",2020-06-09
+"Valsacor 160mg film-coated tablets 60",2020-06-09
 "Bavencio 20mg/ml inf cnc sol 1x10ml",2020-06-09
 "Lorista h 50mg/12,5mg film-coated tablets 98",2020-06-09
 "Lorista h 100mg/25mg film-coated tablets 98",2020-06-09
 "Lorista h 100mg/12,5mg film-coated tablets 98",2020-06-09
-"Skyrizi 75mg inj sol 2x0,83ml",2020-06-09
-"Valsacor 320mg film-coated tablets 84",2020-06-09
-"Valsacor 80mg film-coated tablets 60",2020-06-09
-"Valsacor 160mg film-coated tablets 60",2020-06-09
-"Nalgesin 550mg film-coated tablets 20",2020-06-09
-"Nalgesin 550mg film-coated tablets 50",2020-06-09
 "Cyramza 10mg/ml inf cnc sol 2x10ml",2020-06-08
 "Grimodin 600mg film-coated tablets 60",2020-06-05
 "Grimodin 300mg cps dur 60",2020-06-05
@@ -220,14 +242,14 @@
 "Beovu 120mg/ml inj sol 1x0,165ml",2020-04-22
 "Gnak 50mg/ml inf sol 10x1000ml",2020-04-20
 "Keytruda 25mg/ml inf cnc sol 1x4ml",2020-04-17
-"Zomacton 10mg inj pso lqf 1x10mg+1x1ml",2020-04-17
-"Zomacton 4mg inj pso lqf 5+5 amp",2020-04-17
 "Saizen 5,83mg/ml inj sol 5x1,03ml",2020-04-17
 "Saizen 8mg/ml inj sol 5x2,5ml",2020-04-17
 "Saizen 8mg/ml inj sol 5x1,5ml",2020-04-17
 "Saizen 5,83mg/ml inj sol zvl 5x1,03ml",2020-04-17
 "Saizen 8mg/ml inj sol zvl 5x1,5ml",2020-04-17
 "Saizen 8mg/ml inj sol zvl 5x2,5ml",2020-04-17
+"Zomacton 10mg inj pso lqf 1x10mg+1x1ml",2020-04-17
+"Zomacton 4mg inj pso lqf 5+5 amp",2020-04-17
 "Perjeta 420mg inf cnc sol 1x14ml",2020-04-16
 "Atoris 10mg film-coated tablets 30",2020-04-14
 "Atoris 20mg film-coated tablets 30",2020-04-14
@@ -250,6 +272,7 @@
 "Mekinist 2mg film-coated tablets 30",2020-04-09
 "Darzalex 20mg/ml inf cnc sol 1x5ml",2020-04-08
 "Darzalex 20mg/ml inf cnc sol 1x20ml",2020-04-08
+"Mabthera 1600mg inj sol 1x13,4ml",2020-04-08
 "Imatinib mylan 400 mg 400mg film-coated tablets 30",2020-04-08
 "Imatinib mylan 400mg film-coated tablets 30",2020-04-08
 "Meaxin 400mg film-coated tablets 30 ii",2020-04-08
@@ -258,7 +281,6 @@
 "Imatinib glenmark 400mg film-coated tablets 30",2020-04-08
 "Latib 100mg cps dur 60",2020-04-08
 "Latib 400mg cps dur 30",2020-04-08
-"Mabthera 1600mg inj sol 1x13,4ml",2020-04-08
 "Temozolomide accord 20mg cps dur 5",2020-04-08
 "Temozolomide accord 100mg cps dur 5",2020-04-08
 "Temozolomide accord 140mg cps dur 5",2020-04-08
@@ -276,10 +298,10 @@
 "Bosentan avmc 125mg film-coated tablets 56x1",2020-03-31
 "Bosentan welding 125 mg 125mg film-coated tablets 56",2020-03-31
 "Bosentan pharmascience international 125 mg potahované tablety 125mg film-coated tablets 56x1",2020-03-31
-"Adcetris 50mg inf plv csl 1",2020-03-30
 "Mavenclad 10mg tbl nob 1",2020-03-30
 "Mavenclad 10mg tbl nob 4",2020-03-30
 "Mavenclad 10mg tbl nob 6",2020-03-30
+"Adcetris 50mg inf plv csl 1",2020-03-30
 "Lacosamide glenmark 50mg film-coated tablets 14",2020-03-29
 "Lacosamide glenmark 100mg film-coated tablets 56",2020-03-29
 "Lacosamide glenmark 150mg film-coated tablets 56",2020-03-29
@@ -300,21 +322,15 @@
 "Trelema 100mg film-coated tablets 56 ii",2020-03-28
 "Trelema 150mg film-coated tablets 56 ii",2020-03-28
 "Trelema 200mg film-coated tablets 56 ii",2020-03-28
+"Vimpat 10mg/ml sir 1x200ml",2020-03-27
 "Arkvimma 50mg film-coated tablets 14",2020-03-27
 "Arkvimma 50mg film-coated tablets 56",2020-03-27
 "Arkvimma 100mg film-coated tablets 56",2020-03-27
 "Arkvimma 150mg film-coated tablets 56",2020-03-27
 "Arkvimma 200mg film-coated tablets 56",2020-03-27
-"Vimpat 10mg/ml sir 1x200ml",2020-03-27
 "Tecentriq 1200mg inf cnc sol 1x20ml",2020-03-26
 "Esbriet 267mg film-coated tablets 252(84x3) ii",2020-03-26
 "Ibalgin 600mg film-coated tablets 30",2020-03-26
-"Mayzent 2mg film-coated tablets 28",2020-03-23
-"Atofab 10mg cps dur 28 i",2020-03-23
-"Atofab 18mg cps dur 28 i",2020-03-23
-"Atofab 25mg cps dur 28 i",2020-03-23
-"Atofab 40mg cps dur 28 i",2020-03-23
-"Atofab 60mg cps dur 28 i",2020-03-23
 "Zoletorv 10mg/10mg film-coated tablets 30",2020-03-23
 "Zoletorv 10mg/20mg film-coated tablets 30",2020-03-23
 "Zoletorv 10mg/20mg film-coated tablets 30x1",2020-03-23
@@ -322,6 +338,12 @@
 "Zoletorv 10mg/40mg film-coated tablets 30",2020-03-23
 "Zoletorv 10mg/40mg film-coated tablets 30x1",2020-03-23
 "Zoletorv 10mg/40mg film-coated tablets 100",2020-03-23
+"Mayzent 2mg film-coated tablets 28",2020-03-23
+"Atofab 10mg cps dur 28 i",2020-03-23
+"Atofab 18mg cps dur 28 i",2020-03-23
+"Atofab 25mg cps dur 28 i",2020-03-23
+"Atofab 40mg cps dur 28 i",2020-03-23
+"Atofab 60mg cps dur 28 i",2020-03-23
 "Tazip 4g/0,5g inf plv sol 10",2020-03-19
 "Sterile water for injection fresenius 100% par lqf 10x500ml ii",2020-03-19
 "Sterile water for injection fresenius 100% par lqf 20x250ml ii",2020-03-19
@@ -402,14 +424,14 @@
 "Opdivo 10mg/ml inf cnc sol 1x4ml",2020-01-30
 "Opdivo 10mg/ml inf cnc sol 1x10ml",2020-01-30
 "Aubagio 14mg film-coated tablets 28",2020-01-29
+"Emtricitabine/tenofovir disoproxil sandoz 200mg/245mg film-coated tablets 30",2020-01-27
+"Emtricitabine/tenofovir disoproxil accordpharma 200mg/245mg film-coated tablets 30x1",2020-01-27
 "Rydapt 25mg cps mol 112(4x28)",2020-01-27
 "Pradaxa 110mg cps dur 10x1 i",2020-01-27
 "Pradaxa 110mg cps dur 30x1 i",2020-01-27
 "Pradaxa 110mg cps dur 60x1 i",2020-01-27
 "Pradaxa 150mg cps dur 60x1 i",2020-01-27
 "Trazimera 150mg inf plv csl 1",2020-01-27
-"Emtricitabine/tenofovir disoproxil sandoz 200mg/245mg film-coated tablets 30",2020-01-27
-"Emtricitabine/tenofovir disoproxil accordpharma 200mg/245mg film-coated tablets 30x1",2020-01-27
 "Herzuma 420mg inf plv csl 1",2020-01-27
 "Dicuno 25mg film-coated tablets 100",2020-01-25
 "Dicuno 50mg film-coated tablets 30",2020-01-25
@@ -421,15 +443,15 @@
 "Bilamcar 8mg/10mg cps dur 28",2020-01-08
 "Rixathon 100mg inf cnc sol 2x10ml",2020-01-08
 "Rixathon 500mg inf cnc sol 1x50ml",2020-01-08
-"Pregabalin mylan 75mg cps dur 100",2019-12-29
-"Pregabalin mylan 150mg cps dur 100",2019-12-29
-"Pregabalin mylan 300mg cps dur 100",2019-12-29
-"Kartesada 75mg cps dur 70",2019-12-29
-"Kartesada 150mg cps dur 70",2019-12-29
 "Siranalen 150mg cps dur 112 ii",2019-12-29
 "Siranalen 150mg cps dur 84 ii",2019-12-29
 "Siranalen 75mg cps dur 84 ii",2019-12-29
 "Siranalen 75mg cps dur 112 ii",2019-12-29
+"Kartesada 75mg cps dur 70",2019-12-29
+"Kartesada 150mg cps dur 70",2019-12-29
+"Pregabalin mylan 75mg cps dur 100",2019-12-29
+"Pregabalin mylan 150mg cps dur 100",2019-12-29
+"Pregabalin mylan 300mg cps dur 100",2019-12-29
 "Naxalgan 75mg cps dur 90",2019-12-29
 "Naxalgan 75mg cps dur 56",2019-12-29
 "Naxalgan 150mg cps dur 90",2019-12-29
@@ -451,10 +473,10 @@
 "Vitrakvi 25mg cps dur 56",2019-12-18
 "Vitrakvi 100mg cps dur 56",2019-12-18
 "Ultomiris 300mg inf cnc sol 1x30ml",2019-12-17
+"Flixabi 100mg inf plv csl 1",2019-12-16
 "Benepali 50mg inj sol 4x0,98ml",2019-12-16
 "Takhzyro 300mg inj sol 1x2ml+stř+2j",2019-12-16
 "Tadalafil aop 20mg film-coated tablets 56",2019-12-16
-"Flixabi 100mg inf plv csl 1",2019-12-16
 "Cablivi 10mg inj pso lqf 1+1x1ml isp+ad+j",2019-12-12
 "Letrovena 2,5mg film-coated tablets 30",2019-12-08
 "Gamunex 100mg/ml inf sol 1x200ml i",2019-12-08
@@ -968,6 +990,13 @@
 "Lozap 50 zentiva 50mg film-coated tablets 30 i",2019-11-28
 "Lozap 100 zentiva 100mg film-coated tablets 90 al",2019-11-28
 "Amlodipin vitabalans 10 mg 10mg tbl nob 30",2019-11-28
+"Braunovidon gáza s mastí 0,1g/g lig ipr 1x7,5cm",2019-11-27
+"Braunovidon gáza s mastí 0,1g/g lig ipr 1x20cm",2019-11-27
+"Braunovidon gáza s mastí 0,1g/g lig ipr 10x7,5cm",2019-11-27
+"Braunovidon gáza s mastí 0,1g/g lig ipr 10x20cm",2019-11-27
+"Gelofusine 40mg/ml+7,02mg/ml inf sol 1x500ml",2019-11-27
+"Hydrogenuhličitan sodný 4,2%(w/v)-braun 42mg/ml inf sol 1x250ml",2019-11-27
+"Takiprin 20mg/ml inj sol 10x5ml",2019-11-27
 "Novoseven 1mg(50kiu) inj pso lqf 1+1x1,1ml ii",2019-11-27
 "Novoseven 2mg(100kiu) inj pso lqf 1+1x2,1ml ii",2019-11-27
 "Novoseven 5mg(250kiu) inj pso lqf 1+1x5,2ml ii",2019-11-27
@@ -975,13 +1004,6 @@
 "Alopurinol glenmark 300mg tbl nob 30",2019-11-27
 "Alopurinol glenmark 100mg tbl nob 50",2019-11-27
 "Alopurinol glenmark 100mg tbl nob 100",2019-11-27
-"Braunovidon gáza s mastí 0,1g/g lig ipr 1x7,5cm",2019-11-27
-"Braunovidon gáza s mastí 0,1g/g lig ipr 1x20cm",2019-11-27
-"Braunovidon gáza s mastí 0,1g/g lig ipr 10x7,5cm",2019-11-27
-"Braunovidon gáza s mastí 0,1g/g lig ipr 10x20cm",2019-11-27
-"Gelofusine 40mg/ml+7,02mg/ml inf sol 1x500ml",2019-11-27
-"Hydrogenuhličitan sodný 4,2%(w/v)-braun 42mg/ml inf sol 1x250ml",2019-11-27
-"Takiprin 20 mg/ml injekční roztok 20mg/ml inj sol 10x5ml",2019-11-27
 "Zavedos 10mg inj plv sol 1",2019-11-27
 "Dalacin c 150mg/ml inj/inf sol 1x6ml",2019-11-27
 "Medrol 32mg tbl nob 20",2019-11-27
@@ -1630,13 +1652,13 @@
 "Kyntheum 210mg inj sol 2x1,5ml",2019-08-02
 "Tremfya 100mg inj sol 1x1ml",2019-08-02
 "Taltz 80mg inj sol pep 2x1ml",2019-08-02
+"Stelara 90mg inj sol isp 1x1ml",2019-08-02
+"Stelara 130mg inf cnc sol 1x26ml",2019-08-02
+"Stelara 45mg inj sol 1x0,5ml",2019-08-02
 "Olumiant 4mg film-coated tablets 35 i",2019-08-02
 "Xeljanz 10mg film-coated tablets 56",2019-08-02
 "Xeljanz 10mg film-coated tablets 112",2019-08-02
 "Xeljanz 10mg film-coated tablets 182",2019-08-02
-"Stelara 90mg inj sol isp 1x1ml",2019-08-02
-"Stelara 130mg inf cnc sol 1x26ml",2019-08-02
-"Stelara 45mg inj sol 1x0,5ml",2019-08-02
 "Remsima 100mg inf plv csl 4",2019-08-02
 "Idacio 40mg inj sol 2x0,8ml",2019-08-02
 "Otezla 30mg film-coated tablets 56",2019-08-02
@@ -1660,14 +1682,16 @@
 "Humira 20mg inj sol 2x0,2ml i",2019-07-02
 "Imraldi 40mg inj sol 2x(1x0,8ml)",2019-07-02
 "Zessly 100mg inf plv csl 1",2019-07-02
+"Amgevita 40mg inj sol isp 2x0,8ml",2019-07-01
+"Amgevita 40mg inj sol pep 2x0,8ml",2019-07-01
 "Afstyla 250iu inj pso lqf 1+1x2,5ml+ad+stř+set",2019-07-01
 "Afstyla 500iu inj pso lqf 1+1x2,5ml+ad+stř+set",2019-07-01
 "Afstyla 1000iu inj pso lqf 1+1x2,5ml+ad+stř+set",2019-07-01
 "Afstyla 1500iu inj pso lqf 1+1x5ml+ad+stř+set",2019-07-01
 "Afstyla 2000iu inj pso lqf 1+1x5ml+ad+stř+set",2019-07-01
 "Afstyla 3000iu inj pso lqf 1+1x5ml+ad+stř+set",2019-07-01
-"Amgevita 40mg inj sol isp 2x0,8ml",2019-07-01
-"Amgevita 40mg inj sol pep 2x0,8ml",2019-07-01
+"Preglenix 75mg cps dur 84",2019-06-29
+"Preglenix 150mg cps dur 84",2019-06-29
 "Pregabalin stada arzneimittel ag 75mg cps dur 56",2019-06-29
 "Pregabalin stada arzneimittel ag 150mg cps dur 56",2019-06-29
 "Pregabalin zentiva k.s. 150mg cps dur 56 ii",2019-06-29
@@ -1686,8 +1710,8 @@
 "Siranalen 75mg cps dur 14 i",2019-06-29
 "Siranalen 75mg cps dur 56 i",2019-06-29
 "Siranalen 150mg cps dur 56 i",2019-06-29
-"Preglenix 75mg cps dur 84",2019-06-29
-"Preglenix 150mg cps dur 84",2019-06-29
+"Preglenix 75mg cps dur 84",2019-06-28
+"Preglenix 150mg cps dur 84",2019-06-28
 "Pregabalin mylan 75mg cps dur 14",2019-06-28
 "Pregabalin mylan 75mg cps dur 56",2019-06-28
 "Pregabalin mylan 150mg cps dur 56",2019-06-28
@@ -1695,8 +1719,6 @@
 "Pregabalin accord 75mg cps dur 56",2019-06-28
 "Pregabalin accord 150mg cps dur 56",2019-06-28
 "Pregabalin accord 300mg cps dur 56",2019-06-28
-"Preglenix 75mg cps dur 84",2019-06-28
-"Preglenix 150mg cps dur 84",2019-06-28
 "Pragiola 75mg cps dur 84",2019-06-28
 "Pragiola 150mg cps dur 84",2019-06-28
 "Pragiola 300mg cps dur 84",2019-06-28
@@ -1869,6 +1891,7 @@
 "Ogivri 150mg inf plv csl 1",2019-03-01
 "Aldara 5% crm 12x250mg",2019-03-01
 "Bikalard 150mg film-coated tablets 90 i",2019-03-01
+"Hyrimoz 40mg inj sol 2x0,8ml",2019-02-22
 "Briviact 10mg/ml por sol 1x300ml",2019-02-22
 "Anagrelid sandoz 0,5mg cps dur 100",2019-02-22
 "Anagrelid leram 0,5mg cps dur 100",2019-02-22
@@ -1883,7 +1906,6 @@
 "Capecitabine mylan 500mg film-coated tablets 120 i",2019-02-22
 "Capecitabine mylan 500mg film-coated tablets 120 ii",2019-02-22
 "Capecitabine glenmark 500mg film-coated tablets 60 ii",2019-02-22
-"Hyrimoz 40mg inj sol 2x0,8ml",2019-02-22
 "Egolanza 7,5mg film-coated tablets 56",2019-02-15
 "Egolanza 10mg film-coated tablets 56",2019-02-15
 "Egolanza 5mg film-coated tablets 56",2019-02-15
@@ -1925,14 +1947,14 @@
 "Rosuvastatin aurovitas 20mg film-coated tablets 30",2019-01-31
 "Rosuvastatin aurovitas 40mg film-coated tablets 30",2019-01-31
 "Rosuvastatin aurovitas 40mg film-coated tablets 100",2019-01-31
+"Tysabri 300mg inf cnc sol 1x15ml",2019-01-31
+"Lemtrada 12mg inf cnc sol 1x1,2ml",2019-01-31
 "Cabometyx 20mg film-coated tablets 30",2019-01-31
 "Cabometyx 40mg film-coated tablets 30",2019-01-31
 "Cabometyx 60mg film-coated tablets 30",2019-01-31
 "Repatha 140mg inj sol 2x1ml",2019-01-31
-"Tysabri 300mg inf cnc sol 1x15ml",2019-01-31
 "Apo-bicalutamid 150 mg 150mg film-coated tablets 30",2019-01-31
 "Apo-anastrozol 1 mg 1mg film-coated tablets 30",2019-01-31
-"Lemtrada 12mg inf cnc sol 1x1,2ml",2019-01-31
 "Egiramlon 10mg/10mg cps dur 30",2019-01-31
 "Egiramlon 5mg/5mg cps dur 100",2019-01-31
 "Egiramlon 5mg/10mg cps dur 100",2019-01-31
@@ -1982,11 +2004,11 @@
 "Pergoveris (450iu+225iu)/0,72ml inj sol 1x0,72ml+7j",2019-01-02
 "Pergoveris (900iu+450iu)/1,44ml inj sol 1x1,44ml+14j",2019-01-02
 "Temozolomide accord 5mg cps dur 5",2018-12-30
-"Water for injection fresenius kabi 100% par lqf 1x500ml ii",2018-12-27
-"Water for injection fresenius kabi 100% par lqf 1x250ml ii",2018-12-27
 "Grimodin 300mg cps dur 50",2018-12-27
 "Grimodin 400mg cps dur 50",2018-12-27
 "Grimodin 600mg film-coated tablets 120",2018-12-27
+"Water for injection fresenius kabi 100% par lqf 1x500ml ii",2018-12-27
+"Water for injection fresenius kabi 100% par lqf 1x250ml ii",2018-12-27
 "Sodium chloride fresenius kabi 0,9% 9mg/ml inf sol 1x500ml ii",2018-12-27
 "Sodium chloride fresenius kabi 0,9% 9mg/ml inf sol 1x1000ml ii",2018-12-27
 "Sodium chloride fresenius kabi 0,9% 9mg/ml inf sol 1x100ml ii",2018-12-27
