@@ -1,4 +1,7 @@
 "Product","Submission"
+"Rxulti 1mg film-coated tablets 28",2020-10-01
+"Rxulti 2mg film-coated tablets 28",2020-10-01
+"Rxulti 4mg film-coated tablets 28",2020-10-01
 "Entyvio 108mg inj sol 1x0,68ml",2020-09-30
 "Qarziba 4,5mg/ml inf cnc sol 1x4,5ml",2020-09-29
 "Alozex 1mg film-coated tablets 50",2020-09-28
@@ -56,6 +59,8 @@
 "Ibrance 75mg film-coated tablets 21",2020-08-25
 "Ibrance 100mg film-coated tablets 21",2020-08-25
 "Ibrance 125mg film-coated tablets 21",2020-08-25
+"Atoris 40mg film-coated tablets 30",2020-08-24
+"Atoris 80mg film-coated tablets 30",2020-08-24
 "Lorista h 50mg/12,5mg film-coated tablets 28",2020-08-24
 "Lorista h 100mg/25mg film-coated tablets 28",2020-08-24
 "Lorista h 50mg/12,5mg film-coated tablets 84",2020-08-24
@@ -72,8 +77,6 @@
 "Valsacor 320mg film-coated tablets 28",2020-08-24
 "Aryzalera 10mg tbl nob 30",2020-08-24
 "Aryzalera 15mg tbl nob 30",2020-08-24
-"Atoris 40mg film-coated tablets 30",2020-08-24
-"Atoris 80mg film-coated tablets 30",2020-08-24
 "Rinvoq 15mg tbl pro 28 kal",2020-08-21
 "Keytruda 25mg/ml inf cnc sol 1x4ml",2020-08-20
 "Ontruzant 150mg inf plv csl 1",2020-08-18
@@ -295,13 +298,13 @@
 "Torvacard neo 60mg film-coated tablets 30",2020-04-23
 "Beovu 120mg/ml inj sol 1x0,165ml",2020-04-22
 "Gnak 50mg/ml inf sol 10x1000ml",2020-04-20
-"Keytruda 25mg/ml inf cnc sol 1x4ml",2020-04-17
 "Saizen 5,83mg/ml inj sol 5x1,03ml",2020-04-17
 "Saizen 8mg/ml inj sol 5x2,5ml",2020-04-17
 "Saizen 8mg/ml inj sol 5x1,5ml",2020-04-17
 "Saizen 5,83mg/ml inj sol zvl 5x1,03ml",2020-04-17
 "Saizen 8mg/ml inj sol zvl 5x1,5ml",2020-04-17
 "Saizen 8mg/ml inj sol zvl 5x2,5ml",2020-04-17
+"Keytruda 25mg/ml inf cnc sol 1x4ml",2020-04-17
 "Zomacton 10mg inj pso lqf 1x10mg+1x1ml",2020-04-17
 "Zomacton 4mg inj pso lqf 5+5 amp",2020-04-17
 "Perjeta 420mg inf cnc sol 1x14ml",2020-04-16
@@ -474,9 +477,9 @@
 "Revlimid 10mg cps dur 21",2020-01-30
 "Revlimid 15mg cps dur 21",2020-01-30
 "Revlimid 25mg cps dur 21",2020-01-30
-"Libtayo 350mg inf cnc sol 1x7ml",2020-01-30
 "Opdivo 10mg/ml inf cnc sol 1x4ml",2020-01-30
 "Opdivo 10mg/ml inf cnc sol 1x10ml",2020-01-30
+"Libtayo 350mg inf cnc sol 1x7ml",2020-01-30
 "Aubagio 14mg film-coated tablets 28",2020-01-29
 "Emtricitabine/tenofovir disoproxil sandoz 200mg/245mg film-coated tablets 30",2020-01-27
 "Emtricitabine/tenofovir disoproxil accordpharma 200mg/245mg film-coated tablets 30x1",2020-01-27
@@ -527,8 +530,8 @@
 "Vitrakvi 25mg cps dur 56",2019-12-18
 "Vitrakvi 100mg cps dur 56",2019-12-18
 "Ultomiris 300mg inf cnc sol 1x30ml",2019-12-17
-"Benepali 50mg inj sol 4x0,98ml",2019-12-16
 "Takhzyro 300mg inj sol 1x2ml+stř+2j",2019-12-16
+"Benepali 50mg inj sol 4x0,98ml",2019-12-16
 "Flixabi 100mg inf plv csl 1",2019-12-16
 "Tadalafil aop 20mg film-coated tablets 56",2019-12-16
 "Cablivi 10mg inj pso lqf 1+1x1ml isp+ad+j",2019-12-12
@@ -1893,8 +1896,8 @@
 "Jinarc 15mg+45mg tbl nob 56(28x15mg+28x45mg) i",2019-04-09
 "Jinarc 30mg+90mg tbl nob 56(28x30mg+28x90mg) i",2019-04-09
 "Jinarc 30mg+60mg tbl nob 56(28x30mg+28x60mg) i",2019-04-09
-"Erleada 60mg film-coated tablets 112",2019-04-08
 "Praluent 75mg inj sol 2x1ml i",2019-04-08
+"Erleada 60mg film-coated tablets 112",2019-04-08
 "Sinepar 200mg/50mg tbl pro 100",2019-04-05
 "Venclyxto 10mg film-coated tablets 14",2019-04-04
 "Venclyxto 50mg film-coated tablets 7",2019-04-04
