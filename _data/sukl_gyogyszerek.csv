@@ -1,4 +1,8 @@
 "Product","Submission"
+"Olazax 5mg tbl nob 28",2020-10-04
+"Olazax 10mg tbl nob 28",2020-10-04
+"Olazax disperzi 5mg por tbl dis 28",2020-10-04
+"Olazax disperzi 10mg por tbl dis 28",2020-10-04
 "Rxulti 1mg film-coated tablets 28",2020-10-01
 "Rxulti 2mg film-coated tablets 28",2020-10-01
 "Rxulti 4mg film-coated tablets 28",2020-10-01
@@ -38,19 +42,19 @@
 "Atectura breezhaler 125mcg/260mcg inh plv cps dur 30x1+1inh",2020-09-10
 "Levofloxacin kabi 5mg/ml inf sol 1x100ml",2020-09-07
 "Kodein xantis 30mg tbl nob 10",2020-09-03
-"Flucloxacilina azevedos 500 mg 500mg cps dur 24",2020-09-01
 "Imatinib aurovitas 100mg film-coated tablets 60",2020-09-01
 "Imatinib aurovitas 400mg film-coated tablets 30",2020-09-01
+"Flucloxacilina azevedos 500 mg 500mg cps dur 24",2020-09-01
 "Fibryga 1g inj/inf pso lqf 1+1x50ml",2020-08-31
 "Ketilept prolong 400mg tbl pro 60",2020-08-31
 "Emanera 20mg cps etd 30 i",2020-08-31
 "Emanera 40mg cps etd 30 i",2020-08-31
 "Emanera 20mg cps etd 30 ii",2020-08-31
 "Emanera 40mg cps etd 30 ii",2020-08-31
-"Morfin sulfát ardez 20mg/ml por gtt sol 1x20ml",2020-08-28
 "Ninlaro 2,3mg cps dur 3(3x1)",2020-08-28
 "Ninlaro 3mg cps dur 3(3x1)",2020-08-28
 "Ninlaro 4mg cps dur 3(3x1)",2020-08-28
+"Morfin sulfát ardez 20mg/ml por gtt sol 1x20ml",2020-08-28
 "Imraldi 40mg inj sol 2x(1x0,8ml)",2020-08-26
 "Eliquis 2,5mg film-coated tablets 168",2020-08-26
 "Eliquis 5mg film-coated tablets 60",2020-08-26
@@ -221,12 +225,12 @@
 "Pegasys 135mcg inj sol 1x0,5ml+1j",2020-06-29
 "Pegasys 180mcg inj sol 1x0,5ml+1j",2020-06-29
 "Pegasys 180mcg inj sol 1x0,5ml",2020-06-29
+"Tadalafil accord 20mg film-coated tablets 56",2020-06-24
+"Semglee 100u/ml inj sol pep 5x3ml",2020-06-24
 "Staloral 100ir/ml slg sol 2x10ml ir ii",2020-06-24
 "Staloral 100ic/ml slg sol 2x10ml ic ii",2020-06-24
 "Staloral 10-100ir/ml slg sol 2x10ml ir i",2020-06-24
 "Staloral 10-100ic/ml slg sol 2x10ml ic i",2020-06-24
-"Tadalafil accord 20mg film-coated tablets 56",2020-06-24
-"Semglee 100u/ml inj sol pep 5x3ml",2020-06-24
 "Movymia 20mcg/80mcl inj sol 3x2,4ml",2020-06-23
 "Movymia 20mcg/80mcl inj sol 1x2,4ml+pero",2020-06-23
 "Terrosa 20mcg/80mcl inj sol 1x2,4ml+terrosa pen",2020-06-23
@@ -298,9 +302,6 @@
 "Torvacard neo 60mg film-coated tablets 30",2020-04-23
 "Beovu 120mg/ml inj sol 1x0,165ml",2020-04-22
 "Gnak 50mg/ml inf sol 10x1000ml",2020-04-20
-"Saizen 5,83mg/ml inj sol 5x1,03ml",2020-04-17
-"Saizen 8mg/ml inj sol 5x2,5ml",2020-04-17
-"Saizen 8mg/ml inj sol 5x1,5ml",2020-04-17
 "Saizen 5,83mg/ml inj sol zvl 5x1,03ml",2020-04-17
 "Saizen 8mg/ml inj sol zvl 5x1,5ml",2020-04-17
 "Saizen 8mg/ml inj sol zvl 5x2,5ml",2020-04-17
@@ -329,7 +330,6 @@
 "Mekinist 2mg film-coated tablets 30",2020-04-09
 "Darzalex 20mg/ml inf cnc sol 1x5ml",2020-04-08
 "Darzalex 20mg/ml inf cnc sol 1x20ml",2020-04-08
-"Mabthera 1600mg inj sol 1x13,4ml",2020-04-08
 "Imatinib mylan 400 mg 400mg film-coated tablets 30",2020-04-08
 "Imatinib mylan 400mg film-coated tablets 30",2020-04-08
 "Meaxin 400mg film-coated tablets 30 ii",2020-04-08
@@ -343,12 +343,13 @@
 "Temozolomide accord 140mg cps dur 5",2020-04-08
 "Temozolomide accord 180mg cps dur 5",2020-04-08
 "Temozolomide accord 250mg cps dur 5",2020-04-08
+"Mabthera 1600mg inj sol 1x13,4ml",2020-04-08
 "Salofalk 4g rct sus 7x60g",2020-04-07
 "Bavencio 20mg/ml inf cnc sol 1x10ml",2020-04-05
 "Klabax 500mg film-coated tablets 14",2020-04-02
+"Kanuma 2mg/ml inf cnc sol 1x10ml",2020-03-31
 "Opdivo 10mg/ml inf cnc sol 1x4ml",2020-03-31
 "Opdivo 10mg/ml inf cnc sol 1x10ml",2020-03-31
-"Kanuma 2mg/ml inf cnc sol 1x10ml",2020-03-31
 "Empliciti 300mg inf plv csl 1",2020-03-31
 "Empliciti 400mg inf plv csl 1",2020-03-31
 "Bosentan ebewe 125mg film-coated tablets 56",2020-03-31
@@ -468,8 +469,8 @@
 "Alfacalcidol cande 1mcg cps mol 30",2020-02-10
 "Alfacalcidol cande 1mcg cps mol 90",2020-02-10
 "Emgality 120mg inj sol 1x1ml",2020-02-04
-"Rinvoq 15mg tbl pro 28 kal",2020-01-31
 "Vyndaqel 20mg cps mol 30x1",2020-01-31
+"Rinvoq 15mg tbl pro 28 kal",2020-01-31
 "Amelgen 400mg vag glb 15",2020-01-31
 "Amelgen 400mg vag glb 45",2020-01-31
 "Idacio 40mg inj sol 2x0,8ml",2020-01-31
