@@ -92,8 +92,8 @@
 "Spravato 28mg nas spr sol 1",2020-08-04
 "Keytruda 25mg/ml inf cnc sol 1x4ml",2020-07-31
 "Adcetris 50mg inf plv csl 1",2020-07-30
-"Blincyto 38,5mcg inf pcs sol 1+1x10ml",2020-07-29
 "Xospata 40mg film-coated tablets 84",2020-07-29
+"Blincyto 38,5mcg inf pcs sol 1+1x10ml",2020-07-29
 "Empliciti 300mg inf plv csl 1",2020-07-27
 "Empliciti 400mg inf plv csl 1",2020-07-27
 "Vizilatan 50mcg/ml oph gtt sol 1x2,5ml",2020-07-27
@@ -102,12 +102,22 @@
 "Cosentyx 150mg inj sol pep 2x1ml",2020-07-26
 "Fluocyne 10% 10% inj sol 10x5ml",2020-07-24
 "Cosentyx 150mg inj sol isp 2x1ml",2020-07-24
+"Atomoxetine accord 80mg cps dur 28 i",2020-07-21
+"Atomoxetine accord 100mg cps dur 28 i",2020-07-21
+"Bitinex 80mg cps dur 28 i",2020-07-21
 "Atorvastatin ratiopharm gmbh 10mg film-coated tablets 28",2020-07-21
 "Atorvastatin ratiopharm gmbh 10mg film-coated tablets 90",2020-07-21
 "Atorvastatin ratiopharm gmbh 20mg film-coated tablets 28",2020-07-21
 "Atorvastatin ratiopharm gmbh 20mg film-coated tablets 90",2020-07-21
 "Atorvastatin ratiopharm gmbh 40mg film-coated tablets 28",2020-07-21
 "Atorvastatin ratiopharm gmbh 40mg film-coated tablets 90",2020-07-21
+"Atomoxetin mylan 80mg cps dur 28",2020-07-21
+"Strattera 80mg cps dur 28",2020-07-21
+"Strattera 100mg cps dur 28",2020-07-21
+"Atomoxetin sandoz 80mg cps dur 28 i",2020-07-21
+"Atomoxetin sandoz 100mg cps dur 28 i",2020-07-21
+"Atomoxetin glenmark 80mg cps dur 28 i",2020-07-21
+"Atomoxetin glenmark 100mg cps dur 28 i",2020-07-21
 "Mertenil 15mg film-coated tablets 30",2020-07-21
 "Mertenil 30mg film-coated tablets 30",2020-07-21
 "Ozempic 0,25mg inj sol 1x1,5ml+4j",2020-07-21
@@ -128,11 +138,8 @@
 "Rosuvastatin accord 20mg film-coated tablets 90",2020-07-21
 "Rosuvastatin accord 40mg film-coated tablets 30",2020-07-21
 "Rosuvastatin accord 40mg film-coated tablets 90",2020-07-21
-"Atomoxetine accord 80mg cps dur 28 i",2020-07-21
-"Atomoxetine accord 100mg cps dur 28 i",2020-07-21
 "Rosuvastatin teva pharma 40mg film-coated tablets 100 ii",2020-07-21
 "Rosuvastatin teva pharma 40mg film-coated tablets 30 ii",2020-07-21
-"Bitinex 80mg cps dur 28 i",2020-07-21
 "Vipidia 12,5mg film-coated tablets 28",2020-07-21
 "Atorvastatin actavis 10mg film-coated tablets 28",2020-07-21
 "Atorvastatin actavis 10mg film-coated tablets 98",2020-07-21
@@ -145,9 +152,6 @@
 "Corvapro 20mg film-coated tablets 90",2020-07-21
 "Corvapro 40mg film-coated tablets 30",2020-07-21
 "Corvapro 40mg film-coated tablets 90",2020-07-21
-"Atomoxetin mylan 80mg cps dur 28",2020-07-21
-"Strattera 80mg cps dur 28",2020-07-21
-"Strattera 100mg cps dur 28",2020-07-21
 "Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 28 i",2020-07-21
 "Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 98 i",2020-07-21
 "Rosi 10mg film-coated tablets 30",2020-07-21
@@ -167,14 +171,10 @@
 "Zahron 30mg film-coated tablets 28",2020-07-21
 "Bydureon 2mg inj plq sus pro 4x1+1j",2020-07-21
 "Telhycar 80mg/12,5mg tbl nob 28",2020-07-21
-"Atomoxetin sandoz 80mg cps dur 28 i",2020-07-21
-"Atomoxetin sandoz 100mg cps dur 28 i",2020-07-21
 "Lanxib 15mg cps etd 28 ii",2020-07-21
 "Lanxib 30mg cps etd 28 ii",2020-07-21
 "Lanxib 30mg cps etd 56 ii",2020-07-21
 "Cilozek 50mg tbl nob 56",2020-07-21
-"Atomoxetin glenmark 80mg cps dur 28 i",2020-07-21
-"Atomoxetin glenmark 100mg cps dur 28 i",2020-07-21
 "Telmisartan/hydrochlorothiazid egis 80mg/12,5mg tbl nob 30 i",2020-07-21
 "Telmisartan/hydrochlorothiazid egis 80mg/25mg tbl nob 30 i",2020-07-21
 "Rosuvastatin aurobindo 10 mg potahované tablety 10mg film-coated tablets 90",2020-07-21
@@ -226,8 +226,8 @@
 "Pegasys 135mcg inj sol 1x0,5ml+1j",2020-06-29
 "Pegasys 180mcg inj sol 1x0,5ml+1j",2020-06-29
 "Pegasys 180mcg inj sol 1x0,5ml",2020-06-29
-"Tadalafil accord 20mg film-coated tablets 56",2020-06-24
 "Semglee 100u/ml inj sol pep 5x3ml",2020-06-24
+"Tadalafil accord 20mg film-coated tablets 56",2020-06-24
 "Staloral 100ir/ml slg sol 2x10ml ir ii",2020-06-24
 "Staloral 100ic/ml slg sol 2x10ml ic ii",2020-06-24
 "Staloral 10-100ir/ml slg sol 2x10ml ir i",2020-06-24
