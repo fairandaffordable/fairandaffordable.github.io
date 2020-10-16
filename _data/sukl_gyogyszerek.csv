@@ -1,4 +1,6 @@
 "Product","Submission"
+"Lynparza 100mg film-coated tablets 56",2020-10-15
+"Lynparza 150mg film-coated tablets 56",2020-10-15
 "Enerzair breezhaler 114mcg/46mcg/136mcg inh plv cps dur 30x1+1inh",2020-10-08
 "Enerzair breezhaler 114mcg/46mcg/136mcg inh plv cps dur 30x1+1inh+1senzor",2020-10-08
 "Herzuma 150mg inf plv csl 1",2020-10-06
@@ -45,9 +47,9 @@
 "Atectura breezhaler 125mcg/260mcg inh plv cps dur 30x1+1inh",2020-09-10
 "Levofloxacin kabi 5mg/ml inf sol 1x100ml",2020-09-07
 "Kodein xantis 30mg tbl nob 10",2020-09-03
+"Flucloxacilina azevedos 500 mg 500mg cps dur 24",2020-09-01
 "Imatinib aurovitas 100mg film-coated tablets 60",2020-09-01
 "Imatinib aurovitas 400mg film-coated tablets 30",2020-09-01
-"Flucloxacilina azevedos 500 mg 500mg cps dur 24",2020-09-01
 "Emanera 20mg cps etd 30 ii",2020-08-31
 "Emanera 40mg cps etd 30 ii",2020-08-31
 "Fibryga 1g inj/inf pso lqf 1+1x50ml",2020-08-31
@@ -130,6 +132,12 @@
 "Rosi 40mg film-coated tablets 30",2020-07-21
 "Pantoprazole zentiva 20mg tbl ent 98",2020-07-21
 "Pantoprazole zentiva 40mg tbl ent 98",2020-07-21
+"Atorvastatin aurovitas 10mg film-coated tablets 90 i",2020-07-21
+"Atorvastatin aurovitas 20mg film-coated tablets 90 i",2020-07-21
+"Atorvastatin aurovitas 40mg film-coated tablets 30 ii",2020-07-21
+"Atorvastatin aurovitas 40mg film-coated tablets 30 i",2020-07-21
+"Atorvastatin aurovitas 80mg film-coated tablets 30 ii",2020-07-21
+"Atorvastatin aurovitas 80mg film-coated tablets 30 i",2020-07-21
 "Atomoxetin sandoz 80mg cps dur 28 i",2020-07-21
 "Atomoxetin sandoz 100mg cps dur 28 i",2020-07-21
 "Atomoxetin glenmark 80mg cps dur 28 i",2020-07-21
@@ -159,14 +167,6 @@
 "Vipidia 12,5mg film-coated tablets 28",2020-07-21
 "Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 28 i",2020-07-21
 "Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 98 i",2020-07-21
-"Atorvastatin aurovitas 10mg film-coated tablets 90 i",2020-07-21
-"Atorvastatin aurovitas 20mg film-coated tablets 90 i",2020-07-21
-"Atorvastatin aurovitas 40mg film-coated tablets 30 ii",2020-07-21
-"Atorvastatin aurovitas 40mg film-coated tablets 30 i",2020-07-21
-"Atorvastatin aurovitas 80mg film-coated tablets 30 ii",2020-07-21
-"Atorvastatin aurovitas 80mg film-coated tablets 30 i",2020-07-21
-"Atorvastatin aurovitas 10mg film-coated tablets 90 ii",2020-07-21
-"Atorvastatin aurovitas 20mg film-coated tablets 90 ii",2020-07-21
 "Zahron 15mg film-coated tablets 28",2020-07-21
 "Zahron 30mg film-coated tablets 28",2020-07-21
 "Bydureon 2mg inj plq sus pro 4x1+1j",2020-07-21
@@ -475,13 +475,13 @@
 "Amelgen 400mg vag glb 15",2020-01-31
 "Amelgen 400mg vag glb 45",2020-01-31
 "Idacio 40mg inj sol 2x0,8ml",2020-01-31
+"Libtayo 350mg inf cnc sol 1x7ml",2020-01-30
 "Revlimid 5mg cps dur 21",2020-01-30
 "Revlimid 10mg cps dur 21",2020-01-30
 "Revlimid 15mg cps dur 21",2020-01-30
 "Revlimid 25mg cps dur 21",2020-01-30
 "Opdivo 10mg/ml inf cnc sol 1x4ml",2020-01-30
 "Opdivo 10mg/ml inf cnc sol 1x10ml",2020-01-30
-"Libtayo 350mg inf cnc sol 1x7ml",2020-01-30
 "Aubagio 14mg film-coated tablets 28",2020-01-29
 "Rydapt 25mg cps mol 112(4x28)",2020-01-27
 "Emtricitabine/tenofovir disoproxil sandoz 200mg/245mg film-coated tablets 30",2020-01-27
@@ -1898,8 +1898,8 @@
 "Jinarc 15mg+45mg tbl nob 56(28x15mg+28x45mg) i",2019-04-09
 "Jinarc 30mg+90mg tbl nob 56(28x30mg+28x90mg) i",2019-04-09
 "Jinarc 30mg+60mg tbl nob 56(28x30mg+28x60mg) i",2019-04-09
-"Praluent 75mg inj sol 2x1ml i",2019-04-08
 "Erleada 60mg film-coated tablets 112",2019-04-08
+"Praluent 75mg inj sol 2x1ml i",2019-04-08
 "Sinepar 200mg/50mg tbl pro 100",2019-04-05
 "Venclyxto 10mg film-coated tablets 14",2019-04-04
 "Venclyxto 50mg film-coated tablets 7",2019-04-04
