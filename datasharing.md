@@ -46,6 +46,8 @@ The products undergoing evaluation are published by the National Health Insuranc
 
 ### Lithuania
 
+The products undergoing evaluation are published by the State Medicines Control Agency of Lithuania (VVKT). [This data](https://vvkt.lt/index.php?2442135045) is used to generate and populate the table below on products (with ICD-10 codes) and submission dates.
+
 <table id="table_id3">
 <thead>
 <tr>
