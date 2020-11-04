@@ -46,6 +46,21 @@ The products undergoing evaluation are published by the National Health Insuranc
 
 ### Lithuania
 
+<table id="table_id3">
+<thead>
+<tr>
+<th>Product</th>
+<th>Submission Date</th>
+</tr>
+</thead>
+{% for gyogyszer in site.data.vvkt_gyogyszerek %}
+  <tr>
+    <td>{{gyogyszer.Product}}</td>
+    <td>{{gyogyszer.Submission}}</td>
+  </tr>
+{% endfor %}
+</table>
+
 ### Slovakia
 
 ### Czech Republic
