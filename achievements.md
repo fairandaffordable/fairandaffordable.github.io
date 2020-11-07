@@ -100,7 +100,7 @@ The operational framework of FaAP was initially established by the health minist
 				<h2>Budapest (Online)</h2>
 				<em>November 3rd, 2020</em>
 				<p>	
-					Information Sharing Worksop
+					Information Sharing Workshop
 				</p>
 			</li>
 		</ol>
