@@ -33,7 +33,7 @@ The operational framework of FaAP was initially established by the health minist
 	</div> <!-- .timeline -->
 	<div class="events-content">
 		<ol>
-			<li class="selected" id="cd-list" data-date="03/03/2017">
+			<li id="cd-list" data-date="03/03/2017">
 				<h2>Warsaw</h2>
 				<em>March 3rd, 2017</em>
 				<p>	
@@ -96,7 +96,7 @@ The operational framework of FaAP was initially established by the health minist
 					Coordination Committee Meeting
 				</p>
 			</li>
-			<li id="cd-list" data-date="03/11/2020">
+			<li class="selected" id="cd-list" data-date="03/11/2020">
 				<h2>Budapest (Online)</h2>
 				<em>November 3rd, 2020</em>
 				<p>	
