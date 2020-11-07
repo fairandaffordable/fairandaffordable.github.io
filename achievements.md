@@ -88,11 +88,18 @@ The operational framework of FaAP was initially established by the health minist
 					HTA meeting
 				</p>
 			</li>
-      <li id="cd-list" data-date="03/11/2019">
+      			<li id="cd-list" data-date="03/11/2019">
 				<h2>Prague</h2>
 				<em>November 3rd-5th, 2019</em>
 				<p>	
 					Coordination Committee Meeting
+				</p>
+			</li>
+			<li id="cd-list" data-date="03/11/2020">
+				<h2>Budapest (Online)</h2>
+				<em>November 3rd, 2020</em>
+				<p>	
+					Information Sharing Worksop
 				</p>
 			</li>
 		</ol>
