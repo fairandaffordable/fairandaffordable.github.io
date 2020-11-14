@@ -114,9 +114,9 @@
 "Donepezil aurobindo 10mg film-coated tablets 100",2020-09-16
 "Donepezil aurobindo 10mg film-coated tablets 30",2020-09-16
 "Donepezil aurobindo 5mg film-coated tablets 30",2020-09-16
-"Nalgesin 550mg film-coated tablets 30",2020-09-15
 "Delipid plus 40mg/10mg cps dur 30",2020-09-15
 "Delipid plus 40mg/10mg cps dur 90",2020-09-15
+"Nalgesin 550mg film-coated tablets 30",2020-09-15
 "Preglenix 75mg cps dur 56",2020-09-11
 "Preglenix 150mg cps dur 56",2020-09-11
 "Excipial u hydrolotio 20mg/ml drm eml 200ml",2020-09-11
@@ -145,6 +145,10 @@
 "Ibrance 75mg film-coated tablets 21",2020-08-25
 "Ibrance 100mg film-coated tablets 21",2020-08-25
 "Ibrance 125mg film-coated tablets 21",2020-08-25
+"Valsacor 160mg film-coated tablets 28",2020-08-24
+"Valsacor 320mg film-coated tablets 28",2020-08-24
+"Aryzalera 10mg tbl nob 30",2020-08-24
+"Aryzalera 15mg tbl nob 30",2020-08-24
 "Sorvasta 15mg film-coated tablets 28x1",2020-08-24
 "Sorvasta 15mg film-coated tablets 84x1",2020-08-24
 "Sorvasta 10mg film-coated tablets 28x1",2020-08-24
@@ -153,10 +157,6 @@
 "Sorvasta 30mg film-coated tablets 28x1",2020-08-24
 "Sorvasta 30mg film-coated tablets 84x1",2020-08-24
 "Sorvasta 20mg film-coated tablets 28x1",2020-08-24
-"Valsacor 160mg film-coated tablets 28",2020-08-24
-"Valsacor 320mg film-coated tablets 28",2020-08-24
-"Aryzalera 10mg tbl nob 30",2020-08-24
-"Aryzalera 15mg tbl nob 30",2020-08-24
 "Atoris 40mg film-coated tablets 30",2020-08-24
 "Atoris 80mg film-coated tablets 30",2020-08-24
 "Lorista h 50mg/12,5mg film-coated tablets 28",2020-08-24
@@ -189,8 +189,6 @@
 "Rosuvastatin accord 20mg film-coated tablets 90",2020-07-21
 "Rosuvastatin accord 40mg film-coated tablets 30",2020-07-21
 "Rosuvastatin accord 40mg film-coated tablets 90",2020-07-21
-"Atomoxetine accord 80mg cps dur 28 i",2020-07-21
-"Atomoxetine accord 100mg cps dur 28 i",2020-07-21
 "Atorvastatin actavis 10mg film-coated tablets 28",2020-07-21
 "Atorvastatin actavis 10mg film-coated tablets 98",2020-07-21
 "Atorvastatin actavis 20mg film-coated tablets 28",2020-07-21
@@ -208,6 +206,8 @@
 "Corvapro 20mg film-coated tablets 90",2020-07-21
 "Corvapro 40mg film-coated tablets 30",2020-07-21
 "Corvapro 40mg film-coated tablets 90",2020-07-21
+"Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 28 i",2020-07-21
+"Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 98 i",2020-07-21
 "Rosi 10mg film-coated tablets 30",2020-07-21
 "Rosi 20mg film-coated tablets 30",2020-07-21
 "Rosi 40mg film-coated tablets 30",2020-07-21
@@ -217,9 +217,14 @@
 "Atorvastatin aurovitas 40mg film-coated tablets 30 i",2020-07-21
 "Atorvastatin aurovitas 80mg film-coated tablets 30 ii",2020-07-21
 "Atorvastatin aurovitas 80mg film-coated tablets 30 i",2020-07-21
+"Telhycar 80mg/12,5mg tbl nob 28",2020-07-21
 "Lanxib 15mg cps etd 28 ii",2020-07-21
 "Lanxib 30mg cps etd 28 ii",2020-07-21
 "Lanxib 30mg cps etd 56 ii",2020-07-21
+"Telmisartan/hydrochlorothiazid egis 80mg/12,5mg tbl nob 30 i",2020-07-21
+"Telmisartan/hydrochlorothiazid egis 80mg/25mg tbl nob 30 i",2020-07-21
+"Atomoxetine accord 80mg cps dur 28 i",2020-07-21
+"Atomoxetine accord 100mg cps dur 28 i",2020-07-21
 "Strattera 80mg cps dur 28",2020-07-21
 "Strattera 100mg cps dur 28",2020-07-21
 "Pantoprazole zentiva 20mg tbl ent 98",2020-07-21
@@ -247,15 +252,10 @@
 "Rosuvastatin teva pharma 40mg film-coated tablets 100 ii",2020-07-21
 "Rosuvastatin teva pharma 40mg film-coated tablets 30 ii",2020-07-21
 "Vipidia 12,5mg film-coated tablets 28",2020-07-21
-"Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 28 i",2020-07-21
-"Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 98 i",2020-07-21
 "Zahron 15mg film-coated tablets 28",2020-07-21
 "Zahron 30mg film-coated tablets 28",2020-07-21
 "Bydureon 2mg inj plq sus pro 4x1+1j",2020-07-21
-"Telhycar 80mg/12,5mg tbl nob 28",2020-07-21
 "Cilozek 50mg tbl nob 56",2020-07-21
-"Telmisartan/hydrochlorothiazid egis 80mg/12,5mg tbl nob 30 i",2020-07-21
-"Telmisartan/hydrochlorothiazid egis 80mg/25mg tbl nob 30 i",2020-07-21
 "Rosuvastatin aurobindo 10 mg potahované tablety 10mg film-coated tablets 90",2020-07-21
 "Rosuvastatin aurobindo 20 mg potahované tablety 20mg film-coated tablets 90",2020-07-21
 "Rosuvastatin aurobindo 40 mg potahované tablety 40mg film-coated tablets 90",2020-07-21
@@ -382,12 +382,12 @@
 "Torvacard neo 60mg film-coated tablets 30",2020-04-23
 "Beovu 120mg/ml inj sol 1x0,165ml",2020-04-22
 "Gnak 50mg/ml inf sol 10x1000ml",2020-04-20
+"Keytruda 25mg/ml inf cnc sol 1x4ml",2020-04-17
 "Saizen 5,83mg/ml inj sol zvl 5x1,03ml",2020-04-17
 "Saizen 8mg/ml inj sol zvl 5x1,5ml",2020-04-17
 "Saizen 8mg/ml inj sol zvl 5x2,5ml",2020-04-17
 "Zomacton 10mg inj pso lqf 1x10mg+1x1ml",2020-04-17
 "Zomacton 4mg inj pso lqf 5+5 amp",2020-04-17
-"Keytruda 25mg/ml inf cnc sol 1x4ml",2020-04-17
 "Perjeta 420mg inf cnc sol 1x14ml",2020-04-16
 "Lixiana 30mg film-coated tablets 30",2020-04-14
 "Lixiana 30mg film-coated tablets 100",2020-04-14
@@ -436,10 +436,10 @@
 "Bosentan avmc 125mg film-coated tablets 56x1",2020-03-31
 "Bosentan welding 125 mg 125mg film-coated tablets 56",2020-03-31
 "Bosentan pharmascience international 125 mg potahované tablety 125mg film-coated tablets 56x1",2020-03-31
-"Adcetris 50mg inf plv csl 1",2020-03-30
 "Mavenclad 10mg tbl nob 1",2020-03-30
 "Mavenclad 10mg tbl nob 4",2020-03-30
 "Mavenclad 10mg tbl nob 6",2020-03-30
+"Adcetris 50mg inf plv csl 1",2020-03-30
 "Lacosamide glenmark 50mg film-coated tablets 14",2020-03-29
 "Lacosamide glenmark 100mg film-coated tablets 56",2020-03-29
 "Lacosamide glenmark 150mg film-coated tablets 56",2020-03-29
