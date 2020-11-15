@@ -8,6 +8,12 @@ menubar: example_menu
 
 ## List of reimbursed pharmaceutical products
 
+The list of reimbursed medicinal products is updated every month in each country participating in FaAP. These lists are maintaned by different entities in each country (links are provided for the actual sources below):
+* Poland - [Ministry of Health](https://www.gov.pl/web/zdrowie/obwieszczenia-ministra-zdrowia-lista-lekow-refundowanych?target=_blank) 
+* Czech Republic - [State Institute for Drug Control](http://www.sukl.cz/sukl/seznam-leciv-a-pzlu-hrazenych-ze-zdrav-pojisteni?target=_blank)
+* Slovakia - [Ministry of Health](https://www.mzsr.sk/?zoznam-kategorizovanych-liekov?target=_blank)
+* Lithuania - [National Health Insurance Fund](http://www.vlk.lt/privalomojo-sveikatos-draudimo-taryba/privalomojo-sveikatos-draudimo-tarnybos-nutarimai?target=_blank)
+* Hungary - [National Health Insurance Fund](http://neak.gov.hu/felso_menu/szakmai_oldalak/gyogyszer_segedeszkoz_gyogyfurdo_tamogatas/egeszsegugyi_vallalkozasoknak/pupha/Vegleges_PUPHA.html?target=_blank)
 
 ## Products undergoing evaluation
 
