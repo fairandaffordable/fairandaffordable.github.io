@@ -23,14 +23,14 @@ This section demonstrates products undergoing evaluation in each of the particip
 
 The table below for products undergoing evaluation is populated by then [data source](https://bipold.aotm.gov.pl?target=_blank) maintained by AoTMiT.
 
-<table id="table_id">
+<table id="table_id4">
 <thead>
 <tr>
 <th>Product</th>
 <th>Submission Date</th>
 </tr>
 </thead>
-{% for gyogyszer in site.data.neak_gyogyszerek %}
+{% for gyogyszer in site.data.aotmit_gyogyszerek %}
   <tr>
     <td>{{gyogyszer.Product}}</td>
     <td>{{gyogyszer.Submission}}</td>
@@ -44,14 +44,14 @@ The table below for products undergoing evaluation is populated by then [data so
 
 The products undergoing evaluation are published by the National Health Insurance Fund. [This data](www.neak.gov.hu/felso_menu/szakmai_oldalak/gyogyszer_segedeszkoz_gyogyfurdo_tamogatas/egeszsegugyi_vallalkozasoknak/gyartok_forgalomba_hozok/KERELEM_IND_ELJ_GYOGYSZ_TAPSZ.html7?target=_blank) is used to generate and populate the table below on product names and submission dates.
 
-<table id="table_id4">
+<table id="table_id">
 <thead>
 <tr>
 <th>Product</th>
 <th>Submission Date</th>
 </tr>
 </thead>
-{% for gyogyszer in site.data.aotmit_gyogyszerek %}
+{% for gyogyszer in site.data.neak_gyogyszerek %}
   <tr>
     <td>{{gyogyszer.Product}}</td>
     <td>{{gyogyszer.Submission}}</td>
