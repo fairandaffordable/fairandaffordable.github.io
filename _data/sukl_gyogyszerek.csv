@@ -1,10 +1,16 @@
 "Product","Submission"
+"Tavlesse 100mg film-coated tablets 60",2020-12-01
+"Tavlesse 150mg film-coated tablets 60",2020-12-01
 "Solu-medrol 40mg/ml inj pso lqf 40mg+1ml",2020-12-01
 "Solu-medrol 62,5mg/ml inj pso lqf 500mg+7,8ml",2020-12-01
 "Darzalex 1800mg inj sol 1x15ml",2020-11-27
 "Opsumit 10mg film-coated tablets 30",2020-11-27
 "Januvia 100mg film-coated tablets 28",2020-11-26
 "Januvia 100mg film-coated tablets 98",2020-11-26
+"Tramadol krka 50mg cps dur 30",2020-11-23
+"Tramadol krka 100mg tbl pro 30x1",2020-11-23
+"Tramadol krka 150mg tbl pro 30x1",2020-11-23
+"Tramadol krka 200mg tbl pro 30x1",2020-11-23
 "Zalasta 15mg tbl nob 70",2020-11-23
 "Zalasta 20mg tbl nob 70",2020-11-23
 "Wamlox 5mg/80mg film-coated tablets 30",2020-11-23
@@ -30,10 +36,6 @@
 "Ultop 20mg cps etd 14",2020-11-23
 "Tramadol krka 50mg/ml inj/inf sol 5x1ml",2020-11-23
 "Tramadol krka 100mg/2ml inj/inf sol 5x2ml",2020-11-23
-"Tramadol krka 50mg cps dur 30",2020-11-23
-"Tramadol krka 100mg tbl pro 30x1",2020-11-23
-"Tramadol krka 150mg tbl pro 30x1",2020-11-23
-"Tramadol krka 200mg tbl pro 30x1",2020-11-23
 "Tonarssa 5,7mg/5mg tbl nob 30",2020-11-23
 "Tolucombi 80mg/12,5mg tbl nob 84x1 ii",2020-11-23
 "Tagren 250mg film-coated tablets 30",2020-11-23
@@ -126,8 +128,6 @@
 "Monopost 50mcg/ml oph gtt sol mdc 90(18x5)x0,2ml iv",2020-11-11
 "Plenvu por plv sol 1",2020-11-10
 "Adenuric 80mg film-coated tablets 84 ii",2020-11-10
-"Olanzapin mylan 5mg film-coated tablets 56",2020-11-09
-"Olanzapin mylan 10mg film-coated tablets 56",2020-11-09
 "Zalasta 5mg tbl nob 70",2020-11-09
 "Zalasta 10mg tbl nob 70",2020-11-09
 "Zalasta 15mg tbl nob 70",2020-11-09
@@ -136,6 +136,18 @@
 "Zalasta 10mg por tbl dis 70",2020-11-09
 "Zalasta 15mg por tbl dis 70",2020-11-09
 "Zalasta 20mg por tbl dis 70",2020-11-09
+"Olanzapin mylan 5mg por tbl dis 56x1",2020-11-09
+"Olanzapin mylan 10mg por tbl dis 56x1",2020-11-09
+"Olanzapin mylan 5mg film-coated tablets 56",2020-11-09
+"Olanzapin mylan 10mg film-coated tablets 56",2020-11-09
+"Nykob 10mg film-coated tablets 28",2020-11-09
+"Nykob 5 mg potahované tablety 5mg film-coated tablets 28",2020-11-09
+"Nykob 10 mg potahované tablety 10mg film-coated tablets 28",2020-11-09
+"Nykob 5mg film-coated tablets 28",2020-11-09
+"Egolanza 15mg film-coated tablets 56",2020-11-09
+"Egolanza 20mg film-coated tablets 56",2020-11-09
+"Egolanza 5mg film-coated tablets 49",2020-11-09
+"Egolanza 10mg film-coated tablets 49",2020-11-09
 "Olpinat 5mg film-coated tablets 49",2020-11-09
 "Olpinat 10mg film-coated tablets 49",2020-11-09
 "Olazax 5mg tbl nob 56",2020-11-09
@@ -146,18 +158,8 @@
 "Olanzapine aurobindo 10mg por tbl dis 28",2020-11-09
 "Olanzapine aurovitas 5mg por tbl dis 28",2020-11-09
 "Olanzapine aurovitas 10mg por tbl dis 28",2020-11-09
-"Olanzapin mylan 5mg por tbl dis 56x1",2020-11-09
-"Olanzapin mylan 10mg por tbl dis 56x1",2020-11-09
 "Aedon 5mg por tbl dis 56",2020-11-09
 "Aedon 10mg por tbl dis 56",2020-11-09
-"Nykob 10mg film-coated tablets 28",2020-11-09
-"Nykob 5 mg potahované tablety 5mg film-coated tablets 28",2020-11-09
-"Nykob 10 mg potahované tablety 10mg film-coated tablets 28",2020-11-09
-"Nykob 5mg film-coated tablets 28",2020-11-09
-"Egolanza 15mg film-coated tablets 56",2020-11-09
-"Egolanza 20mg film-coated tablets 56",2020-11-09
-"Egolanza 5mg film-coated tablets 49",2020-11-09
-"Egolanza 10mg film-coated tablets 49",2020-11-09
 "Trimethoprim tablets bp 200mg 200mg tbl nob 14",2020-11-08
 "Donpethon 5 mg 5mg film-coated tablets 98",2020-11-05
 "Donpethon 10 mg 10mg film-coated tablets 98",2020-11-05
@@ -423,12 +425,12 @@
 "Pegasys 135mcg inj sol 1x0,5ml+1j",2020-06-29
 "Pegasys 180mcg inj sol 1x0,5ml+1j",2020-06-29
 "Pegasys 180mcg inj sol 1x0,5ml",2020-06-29
-"Semglee 100u/ml inj sol pep 5x3ml",2020-06-24
-"Tadalafil accord 20mg film-coated tablets 56",2020-06-24
 "Staloral 100ir/ml slg sol 2x10ml ir ii",2020-06-24
 "Staloral 100ic/ml slg sol 2x10ml ic ii",2020-06-24
 "Staloral 10-100ir/ml slg sol 2x10ml ir i",2020-06-24
 "Staloral 10-100ic/ml slg sol 2x10ml ic i",2020-06-24
+"Semglee 100u/ml inj sol pep 5x3ml",2020-06-24
+"Tadalafil accord 20mg film-coated tablets 56",2020-06-24
 "Movymia 20mcg/80mcl inj sol 3x2,4ml",2020-06-23
 "Movymia 20mcg/80mcl inj sol 1x2,4ml+pero",2020-06-23
 "Terrosa 20mcg/80mcl inj sol 1x2,4ml+terrosa pen",2020-06-23
