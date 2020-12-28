@@ -1,8 +1,8 @@
 "Product","Submission"
 "Venclyxto 100 mg film-coated tablets, 112x",2019-12-03
 "Synagis 100 mg/ml solution for injection, 1x0,5ml injection vial",2019-12-07
-"Keytruda 25mg/ml concentrate for solution for infusion, 1x",2019-12-08
-"Keytruda 25mg/ml concentrate for solution for infusion, 1x",2019-12-18
+"Keytruda 25mg/ml concentrate for solution, 1x",2019-12-08
+"Keytruda 25mg/ml concentrate for solution, 1x",2019-12-18
 "Jivi 500ne powder and solvent for solution for injection 1x",2019-12-18
 "Cabometyx 20mg film-coated tablets, 30x",2019-12-18
 "Kymriah 1,2x10^6-6x10^8 cells dispersion for infusion",2019-12-20
@@ -28,7 +28,7 @@
 "Dexamethason krka 4 mg tablets, 50x in blister",2020-01-31
 "Milurit 300 mg tablets, 30x",2020-02-11
 "Gonapeptyl 0,1 mg/ml solution for injection, 7x",2020-02-13
-"Utrogestan 200 mg lágy hüvelykapszula, 15x",2020-02-13
+"Utrogestan 200 mg lágy hüvelycapsule, 15x",2020-02-13
 "Tresuvi 2,5 mg/ml solution for infusion",2020-02-15
 "Fraxiparine 3800 ne/0,4 ml solution for injection 10x",2020-02-21
 "Fraxiparine 5700 ne/0,6 ml solution for injection 10x",2020-02-21
@@ -41,22 +41,22 @@
 "Cutaquig 165 mg/ml solution for injection, 1x6 ml",2020-02-29
 "Darzalex 20mg/ml koncentrátum oldatos infuzióhoz 1x5ml injection vial",2020-03-05
 "Darzalex 20mg/ml koncentrátum oldatos infuzióhoz 1x20ml injection vial",2020-03-05
-"Utrogestan 100mg hüvelykapszula 30x",2020-03-06
+"Utrogestan 100mg hüvelycapsule 30x",2020-03-06
 "Beriplex p/n 1000 powder and solvent for solution for injection 1x",2020-03-06
-"Ferinject 50 mg vas/ml solution for injection vagy infusion 1x10ml injection vial",2020-03-06
-"Utrogestan 200mg lágy hüvelykapszula 15x",2020-03-07
+"Ferinject 50 mg vas/ml solution for injection or infusion 1x10ml injection vial",2020-03-06
+"Utrogestan 200mg lágy hüvelycapsule 15x",2020-03-07
 "Lorviqua 25 mg film-coated tablets, 90x",2020-03-12
 "Lorviqua 100 mg film-coated tablets, 30x",2020-03-12
-"Keytruda 25mg/ml concentrate for solution for infusion, 1x",2020-03-20
+"Keytruda 25mg/ml concentrate for solution, 1x",2020-03-20
 "Liticarb 500mg tablets 20x",2020-03-24
 "Orkambi100mg/125mg film-coated tablets, 112x",2020-03-31
 "Orkambi100mg/125mg granulátum, 56x tasak",2020-03-31
 "Rinvoq 15mg retard tablets 28x",2020-04-01
 "Rapiscan 400 microgram solution for injection",2020-04-02
-"Ocrevus 300mg concentrate for solution for infusion",2020-04-03
+"Ocrevus 300mg concentrate for solution",2020-04-03
 "Tagrisso 80 mg film-coated tablets 30x",2020-04-08
-"Imfinzi 50mg/ml concentrate for solution for infusion, 1x120mg injection vial",2020-04-08
-"Imfinzi 50mg/ml concentrate for solution for infusion, 1x500mg injection vial",2020-04-08
+"Imfinzi 50mg/ml concentrate for solution, 1x120mg injection vial",2020-04-08
+"Imfinzi 50mg/ml concentrate for solution, 1x500mg injection vial",2020-04-08
 "Plaquenil 200 mg film-coated tablets, 60x",2020-04-15
 "Aimovig 70 mg solution for injection in pre-filled pen,1x",2020-04-15
 "Aimovig 140 mg solution for injection in pre-filled pen,1x",2020-04-15
@@ -71,13 +71,13 @@
 "Lenvima 4 mg hard capsule, 30x",2020-05-07
 "Memoril 1200 mg film-coated tablets, 60x",2020-05-15
 "Imnovid 1mg hard capsule 14x",2020-05-21
-"Keytruda 25mg/ml concentrate for solution for infusion, 1x",2020-05-21
+"Keytruda 25mg/ml concentrate for solution, 1x",2020-05-21
 "Emgality 120 mg solution for injection in pre-filled pen 1x",2020-05-28
-"Opdivo 10mg/ml por concentrate for solution for infusion 1x4ml injection vial",2020-05-30
+"Opdivo 10mg/ml por concentrate for solution 1x4ml injection vial",2020-05-30
 "Lynparza100mg film-coated tablets 56x",2020-05-30
 "Lynparza150mg film-coated tablets 56x",2020-05-30
 "Brilique 90 mg film-coated tablets 56x",2020-05-30
-"Opdivo 10mg/ml concentrate for solution for infusion, 1x4ml injection vial",2020-05-30
+"Opdivo 10mg/ml concentrate for solution, 1x4ml injection vial",2020-05-30
 "Mayzent 0,25mg film-coated tablets 12x",2020-06-04
 "Mayzent 0,25mg film-coated tablets 120x",2020-06-04
 "Mayzent 2mg film-coated tablets 28x",2020-06-04
@@ -86,7 +86,7 @@
 "Quamatel 20mg powder and solvent for solution for injection 5db porampulla és 5db oldószerampulla műanyag tálcán és dobozban",2020-06-30
 "Xgeva 120 mg solution for injection, 1x",2020-07-01
 "Rybelsus 3 mg tablets 30x",2020-07-01
-"Opdivo 10mg/ml concentrate for solution for infusion, 1x4ml injection vial",2020-07-01
+"Opdivo 10mg/ml concentrate for solution, 1x4ml injection vial",2020-07-01
 "Lysodren 500mg tablets",2020-07-01
 "Polivy 140 mg powder for concentrate for solution for infusion 1x",2020-07-01
 "Beovu 120mg/ml solution for injection in pre-filled syringe",2020-07-02
@@ -105,21 +105,21 @@
 "Elmiron 100 mg hard capsule, 90x hdpe palackban",2020-07-28
 "Darzalex 1800 mg solution for injection, 1x",2020-07-29
 "Azacitidine stada 25 mg/ml por suspension for injectionhoz, 1x",2020-08-01
-"Ocrevus 300mg concentrate for solution for infusion, 1x",2020-08-01
+"Ocrevus 300mg concentrate for solution, 1x",2020-08-01
 "Revolade 25mg film-coated tablets, 28x in blister",2020-08-06
 "Revolade 50mg film-coated tablets, 28x in blister",2020-08-06
 "Leuprorelin pharmacenter 11,25 mg implantátum in pre-filled syringes",2020-08-13
-"Aprepitant q pharma 125mg hard capsule+ aprepitant q pharma 80 mg hard capsule, 1x1db 125mg + 2x1db  80mg kapszula",2020-08-28
+"Aprepitant q pharma 125mg hard capsule+ aprepitant q pharma 80 mg hard capsule, 1x1db 125mg + 2x1db  80mg capsule",2020-08-28
 "Xeljanz 5mg film-coated tablets 56x",2020-09-09
 "Pentaglobin 50 mg/ml solution for infusion 50 ml",2020-09-11
 "Mylotarg 5 mg powder for concentrate for solution for infusion, 1x",2020-09-11
 "Latuda 37 mg film-coated tablets, 28x",2020-09-12
 "Cosentyx 150mg solution for injection in pre-filled pen 1x",2020-09-12
 "Xarelto 2,5 mg film-coated tablets, 56x",2020-09-23
-"Tecentriq 1200 mg concentrate for solution for infusion 1x20 ml",2020-09-25
+"Tecentriq 1200 mg concentrate for solution 1x20 ml",2020-09-25
 "Oncaspar 750 e/ml por solution for injectionhoz/infusionhoz, 1x",2020-09-25
-"Bavencio 20mg/ml concentrate for solution for infusion, 1x10 ml",2020-09-02
-"Ultomiris 300 mg concentrate for solution for infusion, 1x",2020-09-30
+"Bavencio 20mg/ml concentrate for solution, 1x10 ml",2020-09-02
+"Ultomiris 300 mg concentrate for solution, 1x",2020-09-30
 "Rydapt 25mg soft capsule, 56x",2020-10-03
 "Fragmin 2500 ne/0,2 ml solution for injection in pre-filled syringe, 10x0,2 ml in pre-filled syringes",2020-10-08
 "Fragmin 5000 ne/0,2 ml solution for injection in pre-filled syringe, 10x0,2 ml in pre-filled syringes",2020-10-08
@@ -143,7 +143,7 @@
 "Dupixent 200 mg solution for injection in pre-filled pen, 2x in pre-filled pen",2020-10-31
 "Imnovid 1mg hard capsule 14x",2020-10-31
 "Prevymis 240 mg film-coated tablets, 28x1 dosesonként perforált in blister",2020-11-10
-"Prevymis 240 mg concentrate for solution for infusion, 1x12ml injection vial",2020-11-10
+"Prevymis 240 mg concentrate for solution, 1x12ml injection vial",2020-11-10
 "Piqray 50mg film-coated tablets , 28x+200mg film-coated tablets 28x",2020-11-14
 "Piqray 150mg film-coated tablets  56x",2020-11-14
 "Piqray 200mg film-coated tablets  28x",2020-11-14
@@ -151,17 +151,17 @@
 "Sabacomb 250 microgram/ 100 microgram pressurized inhalation suspension, 1 x 200 doses",2020-11-21
 "Stelara 45 mg solution for injection in pre-filled syringe, 1x",2020-11-25
 "Haloperidol-richter 5mg/ml solution for injection, 5x1ml",2020-11-26
-"Sarclisa 20mg/ml concentrate for solution for infusion 1x5ml injekciós üvegban",2020-11-27
-"Sarclisa 20mg/ml concentrate for solution for infusion 1x25ml injekciós üvegban",2020-11-27
-"Keytruda 25mg/ml concentrate for solution for infusion, 1x4ml injection vial",2020-12-02
+"Sarclisa 20mg/ml concentrate for solution 1x5ml injekciós üvegban",2020-11-27
+"Sarclisa 20mg/ml concentrate for solution 1x25ml injekciós üvegban",2020-11-27
+"Keytruda 25mg/ml concentrate for solution, 1x4ml injection vial",2020-12-02
 "Olumiant 2mg film-coated tablets 35x",2020-12-02
 "Olumiant 4mg film-coated tablets 35x",2020-12-02
 "Remsima120mg solution for injection in pre-filled pen, 4x",2020-12-03
 "Ofev 100 mg soft capsule 60x",2020-12-04
 "Ofev 150 mg soft capsule 60x",2020-12-04
-"Keytruda 25mg/ml concentrate for solution for infusion, 1x4ml injection vial",2020-12-04
+"Keytruda 25mg/ml concentrate for solution, 1x4ml injection vial",2020-12-04
 "Amlodipin/valsartan/hct sandoz 5mg/160mg/12,5mg film-coated tablets 28x",2020-12-11
 "Amlodipin/valsartan/hct sandoz 10mg/160mg/12,5mg film-coated tablets 28x",2020-12-11
 "Prevenar 13 suspension for injection, 1x0,5ml in pre-filled syringes különálló tűvel",2020-12-13
-"Tecentriq 840 mg concentrate for solution for infusion, 1x14 ml injection vial",2020-12-17
+"Tecentriq 840 mg concentrate for solution, 1x14 ml injection vial",2020-12-17
 "Synagis 100 mg/ml solution for injection, 1x0,5ml injection vial",2020-12-18

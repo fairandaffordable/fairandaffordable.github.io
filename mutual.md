@@ -16,11 +16,11 @@ The table below helps to identify each stakeholder (Financing agent, HTA, Minist
 
 | Country       | Financing agent| Health Technology Assessment | Ministry of Health|
 |---------------|----------------|------------------------------|-------------------|
-| Poland        | [Narodowy Fundusz Zdrowia (NFZ)](http://www.nfz.gov.pl/) | [Agencja Oceny Technologii Medycznych i Taryfikacji (AOTMiT)](http://www.aotm.gov.pl/www/) | [Ministerstwo Zdrowia Rzeczypospolitej Polskiej (MZRP)](https://www.gov.pl/web/zdrowie/) |
+| Czech Republic| [Všeobecná Zdravotní Pojišťovna (VZP)](https://www.vzp.cz/) | [Státní Ústav Pro Kontrolu Léčiv (SÚKL)](http://www.sukl.cz/) | [Ministerstvo zdravotnictví České Republiky (MZCR)](https://www.mzcr.cz/) |
 | Hungary       | [Nemzeti Egészségbiztosítási Alapkezelő (NEAK)](http://www.neak.gov.hu) | [Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (OGYÉI)](https://ogyei.gov.hu/tei) | [Emberi Erőforrások Minisztériuma (EMMI)](https://www.kormany.hu/hu/emberi-eroforrasok-miniszteriuma) |
 | Lithuania     | [Valstybinė Ligonių Kasa (VLK)](http://www.vlk.lt/) | [Valstybinė Vaistų Kontrolės Tarnyba (VVKT)](https://vvkt.lt/) | [Lietuvos Respublikos sveikatos Apsaugos Ministerija (LRSAM)](http://sam.lrv.lt/lt/) |
+| Poland        | [Narodowy Fundusz Zdrowia (NFZ)](http://www.nfz.gov.pl/) | [Agencja Oceny Technologii Medycznych i Taryfikacji (AOTMiT)](http://www.aotm.gov.pl/www/) | [Ministerstwo Zdrowia Rzeczypospolitej Polskiej (MZRP)](https://www.gov.pl/web/zdrowie/) |
 | Slovakia      | [Všeobecná Zdravotná Poisťovňa (VsZP)](https://www.vszp.sk/) | [TBA]() | [Ministerstvo zdravotníctva Slovenskej Republiky (MZSR)](https://www.health.gov.sk/Titulka) |
-| Czech Republic| [Všeobecná Zdravotní Pojišťovna (VZP)](https://www.vzp.cz/) | [Státní Ústav Pro Kontrolu Léčiv (SÚKL)](http://www.sukl.cz/) | [Ministerstvo zdravotnictví České Republiky (MZCR)](https://www.mzcr.cz/) |
 
 ### Czech Republic
 
