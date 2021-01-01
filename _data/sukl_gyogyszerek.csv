@@ -67,6 +67,12 @@
 "Opsumit 10mg film-coated tablets 30",2020-11-27
 "Januvia 100mg film-coated tablets 28",2020-11-26
 "Januvia 100mg film-coated tablets 98",2020-11-26
+"Tramadol krka 50mg/ml inj/inf sol 5x1ml",2020-11-23
+"Tramadol krka 100mg/2ml inj/inf sol 5x2ml",2020-11-23
+"Tramadol krka 50mg cps dur 30",2020-11-23
+"Tramadol krka 100mg tbl pro 30x1",2020-11-23
+"Tramadol krka 150mg tbl pro 30x1",2020-11-23
+"Tramadol krka 200mg tbl pro 30x1",2020-11-23
 "Emanera 20mg cps etd 30 i",2020-11-23
 "Emanera 20mg cps etd 90 i",2020-11-23
 "Emanera 40mg cps etd 30 i",2020-11-23
@@ -75,10 +81,6 @@
 "Apleria 25mg film-coated tablets 30x1",2020-11-23
 "Apleria 50mg film-coated tablets 30",2020-11-23
 "Apleria 50mg film-coated tablets 30x1",2020-11-23
-"Tramadol krka 50mg cps dur 30",2020-11-23
-"Tramadol krka 100mg tbl pro 30x1",2020-11-23
-"Tramadol krka 150mg tbl pro 30x1",2020-11-23
-"Tramadol krka 200mg tbl pro 30x1",2020-11-23
 "Zalasta 15mg tbl nob 70",2020-11-23
 "Zalasta 20mg tbl nob 70",2020-11-23
 "Wamlox 5mg/80mg film-coated tablets 30",2020-11-23
@@ -102,8 +104,6 @@
 "Valtricom 10mg/320mg/25mg film-coated tablets 30",2020-11-23
 "Valtricom 10mg/320mg/25mg film-coated tablets 30x1",2020-11-23
 "Ultop 20mg cps etd 14",2020-11-23
-"Tramadol krka 50mg/ml inj/inf sol 5x1ml",2020-11-23
-"Tramadol krka 100mg/2ml inj/inf sol 5x2ml",2020-11-23
 "Tagren 250mg film-coated tablets 30",2020-11-23
 "Tonarssa 5,7mg/5mg tbl nob 30",2020-11-23
 "Tolucombi 80mg/12,5mg tbl nob 84x1 ii",2020-11-23
@@ -309,9 +309,9 @@
 "Flucloxacilina azevedos 500 mg 500mg cps dur 24",2020-09-01
 "Imatinib aurovitas 100mg film-coated tablets 60",2020-09-01
 "Imatinib aurovitas 400mg film-coated tablets 30",2020-09-01
-"Ketilept prolong 400mg tbl pro 60",2020-08-31
 "Emanera 20mg cps etd 30 ii",2020-08-31
 "Emanera 40mg cps etd 30 ii",2020-08-31
+"Ketilept prolong 400mg tbl pro 60",2020-08-31
 "Fibryga 1g inj/inf pso lqf 1+1x50ml",2020-08-31
 "Morfin sulfát ardez 20mg/ml por gtt sol 1x20ml",2020-08-28
 "Ninlaro 2,3mg cps dur 3(3x1)",2020-08-28
