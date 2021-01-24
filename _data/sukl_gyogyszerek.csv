@@ -9,13 +9,13 @@
 "Mitomycin accord 20mg inj/inf/ivs plv sol 5",2021-01-15
 "Sumetrolim 400mg/80mg tbl nob 20",2021-01-15
 "Valsacor 80mg film-coated tablets 28",2021-01-15
+"Ebixa 10mg film-coated tablets 50 i",2021-01-13
 "Ebixa 5mg/dáv por sol 1x100ml",2021-01-13
+"Ebixa 20mg film-coated tablets 98 i",2021-01-13
 "Memantine aurovitas 10mg film-coated tablets 56",2021-01-13
 "Memantine aurovitas 20mg film-coated tablets 28",2021-01-13
 "Memantine vipharm 10mg film-coated tablets 98",2021-01-13
 "Memantine vipharm 20mg film-coated tablets 98",2021-01-13
-"Ebixa 10mg film-coated tablets 50 i",2021-01-13
-"Ebixa 20mg film-coated tablets 98 i",2021-01-13
 "Memigmin 10mg film-coated tablets 84",2021-01-13
 "Morysa 10 mg potahované tablety 10mg film-coated tablets 30",2021-01-13
 "Morysa 20 mg potahované tablety 20mg film-coated tablets 30",2021-01-13
@@ -206,10 +206,10 @@
 "Prenessa 8mg tbl nob 30",2020-11-23
 "Finpros 5mg film-coated tablets 90",2020-11-23
 "Emtricitabine/tenofovir disoproxil krka 200mg/245mg film-coated tablets 30",2020-11-23
+"Atordapin 10mg/10mg film-coated tablets 30",2020-11-23
 "Betaklav 500mg/125mg film-coated tablets 21",2020-11-23
 "Betaklav 875mg/125mg film-coated tablets 14",2020-11-23
 "Betaklav 875mg/125mg film-coated tablets 20",2020-11-23
-"Atordapin 10mg/10mg film-coated tablets 30",2020-11-23
 "Amprilan h 2,5mg/12,5mg tbl nob 30",2020-11-23
 "Amprilan h 2,5mg/12,5mg tbl nob 100",2020-11-23
 "Amprilan h 5mg/25mg tbl nob 30",2020-11-23
@@ -345,12 +345,12 @@
 "Syntroxine 175mcg cps mol 30",2020-10-29
 "Syntroxine 200mcg cps mol 30",2020-10-29
 "Syntroxine 112mcg cps mol 30",2020-10-29
-"Braftovi 50mg cps dur 28",2020-10-27
-"Braftovi 75mg cps dur 42",2020-10-27
-"Tienam 500mg/500mg inf plv sol 10",2020-10-27
 "Naxalgan 75mg cps dur 50",2020-10-27
 "Naxalgan 150mg cps dur 50",2020-10-27
 "Naxalgan 300mg cps dur 50",2020-10-27
+"Braftovi 50mg cps dur 28",2020-10-27
+"Braftovi 75mg cps dur 42",2020-10-27
+"Tienam 500mg/500mg inf plv sol 10",2020-10-27
 "Pragiola 75mg cps dur 100",2020-10-27
 "Pragiola 150mg cps dur 100",2020-10-27
 "Prelica 75 mg 75mg cps dur 112",2020-10-27
@@ -424,11 +424,11 @@
 "Ninlaro 3mg cps dur 3(3x1)",2020-08-28
 "Ninlaro 4mg cps dur 3(3x1)",2020-08-28
 "Morfin sulfát ardez 20mg/ml por gtt sol 1x20ml",2020-08-28
+"Imraldi 40mg inj sol 2x(1x0,8ml)",2020-08-26
 "Eliquis 2,5mg film-coated tablets 168",2020-08-26
 "Eliquis 5mg film-coated tablets 60",2020-08-26
 "Eliquis 5mg film-coated tablets 168",2020-08-26
 "Eliquis 5mg film-coated tablets 28",2020-08-26
-"Imraldi 40mg inj sol 2x(1x0,8ml)",2020-08-26
 "Ibrance 75mg cps dur 21",2020-08-25
 "Ibrance 100mg cps dur 21",2020-08-25
 "Ibrance 125mg cps dur 21",2020-08-25
@@ -473,60 +473,60 @@
 "Cosentyx 150mg inj sol pep 2x1ml",2020-07-26
 "Cosentyx 150mg inj sol isp 2x1ml",2020-07-24
 "Fluocyne 10% 10% inj sol 10x5ml",2020-07-24
-"Rosuvastatin teva pharma 40mg film-coated tablets 100 ii",2020-07-21
-"Rosuvastatin teva pharma 40mg film-coated tablets 30 ii",2020-07-21
-"Atorvastatin ratiopharm gmbh 10mg film-coated tablets 28",2020-07-21
-"Atorvastatin ratiopharm gmbh 10mg film-coated tablets 90",2020-07-21
-"Atorvastatin ratiopharm gmbh 20mg film-coated tablets 28",2020-07-21
-"Atorvastatin ratiopharm gmbh 20mg film-coated tablets 90",2020-07-21
-"Atorvastatin ratiopharm gmbh 40mg film-coated tablets 28",2020-07-21
-"Atorvastatin ratiopharm gmbh 40mg film-coated tablets 90",2020-07-21
-"Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 28 i",2020-07-21
-"Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 98 i",2020-07-21
-"Telhycar 80mg/12,5mg tbl nob 28",2020-07-21
-"Telmisartan/hydrochlorothiazid egis 80mg/12,5mg tbl nob 30 i",2020-07-21
-"Telmisartan/hydrochlorothiazid egis 80mg/25mg tbl nob 30 i",2020-07-21
 "Rosuvastatin accord 10mg film-coated tablets 30",2020-07-21
 "Rosuvastatin accord 10mg film-coated tablets 90",2020-07-21
 "Rosuvastatin accord 20mg film-coated tablets 30",2020-07-21
 "Rosuvastatin accord 20mg film-coated tablets 90",2020-07-21
 "Rosuvastatin accord 40mg film-coated tablets 30",2020-07-21
 "Rosuvastatin accord 40mg film-coated tablets 90",2020-07-21
+"Atomoxetine accord 80mg cps dur 28 i",2020-07-21
+"Atomoxetine accord 100mg cps dur 28 i",2020-07-21
+"Bitinex 80mg cps dur 28 i",2020-07-21
 "Atorvastatin actavis 10mg film-coated tablets 28",2020-07-21
 "Atorvastatin actavis 10mg film-coated tablets 98",2020-07-21
 "Atorvastatin actavis 20mg film-coated tablets 28",2020-07-21
 "Atorvastatin actavis 20mg film-coated tablets 98",2020-07-21
 "Atorvastatin actavis 40mg film-coated tablets 28",2020-07-21
+"Atorvastatin ratiopharm gmbh 10mg film-coated tablets 28",2020-07-21
+"Atorvastatin ratiopharm gmbh 10mg film-coated tablets 90",2020-07-21
+"Atorvastatin ratiopharm gmbh 20mg film-coated tablets 28",2020-07-21
+"Atorvastatin ratiopharm gmbh 20mg film-coated tablets 90",2020-07-21
+"Atorvastatin ratiopharm gmbh 40mg film-coated tablets 28",2020-07-21
+"Atorvastatin ratiopharm gmbh 40mg film-coated tablets 90",2020-07-21
 "Corvapro 10mg film-coated tablets 30",2020-07-21
 "Corvapro 10mg film-coated tablets 90",2020-07-21
 "Corvapro 20mg film-coated tablets 30",2020-07-21
 "Corvapro 20mg film-coated tablets 90",2020-07-21
 "Corvapro 40mg film-coated tablets 30",2020-07-21
 "Corvapro 40mg film-coated tablets 90",2020-07-21
+"Atomoxetin mylan 80mg cps dur 28",2020-07-21
+"Strattera 80mg cps dur 28",2020-07-21
+"Strattera 100mg cps dur 28",2020-07-21
+"Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 28 i",2020-07-21
+"Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 98 i",2020-07-21
 "Rosi 10mg film-coated tablets 30",2020-07-21
 "Rosi 20mg film-coated tablets 30",2020-07-21
 "Rosi 40mg film-coated tablets 30",2020-07-21
+"Pantoprazole zentiva 20mg tbl ent 98",2020-07-21
+"Pantoprazole zentiva 40mg tbl ent 98",2020-07-21
 "Atorvastatin aurovitas 10mg film-coated tablets 90 i",2020-07-21
 "Atorvastatin aurovitas 20mg film-coated tablets 90 i",2020-07-21
 "Atorvastatin aurovitas 40mg film-coated tablets 30 ii",2020-07-21
 "Atorvastatin aurovitas 40mg film-coated tablets 30 i",2020-07-21
 "Atorvastatin aurovitas 80mg film-coated tablets 30 ii",2020-07-21
 "Atorvastatin aurovitas 80mg film-coated tablets 30 i",2020-07-21
+"Telhycar 80mg/12,5mg tbl nob 28",2020-07-21
+"Atomoxetin sandoz 80mg cps dur 28 i",2020-07-21
+"Atomoxetin sandoz 100mg cps dur 28 i",2020-07-21
 "Lanxib 15mg cps etd 28 ii",2020-07-21
 "Lanxib 30mg cps etd 28 ii",2020-07-21
 "Lanxib 30mg cps etd 56 ii",2020-07-21
-"Atomoxetine accord 80mg cps dur 28 i",2020-07-21
-"Atomoxetine accord 100mg cps dur 28 i",2020-07-21
-"Strattera 80mg cps dur 28",2020-07-21
-"Strattera 100mg cps dur 28",2020-07-21
-"Pantoprazole zentiva 20mg tbl ent 98",2020-07-21
-"Pantoprazole zentiva 40mg tbl ent 98",2020-07-21
-"Bitinex 80mg cps dur 28 i",2020-07-21
-"Atomoxetin mylan 80mg cps dur 28",2020-07-21
-"Atomoxetin sandoz 80mg cps dur 28 i",2020-07-21
-"Atomoxetin sandoz 100mg cps dur 28 i",2020-07-21
 "Atomoxetin glenmark 80mg cps dur 28 i",2020-07-21
 "Atomoxetin glenmark 100mg cps dur 28 i",2020-07-21
+"Telmisartan/hydrochlorothiazid egis 80mg/12,5mg tbl nob 30 i",2020-07-21
+"Telmisartan/hydrochlorothiazid egis 80mg/25mg tbl nob 30 i",2020-07-21
+"Rosuvastatin teva pharma 40mg film-coated tablets 100 ii",2020-07-21
+"Rosuvastatin teva pharma 40mg film-coated tablets 30 ii",2020-07-21
 "Mertenil 15mg film-coated tablets 30",2020-07-21
 "Mertenil 30mg film-coated tablets 30",2020-07-21
 "Ozempic 0,25mg inj sol 1x1,5ml+4j",2020-07-21
@@ -572,9 +572,9 @@
 "Elocta 1500iu inj pso lqf 1+1x3ml isp",2020-07-17
 "Elocta 2000iu inj pso lqf 1+1x3ml isp",2020-07-17
 "Elocta 3000iu inj pso lqf 1+1x3ml isp",2020-07-17
+"Eylea 40mg/ml inj sol 1x0,09ml",2020-07-16
 "Pragiola 75mg cps dur 90",2020-07-16
 "Pragiola 150mg cps dur 90",2020-07-16
-"Eylea 40mg/ml inj sol 1x0,09ml",2020-07-16
 "Revlimid 5mg cps dur 21",2020-07-15
 "Revlimid 10mg cps dur 21",2020-07-15
 "Revlimid 15mg cps dur 21",2020-07-15
@@ -673,10 +673,10 @@
 "Torvacard neo 60mg film-coated tablets 30",2020-04-23
 "Beovu 120mg/ml inj sol 1x0,165ml",2020-04-22
 "Gnak 50mg/ml inf sol 10x1000ml",2020-04-20
-"Keytruda 25mg/ml inf cnc sol 1x4ml",2020-04-17
 "Saizen 5,83mg/ml inj sol zvl 5x1,03ml",2020-04-17
 "Saizen 8mg/ml inj sol zvl 5x1,5ml",2020-04-17
 "Saizen 8mg/ml inj sol zvl 5x2,5ml",2020-04-17
+"Keytruda 25mg/ml inf cnc sol 1x4ml",2020-04-17
 "Zomacton 10mg inj pso lqf 1x10mg+1x1ml",2020-04-17
 "Zomacton 4mg inj pso lqf 5+5 amp",2020-04-17
 "Perjeta 420mg inf cnc sol 1x14ml",2020-04-16
