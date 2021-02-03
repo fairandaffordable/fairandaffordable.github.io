@@ -10,9 +10,9 @@
 "Zibor 25000iu inj sol isp 2x0,3ml",2021-01-18
 "Zibor 25000iu inj sol isp 2x0,4ml",2021-01-18
 "Zibor 25000iu inj sol isp 2x0,2ml",2021-01-18
-"Azacitidine betapharm 25mg/ml inj plv sus 1x100mg",2021-01-15
 "Mitomycin accord 20mg inj/inf/ivs plv sol 1",2021-01-15
 "Mitomycin accord 20mg inj/inf/ivs plv sol 5",2021-01-15
+"Azacitidine betapharm 25mg/ml inj plv sus 1x100mg",2021-01-15
 "Ruconest 2100u inj plv sol 1",2021-01-15
 "Sumetrolim 400mg/80mg tbl nob 20",2021-01-15
 "Valsacor 80mg film-coated tablets 28",2021-01-15
@@ -49,17 +49,15 @@
 "Lyrica 20mg/ml por sol 1x473ml",2021-01-08
 "Montelukast medreg 10mg film-coated tablets 28",2021-01-08
 "Montelukast medreg 10mg film-coated tablets 98",2021-01-08
+"Xeljanz 5mg film-coated tablets 56",2021-01-07
+"Xeljanz 5mg film-coated tablets 182",2021-01-07
 "Ogivri 150mg inf plv csl 1",2021-01-07
 "Hyrimoz 20mg inj sol 2x0,4ml",2021-01-07
 "Febuxostat krka 80mg film-coated tablets 84",2021-01-07
 "Febuxostat krka 120mg film-coated tablets 84",2021-01-07
 "Rebetol 200mg cps dur 168",2021-01-07
-"Xeljanz 5mg film-coated tablets 56",2021-01-07
-"Xeljanz 5mg film-coated tablets 182",2021-01-07
 "Derin 200 mg potahované tablety 200mg film-coated tablets 80",2021-01-06
 "Ultibro breezhaler 85mcg/43mcg inh plv cps dur 90x1+inh",2021-01-06
-"Olanzapin actavis 5mg por tbl dis 56 ii",2021-01-06
-"Olanzapin actavis 10mg por tbl dis 56 ii",2021-01-06
 "Kventiax 100mg film-coated tablets 90",2021-01-06
 "Kventiax 200mg film-coated tablets 90",2021-01-06
 "Kventiax 300mg film-coated tablets 90",2021-01-06
@@ -70,6 +68,8 @@
 "Kventiax prolong 400mg tbl pro 90",2021-01-06
 "Kventiax prolong 50mg tbl pro 90",2021-01-06
 "Kventiax prolong 50mg tbl pro 100",2021-01-06
+"Olanzapin actavis 5mg por tbl dis 56 ii",2021-01-06
+"Olanzapin actavis 10mg por tbl dis 56 ii",2021-01-06
 "Quetiapin mylan 200 mg tablety s prodlouženým uvolňováním 200mg tbl pro 30",2021-01-06
 "Quetiapin mylan 300 mg tablety s prodlouženým uvolňováním 300mg tbl pro 30",2021-01-06
 "Quetiapin mylan 200mg tbl pro 30",2021-01-06
@@ -182,22 +182,17 @@
 "Januvia 100mg film-coated tablets 28",2020-11-26
 "Januvia 100mg film-coated tablets 98",2020-11-26
 "Tagren 250mg film-coated tablets 30",2020-11-23
-"Prenewel 4mg/1,25mg tbl nob 30 ii",2020-11-23
-"Prenewel 4mg/1,25mg tbl nob 90 ii",2020-11-23
-"Prenewel 8mg/2,5mg tbl nob 30",2020-11-23
-"Prenewel 8mg/2,5mg tbl nob 90",2020-11-23
-"Prenewel 2mg/0,625mg tbl nob 30 ii",2020-11-23
 "Prenessa 4mg tbl nob 30",2020-11-23
 "Prenessa 4mg tbl nob 90",2020-11-23
 "Prenessa 8mg tbl nob 30",2020-11-23
+"Prenessa oro tab 8mg por tbl dis 90",2020-11-23
+"Nolibeta 5mg tbl nob 28 i",2020-11-23
+"Nolibeta 5mg tbl nob 90 i",2020-11-23
+"Meaxin 400mg film-coated tablets 30 ii",2020-11-23
+"Meaxin 400mg film-coated tablets 30 i",2020-11-23
 "Marixino 10mg film-coated tablets 30",2020-11-23
 "Marixino 20mg film-coated tablets 30",2020-11-23
 "Losartan/hydrochlorothiazid krka 50mg/12,5mg film-coated tablets 28",2020-11-23
-"Lanzul 30mg cps dur 14",2020-11-23
-"Lanzul 15mg cps etd 28",2020-11-23
-"Glyclada 30mg tbl ret 60 i",2020-11-23
-"Glyclada 60mg tbl ret 60 ii",2020-11-23
-"Glyclada 60mg tbl ret 90 ii",2020-11-23
 "Betaklav 500mg/125mg film-coated tablets 21",2020-11-23
 "Betaklav 875mg/125mg film-coated tablets 14",2020-11-23
 "Betaklav 875mg/125mg film-coated tablets 20",2020-11-23
@@ -205,6 +200,16 @@
 "Amprilan h 2,5mg/12,5mg tbl nob 100",2020-11-23
 "Amprilan h 5mg/25mg tbl nob 30",2020-11-23
 "Amprilan h 5mg/25mg tbl nob 100",2020-11-23
+"Prenewel 4mg/1,25mg tbl nob 30 ii",2020-11-23
+"Prenewel 4mg/1,25mg tbl nob 90 ii",2020-11-23
+"Prenewel 8mg/2,5mg tbl nob 30",2020-11-23
+"Prenewel 8mg/2,5mg tbl nob 90",2020-11-23
+"Prenewel 2mg/0,625mg tbl nob 30 ii",2020-11-23
+"Lanzul 30mg cps dur 14",2020-11-23
+"Lanzul 15mg cps etd 28",2020-11-23
+"Glyclada 30mg tbl ret 60 i",2020-11-23
+"Glyclada 60mg tbl ret 60 ii",2020-11-23
+"Glyclada 60mg tbl ret 90 ii",2020-11-23
 "Venter 1g tbl nob 50",2020-11-23
 "Valtricom 5mg/160mg/12,5mg film-coated tablets 30x1",2020-11-23
 "Valtricom 10mg/160mg/12,5mg film-coated tablets 30x1",2020-11-23
@@ -257,12 +262,7 @@
 "Sidarso 8mg cps dur 30x1",2020-11-23
 "Sidarso 8mg cps dur 50x1",2020-11-23
 "Sidarso 8mg cps dur 100x1",2020-11-23
-"Prenessa oro tab 8mg por tbl dis 90",2020-11-23
 "Perindopril krka 4mg tbl nob 30",2020-11-23
-"Nolibeta 5mg tbl nob 28 i",2020-11-23
-"Nolibeta 5mg tbl nob 90 i",2020-11-23
-"Meaxin 400mg film-coated tablets 30 ii",2020-11-23
-"Meaxin 400mg film-coated tablets 30 i",2020-11-23
 "Lamegom 25mg film-coated tablets 84",2020-11-23
 "Kventiax prolong 400mg tbl pro 90",2020-11-23
 "Kventiax prolong 50mg tbl pro 100",2020-11-23
@@ -293,11 +293,11 @@
 "Pergoveris (300iu+150iu)/0,48ml inj sol 1x0,48ml+5j",2020-11-16
 "Pergoveris (450iu+225iu)/0,72ml inj sol 1x0,72ml+7j",2020-11-16
 "Pergoveris (900iu+450iu)/1,44ml inj sol 1x1,44ml+14j",2020-11-16
-"Trexan 2,5mg tbl nob 100",2020-11-12
-"Trexan 10mg tbl nob 100",2020-11-12
 "Verzenios 50mg film-coated tablets 28",2020-11-12
 "Verzenios 100mg film-coated tablets 28",2020-11-12
 "Verzenios 150mg film-coated tablets 28",2020-11-12
+"Trexan 2,5mg tbl nob 100",2020-11-12
+"Trexan 10mg tbl nob 100",2020-11-12
 "Abilify 1mg/ml por sol 1x150ml",2020-11-11
 "Monopost 50mcg/ml oph gtt sol mdc 90(18x5)x0,2ml iv",2020-11-11
 "Adenuric 80mg film-coated tablets 84 ii",2020-11-10
@@ -391,11 +391,11 @@
 "Grimodin 300mg cps dur 80",2020-09-25
 "Grimodin 400mg cps dur 80",2020-09-25
 "Taltz 80mg inj sol pep 3x1ml",2020-09-25
-"Ofev 100mg cps mol 60x1",2020-09-23
-"Ofev 150mg cps mol 60x1",2020-09-23
 "Opdivo 10mg/ml inf cnc sol 1x4ml",2020-09-23
 "Opdivo 10mg/ml inf cnc sol 1x10ml",2020-09-23
 "Opdivo 10mg/ml inf cnc sol 1x24ml",2020-09-23
+"Ofev 100mg cps mol 60x1",2020-09-23
+"Ofev 150mg cps mol 60x1",2020-09-23
 "Velphoro 500mg tbl mnd 90",2020-09-23
 "Humira 40mg inj sol 2x0,4ml",2020-09-18
 "Humira 40mg inj sol 2x0,4ml i",2020-09-18
@@ -411,10 +411,10 @@
 "Delipid plus 40mg/10mg cps dur 30",2020-09-15
 "Delipid plus 40mg/10mg cps dur 90",2020-09-15
 "Nalgesin 550mg film-coated tablets 30",2020-09-15
-"Preglenix 75mg cps dur 56",2020-09-11
-"Preglenix 150mg cps dur 56",2020-09-11
 "Excipial u lipolotio 40mg/ml drm eml 200ml",2020-09-11
 "Excipial u hydrolotio 20mg/ml drm eml 200ml",2020-09-11
+"Preglenix 75mg cps dur 56",2020-09-11
+"Preglenix 150mg cps dur 56",2020-09-11
 "Atectura breezhaler 125mcg/62,5mcg inh plv cps dur 30x1+1inh",2020-09-10
 "Atectura breezhaler 125mcg/127,5mcg inh plv cps dur 30x1+1inh",2020-09-10
 "Atectura breezhaler 125mcg/260mcg inh plv cps dur 30x1+1inh",2020-09-10
@@ -725,11 +725,11 @@
 "Salofalk 4g rct sus 7x60g",2020-04-07
 "Bavencio 20mg/ml inf cnc sol 1x10ml",2020-04-05
 "Klabax 500mg film-coated tablets 14",2020-04-02
+"Empliciti 300mg inf plv csl 1",2020-03-31
+"Empliciti 400mg inf plv csl 1",2020-03-31
 "Kanuma 2mg/ml inf cnc sol 1x10ml",2020-03-31
 "Opdivo 10mg/ml inf cnc sol 1x4ml",2020-03-31
 "Opdivo 10mg/ml inf cnc sol 1x10ml",2020-03-31
-"Empliciti 300mg inf plv csl 1",2020-03-31
-"Empliciti 400mg inf plv csl 1",2020-03-31
 "Bosentan ebewe 125mg film-coated tablets 56",2020-03-31
 "Bosentan avmc 125mg film-coated tablets 56x1",2020-03-31
 "Bosentan welding 125 mg 125mg film-coated tablets 56",2020-03-31
@@ -854,9 +854,9 @@
 "Amelgen 400mg vag glb 15",2020-01-31
 "Amelgen 400mg vag glb 45",2020-01-31
 "Idacio 40mg inj sol 2x0,8ml",2020-01-31
+"Libtayo 350mg inf cnc sol 1x7ml",2020-01-30
 "Opdivo 10mg/ml inf cnc sol 1x4ml",2020-01-30
 "Opdivo 10mg/ml inf cnc sol 1x10ml",2020-01-30
-"Libtayo 350mg inf cnc sol 1x7ml",2020-01-30
 "Revlimid 5mg cps dur 21",2020-01-30
 "Revlimid 10mg cps dur 21",2020-01-30
 "Revlimid 15mg cps dur 21",2020-01-30
@@ -881,13 +881,13 @@
 "Bilamcar 8mg/10mg cps dur 28",2020-01-08
 "Rixathon 100mg inf cnc sol 2x10ml",2020-01-08
 "Rixathon 500mg inf cnc sol 1x50ml",2020-01-08
+"Pregabalin mylan 75mg cps dur 100",2019-12-29
+"Pregabalin mylan 150mg cps dur 100",2019-12-29
+"Pregabalin mylan 300mg cps dur 100",2019-12-29
 "Siranalen 150mg cps dur 112 ii",2019-12-29
 "Siranalen 150mg cps dur 84 ii",2019-12-29
 "Siranalen 75mg cps dur 84 ii",2019-12-29
 "Siranalen 75mg cps dur 112 ii",2019-12-29
-"Pregabalin mylan 75mg cps dur 100",2019-12-29
-"Pregabalin mylan 150mg cps dur 100",2019-12-29
-"Pregabalin mylan 300mg cps dur 100",2019-12-29
 "Naxalgan 75mg cps dur 90",2019-12-29
 "Naxalgan 75mg cps dur 56",2019-12-29
 "Naxalgan 150mg cps dur 90",2019-12-29
