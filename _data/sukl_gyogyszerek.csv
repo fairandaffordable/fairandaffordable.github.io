@@ -1,4 +1,14 @@
 "Product","Submission"
+"Brintellix 10mg film-coated tablets 98",2021-02-08
+"Brintellix 15mg film-coated tablets 98",2021-02-08
+"Gefitinib sandoz 250mg film-coated tablets 30",2021-02-05
+"Gefitinib alvogen 250mg film-coated tablets 30x1",2021-02-05
+"Gefitinib glenmark 250mg film-coated tablets 30",2021-02-05
+"Gefitinib glenmark 250mg film-coated tablets 30x1",2021-02-05
+"Gefitinib krka 250mg film-coated tablets 30",2021-02-05
+"Gefitinib accord 250mg film-coated tablets 30x1",2021-02-05
+"Erlotinib zentiva 100mg film-coated tablets 30",2021-02-05
+"Erlotinib zentiva 150mg film-coated tablets 30",2021-02-05
 "Voluven 6% inf sol 20x500ml",2021-02-03
 "Adenuric 80mg film-coated tablets 28 ii",2021-02-03
 "Adenuric 80mg film-coated tablets 28 i",2021-02-03
@@ -170,10 +180,10 @@
 "Naxalgan 150mg cps dur 90",2020-12-04
 "Naxalgan 300mg cps dur 90",2020-12-04
 "Pentomer retard 400mg tbl pro 100",2020-12-04
+"Adenuric 80mg film-coated tablets 84 ii",2020-12-03
 "Cabometyx 20mg film-coated tablets 30",2020-12-03
 "Cabometyx 40mg film-coated tablets 30",2020-12-03
 "Cabometyx 60mg film-coated tablets 30",2020-12-03
-"Adenuric 80mg film-coated tablets 84 ii",2020-12-03
 "Lynparza 100mg film-coated tablets 56",2020-12-02
 "Lynparza 150mg film-coated tablets 56",2020-12-02
 "Tavlesse 100mg film-coated tablets 60",2020-12-01
@@ -237,9 +247,6 @@
 "Nolibeta 5mg tbl nob 90 i",2020-11-23
 "Meaxin 400mg film-coated tablets 30 ii",2020-11-23
 "Meaxin 400mg film-coated tablets 30 i",2020-11-23
-"Marixino 10mg film-coated tablets 30",2020-11-23
-"Marixino 20mg film-coated tablets 30",2020-11-23
-"Losartan/hydrochlorothiazid krka 50mg/12,5mg film-coated tablets 28",2020-11-23
 "Lanzul 30mg cps dur 14",2020-11-23
 "Lanzul 15mg cps etd 28",2020-11-23
 "Lamegom 25mg film-coated tablets 84",2020-11-23
@@ -264,6 +271,9 @@
 "Alprazolam krka 0,5mg tbl nob 30",2020-11-23
 "Alprazolam krka 1mg tbl nob 30",2020-11-23
 "Alprazolam krka 2mg tbl nob 30",2020-11-23
+"Marixino 10mg film-coated tablets 30",2020-11-23
+"Marixino 20mg film-coated tablets 30",2020-11-23
+"Losartan/hydrochlorothiazid krka 50mg/12,5mg film-coated tablets 28",2020-11-23
 "Tagren 250mg film-coated tablets 30",2020-11-23
 "Prenessa 4mg tbl nob 30",2020-11-23
 "Prenessa 4mg tbl nob 90",2020-11-23
@@ -355,9 +365,9 @@
 "Syntroxine 175mcg cps mol 30",2020-10-29
 "Syntroxine 200mcg cps mol 30",2020-10-29
 "Syntroxine 112mcg cps mol 30",2020-10-29
+"Tienam 500mg/500mg inf plv sol 10",2020-10-27
 "Braftovi 50mg cps dur 28",2020-10-27
 "Braftovi 75mg cps dur 42",2020-10-27
-"Tienam 500mg/500mg inf plv sol 10",2020-10-27
 "Pregabalin teva 75mg cps dur 90",2020-10-27
 "Pregabalin teva 150mg cps dur 90",2020-10-27
 "Naxalgan 75mg cps dur 50",2020-10-27
@@ -683,10 +693,10 @@
 "Torvacard neo 60mg film-coated tablets 30",2020-04-23
 "Beovu 120mg/ml inj sol 1x0,165ml",2020-04-22
 "Gnak 50mg/ml inf sol 10x1000ml",2020-04-20
-"Keytruda 25mg/ml inf cnc sol 1x4ml",2020-04-17
 "Saizen 5,83mg/ml inj sol zvl 5x1,03ml",2020-04-17
 "Saizen 8mg/ml inj sol zvl 5x1,5ml",2020-04-17
 "Saizen 8mg/ml inj sol zvl 5x2,5ml",2020-04-17
+"Keytruda 25mg/ml inf cnc sol 1x4ml",2020-04-17
 "Zomacton 10mg inj pso lqf 1x10mg+1x1ml",2020-04-17
 "Zomacton 4mg inj pso lqf 5+5 amp",2020-04-17
 "Perjeta 420mg inf cnc sol 1x14ml",2020-04-16
