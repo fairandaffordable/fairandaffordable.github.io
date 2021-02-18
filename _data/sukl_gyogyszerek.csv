@@ -189,10 +189,10 @@
 "Naxalgan 150mg cps dur 90",2020-12-04
 "Naxalgan 300mg cps dur 90",2020-12-04
 "Pentomer retard 400mg tbl pro 100",2020-12-04
-"Adenuric 80mg film-coated tablets 84 ii",2020-12-03
 "Cabometyx 20mg film-coated tablets 30",2020-12-03
 "Cabometyx 40mg film-coated tablets 30",2020-12-03
 "Cabometyx 60mg film-coated tablets 30",2020-12-03
+"Adenuric 80mg film-coated tablets 84 ii",2020-12-03
 "Lynparza 100mg film-coated tablets 56",2020-12-02
 "Lynparza 150mg film-coated tablets 56",2020-12-02
 "Tavlesse 100mg film-coated tablets 60",2020-12-01
@@ -203,7 +203,6 @@
 "Opsumit 10mg film-coated tablets 30",2020-11-27
 "Januvia 100mg film-coated tablets 28",2020-11-26
 "Januvia 100mg film-coated tablets 98",2020-11-26
-"Vasilip 40mg film-coated tablets 28",2020-11-23
 "Emanera 20mg cps etd 30 i",2020-11-23
 "Emanera 20mg cps etd 90 i",2020-11-23
 "Emanera 40mg cps etd 30 i",2020-11-23
@@ -212,6 +211,7 @@
 "Apleria 25mg film-coated tablets 30x1",2020-11-23
 "Apleria 50mg film-coated tablets 30",2020-11-23
 "Apleria 50mg film-coated tablets 30x1",2020-11-23
+"Vasilip 40mg film-coated tablets 28",2020-11-23
 "Sidarso 4mg cps dur 30",2020-11-23
 "Sidarso 4mg cps dur 50",2020-11-23
 "Sidarso 4mg cps dur 100",2020-11-23
@@ -391,9 +391,9 @@
 "Preato 300mg tbl nob 56",2020-10-27
 "Imbruvica 140mg cps dur 120",2020-10-26
 "Conisor 100mg cps dur 4",2020-10-23
-"Epipen jr. 150mcg inj sol pep 2x0,3ml",2020-10-16
 "Opdivo 10mg/ml inf cnc sol 1x4ml",2020-10-16
 "Opdivo 10mg/ml inf cnc sol 1x10ml",2020-10-16
+"Epipen jr. 150mcg inj sol pep 2x0,3ml",2020-10-16
 "Lynparza 100mg film-coated tablets 56",2020-10-15
 "Lynparza 150mg film-coated tablets 56",2020-10-15
 "Enerzair breezhaler 114mcg/46mcg/136mcg inh plv cps dur 30x1+1inh",2020-10-08
@@ -496,9 +496,9 @@
 "Blincyto 38,5mcg inf pcs sol 1+1x10ml",2020-07-29
 "Empliciti 300mg inf plv csl 1",2020-07-27
 "Empliciti 400mg inf plv csl 1",2020-07-27
+"Cosopt bez konzervačních přísad 20mg/ml+5mg/ml oph gtt sol 1x10ml",2020-07-27
 "Ewofex 120mg film-coated tablets 100",2020-07-27
 "Vizilatan 50mcg/ml oph gtt sol 1x2,5ml",2020-07-27
-"Cosopt bez konzervačních přísad 20mg/ml+5mg/ml oph gtt sol 1x10ml",2020-07-27
 "Cosentyx 150mg inj sol pep 2x1ml",2020-07-26
 "Cosentyx 150mg inj sol isp 2x1ml",2020-07-24
 "Fluocyne 10% 10% inj sol 10x5ml",2020-07-24
