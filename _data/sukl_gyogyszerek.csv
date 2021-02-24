@@ -1,4 +1,10 @@
 "Product","Submission"
+"Celebrex 100mg cps dur 30 i",2021-02-22
+"Celebrex 200mg cps dur 30 i",2021-02-22
+"Aclexa 100mg cps dur 60",2021-02-22
+"Aclexa 200mg cps dur 60",2021-02-22
+"Aclexa 100 mg tvrdé tobolky 100mg cps dur 60",2021-02-22
+"Aclexa 200 mg tvrdé tobolky 200mg cps dur 60",2021-02-22
 "Keytruda 50mg inf plv csl 1",2021-02-19
 "Truvada 200mg/245mg film-coated tablets 30",2021-02-19
 "Emtricitabine/tenofovir disoproxil mylan 200mg/245mg film-coated tablets 30",2021-02-19
@@ -203,11 +209,33 @@
 "Tavlesse 150mg film-coated tablets 60",2020-12-01
 "Solu-medrol 40mg/ml inj pso lqf 40mg+1ml",2020-12-01
 "Solu-medrol 62,5mg/ml inj pso lqf 500mg+7,8ml",2020-12-01
-"Opsumit 10mg film-coated tablets 30",2020-11-27
 "Darzalex 1800mg inj sol 1x15ml",2020-11-27
+"Opsumit 10mg film-coated tablets 30",2020-11-27
 "Januvia 100mg film-coated tablets 28",2020-11-26
 "Januvia 100mg film-coated tablets 98",2020-11-26
 "Venter 1g tbl nob 50",2020-11-23
+"Sorvasta plus 10mg/10mg film-coated tablets 60",2020-11-23
+"Sorvasta plus 20mg/10mg film-coated tablets 60",2020-11-23
+"Prenewel 4mg/1,25mg tbl nob 30 ii",2020-11-23
+"Prenewel 4mg/1,25mg tbl nob 90 ii",2020-11-23
+"Prenewel 8mg/2,5mg tbl nob 30",2020-11-23
+"Prenewel 8mg/2,5mg tbl nob 90",2020-11-23
+"Prenewel 2mg/0,625mg tbl nob 30 ii",2020-11-23
+"Prenessa 4mg tbl nob 30",2020-11-23
+"Prenessa 4mg tbl nob 90",2020-11-23
+"Prenessa 8mg tbl nob 30",2020-11-23
+"Lanzul 30mg cps dur 14",2020-11-23
+"Lanzul 15mg cps etd 28",2020-11-23
+"Glyclada 30mg tbl ret 60 i",2020-11-23
+"Glyclada 60mg tbl ret 60 ii",2020-11-23
+"Glyclada 60mg tbl ret 90 ii",2020-11-23
+"Betaklav 500mg/125mg film-coated tablets 21",2020-11-23
+"Betaklav 875mg/125mg film-coated tablets 14",2020-11-23
+"Betaklav 875mg/125mg film-coated tablets 20",2020-11-23
+"Amprilan h 2,5mg/12,5mg tbl nob 30",2020-11-23
+"Amprilan h 2,5mg/12,5mg tbl nob 100",2020-11-23
+"Amprilan h 5mg/25mg tbl nob 30",2020-11-23
+"Amprilan h 5mg/25mg tbl nob 100",2020-11-23
 "Emanera 20mg cps etd 30 i",2020-11-23
 "Emanera 20mg cps etd 90 i",2020-11-23
 "Emanera 40mg cps etd 30 i",2020-11-23
@@ -255,17 +283,7 @@
 "Tramadol krka 100mg/2ml inj/inf sol 5x2ml",2020-11-23
 "Tonarssa 5,7mg/5mg tbl nob 30",2020-11-23
 "Tolucombi 80mg/12,5mg tbl nob 84x1 ii",2020-11-23
-"Prenewel 4mg/1,25mg tbl nob 30 ii",2020-11-23
-"Prenewel 4mg/1,25mg tbl nob 90 ii",2020-11-23
-"Prenewel 8mg/2,5mg tbl nob 30",2020-11-23
-"Prenewel 8mg/2,5mg tbl nob 90",2020-11-23
-"Prenewel 2mg/0,625mg tbl nob 30 ii",2020-11-23
 "Perindopril krka 4mg tbl nob 30",2020-11-23
-"Lanzul 30mg cps dur 14",2020-11-23
-"Lanzul 15mg cps etd 28",2020-11-23
-"Glyclada 30mg tbl ret 60 i",2020-11-23
-"Glyclada 60mg tbl ret 60 ii",2020-11-23
-"Glyclada 60mg tbl ret 90 ii",2020-11-23
 "Gefitinib krka 250mg film-coated tablets 30x1",2020-11-23
 "Flebazol 500mg film-coated tablets 30",2020-11-23
 "Flebazol 500mg film-coated tablets 120",2020-11-23
@@ -298,18 +316,6 @@
 "Marixino 20mg film-coated tablets 30",2020-11-23
 "Losartan/hydrochlorothiazid krka 50mg/12,5mg film-coated tablets 28",2020-11-23
 "Tagren 250mg film-coated tablets 30",2020-11-23
-"Prenessa 4mg tbl nob 30",2020-11-23
-"Prenessa 4mg tbl nob 90",2020-11-23
-"Prenessa 8mg tbl nob 30",2020-11-23
-"Betaklav 500mg/125mg film-coated tablets 21",2020-11-23
-"Betaklav 875mg/125mg film-coated tablets 14",2020-11-23
-"Betaklav 875mg/125mg film-coated tablets 20",2020-11-23
-"Amprilan h 2,5mg/12,5mg tbl nob 30",2020-11-23
-"Amprilan h 2,5mg/12,5mg tbl nob 100",2020-11-23
-"Amprilan h 5mg/25mg tbl nob 30",2020-11-23
-"Amprilan h 5mg/25mg tbl nob 100",2020-11-23
-"Sorvasta plus 10mg/10mg film-coated tablets 60",2020-11-23
-"Sorvasta plus 20mg/10mg film-coated tablets 60",2020-11-23
 "Jyseleca 200mg film-coated tablets 30",2020-11-20
 "Parsabiv 2,5mg inj sol 6x0,5ml",2020-11-19
 "Parsabiv 5mg inj sol 6x1ml",2020-11-19
@@ -506,6 +512,20 @@
 "Cosentyx 150mg inj sol pep 2x1ml",2020-07-26
 "Cosentyx 150mg inj sol isp 2x1ml",2020-07-24
 "Fluocyne 10% 10% inj sol 10x5ml",2020-07-24
+"Rosuvastatin accord 10mg film-coated tablets 30",2020-07-21
+"Rosuvastatin accord 10mg film-coated tablets 90",2020-07-21
+"Rosuvastatin accord 20mg film-coated tablets 30",2020-07-21
+"Rosuvastatin accord 20mg film-coated tablets 90",2020-07-21
+"Rosuvastatin accord 40mg film-coated tablets 30",2020-07-21
+"Rosuvastatin accord 40mg film-coated tablets 90",2020-07-21
+"Corvapro 10mg film-coated tablets 30",2020-07-21
+"Corvapro 10mg film-coated tablets 90",2020-07-21
+"Corvapro 20mg film-coated tablets 30",2020-07-21
+"Corvapro 20mg film-coated tablets 90",2020-07-21
+"Corvapro 40mg film-coated tablets 30",2020-07-21
+"Corvapro 40mg film-coated tablets 90",2020-07-21
+"Pantoprazole zentiva 20mg tbl ent 98",2020-07-21
+"Pantoprazole zentiva 40mg tbl ent 98",2020-07-21
 "Bydureon 2mg inj plq sus pro 4x1+1j",2020-07-21
 "Atorvastatin ratiopharm gmbh 10mg film-coated tablets 28",2020-07-21
 "Atorvastatin ratiopharm gmbh 10mg film-coated tablets 90",2020-07-21
@@ -515,12 +535,6 @@
 "Atorvastatin ratiopharm gmbh 40mg film-coated tablets 90",2020-07-21
 "Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 28 i",2020-07-21
 "Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 98 i",2020-07-21
-"Rosuvastatin accord 10mg film-coated tablets 30",2020-07-21
-"Rosuvastatin accord 10mg film-coated tablets 90",2020-07-21
-"Rosuvastatin accord 20mg film-coated tablets 30",2020-07-21
-"Rosuvastatin accord 20mg film-coated tablets 90",2020-07-21
-"Rosuvastatin accord 40mg film-coated tablets 30",2020-07-21
-"Rosuvastatin accord 40mg film-coated tablets 90",2020-07-21
 "Atomoxetine accord 80mg cps dur 28 i",2020-07-21
 "Atomoxetine accord 100mg cps dur 28 i",2020-07-21
 "Bitinex 80mg cps dur 28 i",2020-07-21
@@ -529,20 +543,12 @@
 "Atorvastatin actavis 20mg film-coated tablets 28",2020-07-21
 "Atorvastatin actavis 20mg film-coated tablets 98",2020-07-21
 "Atorvastatin actavis 40mg film-coated tablets 28",2020-07-21
-"Corvapro 10mg film-coated tablets 30",2020-07-21
-"Corvapro 10mg film-coated tablets 90",2020-07-21
-"Corvapro 20mg film-coated tablets 30",2020-07-21
-"Corvapro 20mg film-coated tablets 90",2020-07-21
-"Corvapro 40mg film-coated tablets 30",2020-07-21
-"Corvapro 40mg film-coated tablets 90",2020-07-21
 "Atomoxetin mylan 80mg cps dur 28",2020-07-21
 "Strattera 80mg cps dur 28",2020-07-21
 "Strattera 100mg cps dur 28",2020-07-21
 "Rosi 10mg film-coated tablets 30",2020-07-21
 "Rosi 20mg film-coated tablets 30",2020-07-21
 "Rosi 40mg film-coated tablets 30",2020-07-21
-"Pantoprazole zentiva 20mg tbl ent 98",2020-07-21
-"Pantoprazole zentiva 40mg tbl ent 98",2020-07-21
 "Atorvastatin aurovitas 10mg film-coated tablets 90 i",2020-07-21
 "Atorvastatin aurovitas 20mg film-coated tablets 90 i",2020-07-21
 "Atorvastatin aurovitas 40mg film-coated tablets 30 ii",2020-07-21
@@ -888,9 +894,9 @@
 "Revlimid 15mg cps dur 21",2020-01-30
 "Revlimid 25mg cps dur 21",2020-01-30
 "Aubagio 14mg film-coated tablets 28",2020-01-29
+"Rydapt 25mg cps mol 112(4x28)",2020-01-27
 "Emtricitabine/tenofovir disoproxil sandoz 200mg/245mg film-coated tablets 30",2020-01-27
 "Emtricitabine/tenofovir disoproxil accordpharma 200mg/245mg film-coated tablets 30x1",2020-01-27
-"Rydapt 25mg cps mol 112(4x28)",2020-01-27
 "Pradaxa 110mg cps dur 10x1 i",2020-01-27
 "Pradaxa 110mg cps dur 30x1 i",2020-01-27
 "Pradaxa 110mg cps dur 60x1 i",2020-01-27
