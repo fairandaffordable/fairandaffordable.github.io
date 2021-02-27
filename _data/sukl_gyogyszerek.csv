@@ -1,4 +1,7 @@
 "Product","Submission"
+"Opdivo 10mg/ml inf cnc sol 1x24ml",2021-02-26
+"Bavencio 20mg/ml inf cnc sol 1x10ml",2021-02-26
+"Humira 20mg inj sol 2x0,2ml i",2021-02-25
 "Trulicity 0,75mg inj sol 2x0,5ml",2021-02-23
 "Trulicity 3mg inj sol 2x0,5ml",2021-02-23
 "Trulicity 4,5mg inj sol 2x0,5ml",2021-02-23
@@ -218,7 +221,6 @@
 "Opsumit 10mg film-coated tablets 30",2020-11-27
 "Januvia 100mg film-coated tablets 28",2020-11-26
 "Januvia 100mg film-coated tablets 98",2020-11-26
-"Venter 1g tbl nob 50",2020-11-23
 "Sorvasta plus 10mg/10mg film-coated tablets 60",2020-11-23
 "Sorvasta plus 20mg/10mg film-coated tablets 60",2020-11-23
 "Prenewel 4mg/1,25mg tbl nob 30 ii",2020-11-23
@@ -241,6 +243,7 @@
 "Amprilan h 2,5mg/12,5mg tbl nob 100",2020-11-23
 "Amprilan h 5mg/25mg tbl nob 30",2020-11-23
 "Amprilan h 5mg/25mg tbl nob 100",2020-11-23
+"Venter 1g tbl nob 50",2020-11-23
 "Emanera 20mg cps etd 30 i",2020-11-23
 "Emanera 20mg cps etd 90 i",2020-11-23
 "Emanera 40mg cps etd 30 i",2020-11-23
@@ -335,8 +338,8 @@
 "Verzenios 150mg film-coated tablets 28",2020-11-12
 "Trexan 2,5mg tbl nob 100",2020-11-12
 "Trexan 10mg tbl nob 100",2020-11-12
-"Monopost 50mcg/ml oph gtt sol mdc 90(18x5)x0,2ml iv",2020-11-11
 "Abilify 1mg/ml por sol 1x150ml",2020-11-11
+"Monopost 50mcg/ml oph gtt sol mdc 90(18x5)x0,2ml iv",2020-11-11
 "Adenuric 80mg film-coated tablets 84 ii",2020-11-10
 "Plenvu por plv sol 1",2020-11-10
 "Nykob 10mg film-coated tablets 28",2020-11-09
@@ -523,6 +526,9 @@
 "Rosuvastatin accord 20mg film-coated tablets 90",2020-07-21
 "Rosuvastatin accord 40mg film-coated tablets 30",2020-07-21
 "Rosuvastatin accord 40mg film-coated tablets 90",2020-07-21
+"Ozempic 0,25mg inj sol 1x1,5ml+4j",2020-07-21
+"Ozempic 0,5mg inj sol 1x1,5ml+4j",2020-07-21
+"Ozempic 1mg inj sol 1x3ml+4j",2020-07-21
 "Corvapro 10mg film-coated tablets 30",2020-07-21
 "Corvapro 10mg film-coated tablets 90",2020-07-21
 "Corvapro 20mg film-coated tablets 30",2020-07-21
@@ -574,9 +580,6 @@
 "Rosuvastatin teva pharma 40mg film-coated tablets 30 ii",2020-07-21
 "Mertenil 15mg film-coated tablets 30",2020-07-21
 "Mertenil 30mg film-coated tablets 30",2020-07-21
-"Ozempic 0,25mg inj sol 1x1,5ml+4j",2020-07-21
-"Ozempic 0,5mg inj sol 1x1,5ml+4j",2020-07-21
-"Ozempic 1mg inj sol 1x3ml+4j",2020-07-21
 "Rosuvastatin newline pharma 10mg film-coated tablets 30",2020-07-21
 "Rosuvastatin newline pharma 10mg film-coated tablets 90",2020-07-21
 "Rosuvastatin newline pharma 20mg film-coated tablets 30",2020-07-21
