@@ -1,4 +1,10 @@
 "Product","Submission"
+"Vyndaqel 61mg cps mol 30x1",2021-03-04
+"Estracyt 140mg cps dur 100",2021-03-03
+"Trexan neo 10mg tbl nob 100 i",2021-03-03
+"Trexan neo 2,5mg tbl nob 100 i",2021-03-03
+"Trexan neo 2,5mg tbl nob 100 ii",2021-03-03
+"Trexan neo 10mg tbl nob 100 ii",2021-03-03
 "Magnerot 500mg tbl nob 50 i",2021-03-02
 "Magnerot 500mg tbl nob 100 i",2021-03-02
 "Holoxan 2g inf plv sol 1",2021-03-02
@@ -25,9 +31,9 @@
 "Darzalex 20mg/ml inf cnc sol 1x5ml",2021-02-11
 "Darzalex 20mg/ml inf cnc sol 1x20ml",2021-02-11
 "Darzalex 1800mg inj sol 1x15ml",2021-02-11
+"Trimbow 87mcg/5mcg/9mcg inh sol pss 1x120dáv",2021-02-10
 "Siranalen 150mg cps dur 84 ii",2021-02-10
 "Siranalen 75mg cps dur 84 ii",2021-02-10
-"Trimbow 87mcg/5mcg/9mcg inh sol pss 1x120dáv",2021-02-10
 "Taflosin 0,4mg cps rdr 100",2021-02-10
 "Descovy 200mg/10mg film-coated tablets 30",2021-02-08
 "Descovy 200mg/25mg film-coated tablets 30",2021-02-08
@@ -56,11 +62,11 @@
 "Zibor 25000iu inj sol isp 2x0,3ml",2021-01-18
 "Zibor 25000iu inj sol isp 2x0,4ml",2021-01-18
 "Zibor 25000iu inj sol isp 2x0,2ml",2021-01-18
+"Ruconest 2100u inj plv sol 1",2021-01-15
 "Valsacor 80mg film-coated tablets 28",2021-01-15
 "Mitomycin accord 20mg inj/inf/ivs plv sol 1",2021-01-15
 "Mitomycin accord 20mg inj/inf/ivs plv sol 5",2021-01-15
 "Azacitidine betapharm 25mg/ml inj plv sus 1x100mg",2021-01-15
-"Ruconest 2100u inj plv sol 1",2021-01-15
 "Sumetrolim 400mg/80mg tbl nob 20",2021-01-15
 "Ebixa 10mg film-coated tablets 50 i",2021-01-13
 "Ebixa 5mg/dáv por sol 1x100ml",2021-01-13
@@ -342,8 +348,8 @@
 "Verzenios 50mg film-coated tablets 28",2020-11-12
 "Verzenios 100mg film-coated tablets 28",2020-11-12
 "Verzenios 150mg film-coated tablets 28",2020-11-12
-"Abilify 1mg/ml por sol 1x150ml",2020-11-11
 "Monopost 50mcg/ml oph gtt sol mdc 90(18x5)x0,2ml iv",2020-11-11
+"Abilify 1mg/ml por sol 1x150ml",2020-11-11
 "Adenuric 80mg film-coated tablets 84 ii",2020-11-10
 "Plenvu por plv sol 1",2020-11-10
 "Nykob 10mg film-coated tablets 28",2020-11-09
@@ -443,7 +449,6 @@
 "Velphoro 500mg tbl mnd 90",2020-09-23
 "Humira 40mg inj sol 2x0,4ml",2020-09-18
 "Humira 40mg inj sol 2x0,4ml i",2020-09-18
-"Humira 40mg inj sol 2x0,4ml iii",2020-09-18
 "Zirabev 25mg/ml inf cnc sol 1x4ml",2020-09-18
 "Zirabev 25mg/ml inf cnc sol 1x16ml",2020-09-18
 "Injexate 50mg/ml inj sol isp 4x0,5ml i",2020-09-17
@@ -925,6 +930,8 @@
 "Bilamcar 8mg/10mg cps dur 28",2020-01-08
 "Rixathon 100mg inf cnc sol 2x10ml",2020-01-08
 "Rixathon 500mg inf cnc sol 1x50ml",2020-01-08
+"Kartesada 75mg cps dur 70",2019-12-29
+"Kartesada 150mg cps dur 70",2019-12-29
 "Pregabalin mylan 75mg cps dur 100",2019-12-29
 "Pregabalin mylan 150mg cps dur 100",2019-12-29
 "Pregabalin mylan 300mg cps dur 100",2019-12-29
@@ -940,8 +947,6 @@
 "Naxalgan 300mg cps dur 56",2019-12-29
 "Pragiola 75mg cps dur 90",2019-12-29
 "Pragiola 150mg cps dur 90",2019-12-29
-"Kartesada 75mg cps dur 70",2019-12-29
-"Kartesada 150mg cps dur 70",2019-12-29
 "Forxiga 5mg film-coated tablets 30x1",2019-12-20
 "Forxiga 5mg film-coated tablets 90x1",2019-12-20
 "Tysabri 300mg inf cnc sol 1x15ml",2019-12-20
