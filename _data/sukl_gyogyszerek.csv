@@ -1,4 +1,25 @@
 "Product","Submission"
+"Zilbea 25mg film-coated tablets 28",2021-03-31
+"Zilbea 25mg film-coated tablets 84",2021-03-31
+"Lamegom 25mg film-coated tablets 28",2021-03-31
+"Lamegom 25mg film-coated tablets 98",2021-03-31
+"Assimil 25mg film-coated tablets 28x1 kal",2021-03-31
+"Agomelatine teva 25mg film-coated tablets 28",2021-03-31
+"Agomelatine teva 25mg film-coated tablets 84",2021-03-31
+"Agomelatine glenmark 25mg film-coated tablets 84",2021-03-31
+"Agomelatine glenmark 25mg film-coated tablets 28",2021-03-31
+"Agomelatine aurovitas 25mg film-coated tablets 28",2021-03-31
+"Agomelatine aurovitas 25mg film-coated tablets 84",2021-03-31
+"Agomelatine g.l.pharma 25mg film-coated tablets 28",2021-03-31
+"Agomelatine g.l.pharma 25mg film-coated tablets 84",2021-03-31
+"Agomelatin +pharma 25mg film-coated tablets 28",2021-03-31
+"Agomelatin +pharma 25mg film-coated tablets 84",2021-03-31
+"Agomelatine mylan 25mg film-coated tablets 28",2021-03-31
+"Agomelatine mylan 25mg film-coated tablets 84",2021-03-31
+"Tecentriq 1200mg inf cnc sol 1x20ml",2021-03-15
+"Bavencio 20mg/ml inf cnc sol 1x10ml",2021-03-13
+"Reblozyl 25mg inj plv sol 1",2021-03-12
+"Reblozyl 75mg inj plv sol 1",2021-03-12
 "Brintellix 20mg/ml por gtt sol 1x15ml",2021-03-10
 "Dupixent 200mg inj sol 2x1,14ml ii",2021-03-10
 "Dupixent 300mg inj sol 2x2ml ii",2021-03-09
@@ -77,11 +98,11 @@
 "Zibor 25000iu/ml inj sol isp 2x0,3ml",2021-01-18
 "Zibor 25000iu/ml inj sol isp 2x0,4ml",2021-01-18
 "Zibor 25000iu/ml inj sol isp 2x0,2ml",2021-01-18
+"Mitomycin accord 20mg inj/inf/ivs plv sol 1",2021-01-15
+"Mitomycin accord 20mg inj/inf/ivs plv sol 5",2021-01-15
 "Sumetrolim 400mg/80mg tbl nob 20",2021-01-15
 "Ruconest 2100u inj plv sol 1",2021-01-15
 "Valsacor 80mg film-coated tablets 28",2021-01-15
-"Mitomycin accord 20mg inj/inf/ivs plv sol 1",2021-01-15
-"Mitomycin accord 20mg inj/inf/ivs plv sol 5",2021-01-15
 "Azacitidine betapharm 25mg/ml inj plv sus 1x100mg",2021-01-15
 "Ebixa 10mg film-coated tablets 50 i",2021-01-13
 "Ebixa 5mg/dáv por sol 1x100ml",2021-01-13
@@ -246,10 +267,33 @@
 "Darzalex 1800mg inj sol 1x15ml",2020-11-27
 "Januvia 100mg film-coated tablets 28",2020-11-26
 "Januvia 100mg film-coated tablets 98",2020-11-26
+"Tramadol krka 50mg cps dur 30",2020-11-23
+"Tramadol krka 100mg tbl pro 30x1",2020-11-23
+"Tramadol krka 150mg tbl pro 30x1",2020-11-23
+"Tramadol krka 200mg tbl pro 30x1",2020-11-23
 "Zalasta 15mg tbl nob 70",2020-11-23
 "Zalasta 20mg tbl nob 70",2020-11-23
+"Wamlox 5mg/80mg film-coated tablets 30",2020-11-23
+"Wamlox 5mg/80mg film-coated tablets 90",2020-11-23
+"Wamlox 5mg/160mg film-coated tablets 90",2020-11-23
+"Wamlox 10mg/160mg film-coated tablets 90",2020-11-23
+"Wamlox 5mg/320mg film-coated tablets 30",2020-11-23
+"Wamlox 5mg/320mg film-coated tablets 90",2020-11-23
+"Wamlox 5mg/320mg film-coated tablets 30x1",2020-11-23
+"Wamlox 5mg/320mg film-coated tablets 90x1",2020-11-23
+"Wamlox 10mg/320mg film-coated tablets 30",2020-11-23
+"Wamlox 10mg/320mg film-coated tablets 90",2020-11-23
+"Wamlox 10mg/320mg film-coated tablets 30x1",2020-11-23
+"Wamlox 10mg/320mg film-coated tablets 90x1",2020-11-23
+"Valtricom 5mg/160mg/12,5mg film-coated tablets 30x1",2020-11-23
+"Valtricom 10mg/160mg/12,5mg film-coated tablets 30x1",2020-11-23
+"Valtricom 5mg/160mg/25mg film-coated tablets 30x1",2020-11-23
+"Valtricom 10mg/160mg/25mg film-coated tablets 30x1",2020-11-23
+"Valtricom 10mg/320mg/25mg film-coated tablets 30",2020-11-23
+"Valtricom 10mg/320mg/25mg film-coated tablets 30x1",2020-11-23
 "Ultop 20mg cps etd 14",2020-11-23
-"Tonarssa 5,7mg/5mg tbl nob 30",2020-11-23
+"Tramadol krka 50mg/ml inj/inf sol 5x1ml",2020-11-23
+"Tramadol krka 100mg/2ml inj/inf sol 5x2ml",2020-11-23
 "Tolucombi 80mg/12,5mg tbl nob 84x1 ii",2020-11-23
 "Sulfasalazin k 500mg film-coated tablets 50",2020-11-23
 "Sorvasta plus 10mg/10mg film-coated tablets 60",2020-11-23
@@ -266,7 +310,6 @@
 "Sidarso 8mg cps dur 30x1",2020-11-23
 "Sidarso 8mg cps dur 50x1",2020-11-23
 "Sidarso 8mg cps dur 100x1",2020-11-23
-"Prenessa oro tab 8mg por tbl dis 90",2020-11-23
 "Perindopril krka 4mg tbl nob 30",2020-11-23
 "Nolibeta 5mg tbl nob 28 i",2020-11-23
 "Nolibeta 5mg tbl nob 90 i",2020-11-23
@@ -277,21 +320,23 @@
 "Kventiax prolong 400mg tbl pro 90",2020-11-23
 "Kventiax prolong 50mg tbl pro 100",2020-11-23
 "Gefitinib krka 250mg film-coated tablets 30x1",2020-11-23
-"Flebazol 500mg film-coated tablets 30",2020-11-23
-"Flebazol 500mg film-coated tablets 120",2020-11-23
-"Flebazol 1000mg tbl nob 30",2020-11-23
-"Flebazol 1000mg tbl nob 90",2020-11-23
 "Finpros 5mg film-coated tablets 90",2020-11-23
 "Emtricitabine/tenofovir disoproxil krka 200mg/245mg film-coated tablets 30",2020-11-23
-"Camdero 8mg/5mg tbl nob 28",2020-11-23
-"Camdero 16mg/5mg tbl nob 28",2020-11-23
-"Camdero 16mg/10mg tbl nob 28",2020-11-23
 "Atordapin 10mg/10mg film-coated tablets 30",2020-11-23
 "Amprilan 1,25mg tbl nob 90",2020-11-23
 "Alprazolam krka 0,25mg tbl nob 30",2020-11-23
 "Alprazolam krka 0,5mg tbl nob 30",2020-11-23
 "Alprazolam krka 1mg tbl nob 30",2020-11-23
 "Alprazolam krka 2mg tbl nob 30",2020-11-23
+"Tonarssa 5,7mg/5mg tbl nob 30",2020-11-23
+"Prenessa oro tab 8mg por tbl dis 90",2020-11-23
+"Flebazol 500mg film-coated tablets 30",2020-11-23
+"Flebazol 500mg film-coated tablets 120",2020-11-23
+"Flebazol 1000mg tbl nob 30",2020-11-23
+"Flebazol 1000mg tbl nob 90",2020-11-23
+"Camdero 8mg/5mg tbl nob 28",2020-11-23
+"Camdero 16mg/5mg tbl nob 28",2020-11-23
+"Camdero 16mg/10mg tbl nob 28",2020-11-23
 "Prenewel 4mg/1,25mg tbl nob 30 ii",2020-11-23
 "Prenewel 4mg/1,25mg tbl nob 90 ii",2020-11-23
 "Prenewel 8mg/2,5mg tbl nob 30",2020-11-23
@@ -324,30 +369,6 @@
 "Apleria 50mg film-coated tablets 30",2020-11-23
 "Apleria 50mg film-coated tablets 30x1",2020-11-23
 "Vasilip 40mg film-coated tablets 28",2020-11-23
-"Tramadol krka 50mg cps dur 30",2020-11-23
-"Tramadol krka 100mg tbl pro 30x1",2020-11-23
-"Tramadol krka 150mg tbl pro 30x1",2020-11-23
-"Tramadol krka 200mg tbl pro 30x1",2020-11-23
-"Wamlox 5mg/80mg film-coated tablets 30",2020-11-23
-"Wamlox 5mg/80mg film-coated tablets 90",2020-11-23
-"Wamlox 5mg/160mg film-coated tablets 90",2020-11-23
-"Wamlox 10mg/160mg film-coated tablets 90",2020-11-23
-"Wamlox 5mg/320mg film-coated tablets 30",2020-11-23
-"Wamlox 5mg/320mg film-coated tablets 90",2020-11-23
-"Wamlox 5mg/320mg film-coated tablets 30x1",2020-11-23
-"Wamlox 5mg/320mg film-coated tablets 90x1",2020-11-23
-"Wamlox 10mg/320mg film-coated tablets 30",2020-11-23
-"Wamlox 10mg/320mg film-coated tablets 90",2020-11-23
-"Wamlox 10mg/320mg film-coated tablets 30x1",2020-11-23
-"Wamlox 10mg/320mg film-coated tablets 90x1",2020-11-23
-"Valtricom 5mg/160mg/12,5mg film-coated tablets 30x1",2020-11-23
-"Valtricom 10mg/160mg/12,5mg film-coated tablets 30x1",2020-11-23
-"Valtricom 5mg/160mg/25mg film-coated tablets 30x1",2020-11-23
-"Valtricom 10mg/160mg/25mg film-coated tablets 30x1",2020-11-23
-"Valtricom 10mg/320mg/25mg film-coated tablets 30",2020-11-23
-"Valtricom 10mg/320mg/25mg film-coated tablets 30x1",2020-11-23
-"Tramadol krka 50mg/ml inj/inf sol 5x1ml",2020-11-23
-"Tramadol krka 100mg/2ml inj/inf sol 5x2ml",2020-11-23
 "Tagren 250mg film-coated tablets 30",2020-11-23
 "Jyseleca 200mg film-coated tablets 30",2020-11-20
 "Parsabiv 2,5mg inj sol 6x0,5ml",2020-11-19
