@@ -16,6 +16,8 @@
 "Agomelatin +pharma 25mg film-coated tablets 84",2021-03-31
 "Agomelatine mylan 25mg film-coated tablets 28",2021-03-31
 "Agomelatine mylan 25mg film-coated tablets 84",2021-03-31
+"Fulvestrant ever pharma 250mg inj sol isp 1x5ml+j",2021-03-15
+"Fulvestrant fresenius kabi 250mg inj sol isp 2x5ml+2j",2021-03-15
 "Tecentriq 1200mg inf cnc sol 1x20ml",2021-03-15
 "Bavencio 20mg/ml inf cnc sol 1x10ml",2021-03-13
 "Reblozyl 25mg inj plv sol 1",2021-03-12
@@ -45,8 +47,8 @@
 "Magnerot 500mg tbl nob 50 i",2021-03-02
 "Magnerot 500mg tbl nob 100 i",2021-03-02
 "Holoxan 2g inf plv sol 1",2021-03-02
-"Opdivo 10mg/ml inf cnc sol 1x24ml",2021-02-26
 "Bavencio 20mg/ml inf cnc sol 1x10ml",2021-02-26
+"Opdivo 10mg/ml inf cnc sol 1x24ml",2021-02-26
 "Tisercin 25mg film-coated tablets 50",2021-02-26
 "Humira 20mg inj sol 2x0,2ml i",2021-02-25
 "Trulicity 0,75mg inj sol 2x0,5ml",2021-02-23
@@ -72,9 +74,9 @@
 "Siranalen 150mg cps dur 84 ii",2021-02-10
 "Siranalen 75mg cps dur 84 ii",2021-02-10
 "Taflosin 0,4mg cps rdr 100",2021-02-10
-"Zepatier 50mg/100mg film-coated tablets 28",2021-02-08
 "Descovy 200mg/10mg film-coated tablets 30",2021-02-08
 "Descovy 200mg/25mg film-coated tablets 30",2021-02-08
+"Zepatier 50mg/100mg film-coated tablets 28",2021-02-08
 "Brintellix 10mg film-coated tablets 98",2021-02-08
 "Brintellix 15mg film-coated tablets 98",2021-02-08
 "Gefitinib sandoz 250mg film-coated tablets 30",2021-02-05
@@ -259,10 +261,10 @@
 "Adenuric 80mg film-coated tablets 84 ii",2020-12-03
 "Lynparza 100mg film-coated tablets 56",2020-12-02
 "Lynparza 150mg film-coated tablets 56",2020-12-02
-"Tavlesse 100mg film-coated tablets 60",2020-12-01
-"Tavlesse 150mg film-coated tablets 60",2020-12-01
 "Solu-medrol 40mg/ml inj pso lqf 40mg+1ml",2020-12-01
 "Solu-medrol 62,5mg/ml inj pso lqf 500mg+7,8ml",2020-12-01
+"Tavlesse 100mg film-coated tablets 60",2020-12-01
+"Tavlesse 150mg film-coated tablets 60",2020-12-01
 "Opsumit 10mg film-coated tablets 30",2020-11-27
 "Darzalex 1800mg inj sol 1x15ml",2020-11-27
 "Januvia 100mg film-coated tablets 28",2020-11-26
@@ -271,8 +273,6 @@
 "Tramadol krka 100mg tbl pro 30x1",2020-11-23
 "Tramadol krka 150mg tbl pro 30x1",2020-11-23
 "Tramadol krka 200mg tbl pro 30x1",2020-11-23
-"Zalasta 15mg tbl nob 70",2020-11-23
-"Zalasta 20mg tbl nob 70",2020-11-23
 "Wamlox 5mg/80mg film-coated tablets 30",2020-11-23
 "Wamlox 5mg/80mg film-coated tablets 90",2020-11-23
 "Wamlox 5mg/160mg film-coated tablets 90",2020-11-23
@@ -291,13 +291,18 @@
 "Valtricom 10mg/160mg/25mg film-coated tablets 30x1",2020-11-23
 "Valtricom 10mg/320mg/25mg film-coated tablets 30",2020-11-23
 "Valtricom 10mg/320mg/25mg film-coated tablets 30x1",2020-11-23
-"Ultop 20mg cps etd 14",2020-11-23
 "Tramadol krka 50mg/ml inj/inf sol 5x1ml",2020-11-23
 "Tramadol krka 100mg/2ml inj/inf sol 5x2ml",2020-11-23
-"Tolucombi 80mg/12,5mg tbl nob 84x1 ii",2020-11-23
-"Sulfasalazin k 500mg film-coated tablets 50",2020-11-23
 "Sorvasta plus 10mg/10mg film-coated tablets 60",2020-11-23
 "Sorvasta plus 20mg/10mg film-coated tablets 60",2020-11-23
+"Marixino 10mg film-coated tablets 30",2020-11-23
+"Marixino 20mg film-coated tablets 30",2020-11-23
+"Losartan/hydrochlorothiazid krka 50mg/12,5mg film-coated tablets 28",2020-11-23
+"Zalasta 15mg tbl nob 70",2020-11-23
+"Zalasta 20mg tbl nob 70",2020-11-23
+"Ultop 20mg cps etd 14",2020-11-23
+"Tolucombi 80mg/12,5mg tbl nob 84x1 ii",2020-11-23
+"Sulfasalazin k 500mg film-coated tablets 50",2020-11-23
 "Sidarso 4mg cps dur 30",2020-11-23
 "Sidarso 4mg cps dur 50",2020-11-23
 "Sidarso 4mg cps dur 100",2020-11-23
@@ -313,9 +318,6 @@
 "Perindopril krka 4mg tbl nob 30",2020-11-23
 "Nolibeta 5mg tbl nob 28 i",2020-11-23
 "Nolibeta 5mg tbl nob 90 i",2020-11-23
-"Marixino 10mg film-coated tablets 30",2020-11-23
-"Marixino 20mg film-coated tablets 30",2020-11-23
-"Losartan/hydrochlorothiazid krka 50mg/12,5mg film-coated tablets 28",2020-11-23
 "Lamegom 25mg film-coated tablets 84",2020-11-23
 "Kventiax prolong 400mg tbl pro 90",2020-11-23
 "Kventiax prolong 50mg tbl pro 100",2020-11-23
@@ -595,6 +597,8 @@
 "Rosi 10mg film-coated tablets 30",2020-07-21
 "Rosi 20mg film-coated tablets 30",2020-07-21
 "Rosi 40mg film-coated tablets 30",2020-07-21
+"Pantoprazole zentiva 20mg tbl ent 98",2020-07-21
+"Pantoprazole zentiva 40mg tbl ent 98",2020-07-21
 "Atorvastatin aurovitas 10mg film-coated tablets 90 i",2020-07-21
 "Atorvastatin aurovitas 20mg film-coated tablets 90 i",2020-07-21
 "Atorvastatin aurovitas 40mg film-coated tablets 30 ii",2020-07-21
@@ -606,8 +610,6 @@
 "Ozempic 0,25mg inj sol 1x1,5ml+4j",2020-07-21
 "Ozempic 0,5mg inj sol 1x1,5ml+4j",2020-07-21
 "Ozempic 1mg inj sol 1x3ml+4j",2020-07-21
-"Pantoprazole zentiva 20mg tbl ent 98",2020-07-21
-"Pantoprazole zentiva 40mg tbl ent 98",2020-07-21
 "Bydureon 2mg inj plq sus pro 4x1+1j",2020-07-21
 "Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 28 i",2020-07-21
 "Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 98 i",2020-07-21
