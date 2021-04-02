@@ -1,4 +1,6 @@
 "Product","Submission"
+"Trulicity 1,5mg inj sol 2x0,5ml",2021-04-01
+"Zejula 100mg cps dur 56x1",2021-03-31
 "Tolak 40mg/g crm 20g",2021-03-31
 "Empliciti 300mg inf plv csl 1",2021-03-31
 "Empliciti 400mg inf plv csl 1",2021-03-31
@@ -65,6 +67,10 @@
 "Dupixent 300mg inj sol 2x2ml ii",2021-03-09
 "Dupixent 200mg inj sol 2x1,14ml ii",2021-03-09
 "Memigmin 10mg film-coated tablets 56",2021-03-07
+"Letrox 125mcg tbl nob 100",2021-03-05
+"Letrox 75mcg tbl nob 100",2021-03-05
+"Letrox 50mcg tbl nob 100",2021-03-05
+"Letrox 100mcg tbl nob 100",2021-03-05
 "Opdivo 10mg/ml inf cnc sol 1x4ml",2021-03-05
 "Opdivo 10mg/ml inf cnc sol 1x10ml",2021-03-05
 "Fulvestrant stada 250mg/5ml inj sol 1x5ml+1j",2021-03-05
@@ -72,10 +78,6 @@
 "Aridya 2mg tbl nob 84",2021-03-05
 "Gabapentin teva 100mg cps dur 90",2021-03-05
 "Gabapentin teva 300mg cps dur 90",2021-03-05
-"Letrox 125mcg tbl nob 100",2021-03-05
-"Letrox 75mcg tbl nob 100",2021-03-05
-"Letrox 50mcg tbl nob 100",2021-03-05
-"Letrox 100mcg tbl nob 100",2021-03-05
 "Lynparza 150mg film-coated tablets 56",2021-03-04
 "Vyndaqel 61mg cps mol 30x1",2021-03-04
 "Trexan neo 10mg tbl nob 100 i",2021-03-03
@@ -86,8 +88,8 @@
 "Magnerot 500mg tbl nob 50 i",2021-03-02
 "Magnerot 500mg tbl nob 100 i",2021-03-02
 "Holoxan 2g inf plv sol 1",2021-03-02
-"Bavencio 20mg/ml inf cnc sol 1x10ml",2021-02-26
 "Opdivo 10mg/ml inf cnc sol 1x24ml",2021-02-26
+"Bavencio 20mg/ml inf cnc sol 1x10ml",2021-02-26
 "Tisercin 25mg film-coated tablets 50",2021-02-26
 "Humira 20mg inj sol 2x0,2ml i",2021-02-25
 "Trulicity 0,75mg inj sol 2x0,5ml",2021-02-23
@@ -126,8 +128,8 @@
 "Gefitinib glenmark 250mg film-coated tablets 30x1",2021-02-05
 "Gefitinib krka 250mg film-coated tablets 30",2021-02-05
 "Gefitinib accord 250mg film-coated tablets 30x1",2021-02-05
-"Adenuric 80mg film-coated tablets 28 i",2021-02-03
 "Voluven 6% inf sol 20x500ml",2021-02-03
+"Adenuric 80mg film-coated tablets 28 i",2021-02-03
 "Revlimid 5mg cps dur 21",2021-01-29
 "Revlimid 10mg cps dur 21",2021-01-29
 "Revlimid 15mg cps dur 21",2021-01-29
@@ -300,12 +302,12 @@
 "Adenuric 80mg film-coated tablets 84 ii",2020-12-03
 "Lynparza 100mg film-coated tablets 56",2020-12-02
 "Lynparza 150mg film-coated tablets 56",2020-12-02
-"Solu-medrol 40mg/ml inj pso lqf 40mg+1ml",2020-12-01
-"Solu-medrol 62,5mg/ml inj pso lqf 500mg+7,8ml",2020-12-01
 "Tavlesse 100mg film-coated tablets 60",2020-12-01
 "Tavlesse 150mg film-coated tablets 60",2020-12-01
-"Darzalex 1800mg inj sol 1x15ml",2020-11-27
+"Solu-medrol 40mg/ml inj pso lqf 40mg+1ml",2020-12-01
+"Solu-medrol 62,5mg/ml inj pso lqf 500mg+7,8ml",2020-12-01
 "Opsumit 10mg film-coated tablets 30",2020-11-27
+"Darzalex 1800mg inj sol 1x15ml",2020-11-27
 "Januvia 100mg film-coated tablets 28",2020-11-26
 "Januvia 100mg film-coated tablets 98",2020-11-26
 "Vasilip 40mg film-coated tablets 28",2020-11-23
