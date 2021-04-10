@@ -267,15 +267,15 @@
 "Natpar 50mcg inj pso lqf 2",2020-12-18
 "Natpar 75mcg inj pso lqf 2",2020-12-18
 "Natpar 100mcg inj pso lqf 2",2020-12-18
-"Lacosamide glenmark 50mg film-coated tablets 14",2020-12-17
-"Lacosamide glenmark 100mg film-coated tablets 56",2020-12-17
-"Lacosamide glenmark 150mg film-coated tablets 56",2020-12-17
-"Lacosamide glenmark 200mg film-coated tablets 56",2020-12-17
 "Alprolix 250iu inj pso lqf 1+1x5ml isp",2020-12-17
 "Alprolix 500iu inj pso lqf 1+1x5ml isp",2020-12-17
 "Alprolix 1000iu inj pso lqf 1+1x5ml isp",2020-12-17
 "Alprolix 2000iu inj pso lqf 1+1x5ml isp",2020-12-17
 "Alprolix 3000iu inj pso lqf 1+1x5ml isp",2020-12-17
+"Lacosamide glenmark 50mg film-coated tablets 14",2020-12-17
+"Lacosamide glenmark 100mg film-coated tablets 56",2020-12-17
+"Lacosamide glenmark 150mg film-coated tablets 56",2020-12-17
+"Lacosamide glenmark 200mg film-coated tablets 56",2020-12-17
 "Alozex 1mg film-coated tablets 28",2020-12-15
 "Anaprex 1mg film-coated tablets 100",2020-12-15
 "Aletro 2,5mg film-coated tablets 100",2020-12-15
@@ -312,10 +312,10 @@
 "Naxalgan 150mg cps dur 90",2020-12-04
 "Naxalgan 300mg cps dur 90",2020-12-04
 "Pentomer retard 400mg tbl pro 100",2020-12-04
-"Adenuric 80mg film-coated tablets 84 ii",2020-12-03
 "Cabometyx 20mg film-coated tablets 30",2020-12-03
 "Cabometyx 40mg film-coated tablets 30",2020-12-03
 "Cabometyx 60mg film-coated tablets 30",2020-12-03
+"Adenuric 80mg film-coated tablets 84 ii",2020-12-03
 "Lynparza 100mg film-coated tablets 56",2020-12-02
 "Lynparza 150mg film-coated tablets 56",2020-12-02
 "Tavlesse 100mg film-coated tablets 60",2020-12-01
@@ -626,22 +626,22 @@
 "Fluocyne 10% 10% inj sol 10x5ml",2020-07-24
 "Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 28 i",2020-07-21
 "Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 98 i",2020-07-21
+"Telhycar 80mg/12,5mg tbl nob 28",2020-07-21
+"Atomoxetin sandoz 80mg cps dur 28 i",2020-07-21
+"Atomoxetin sandoz 100mg cps dur 28 i",2020-07-21
+"Telmisartan/hydrochlorothiazid egis 80mg/12,5mg tbl nob 30 i",2020-07-21
+"Telmisartan/hydrochlorothiazid egis 80mg/25mg tbl nob 30 i",2020-07-21
 "Atomoxetine accord 80mg cps dur 28 i",2020-07-21
 "Atomoxetine accord 100mg cps dur 28 i",2020-07-21
 "Bitinex 80mg cps dur 28 i",2020-07-21
 "Atomoxetin mylan 80mg cps dur 28",2020-07-21
 "Strattera 80mg cps dur 28",2020-07-21
 "Strattera 100mg cps dur 28",2020-07-21
-"Telhycar 80mg/12,5mg tbl nob 28",2020-07-21
-"Atomoxetin sandoz 80mg cps dur 28 i",2020-07-21
-"Atomoxetin sandoz 100mg cps dur 28 i",2020-07-21
 "Lanxib 15mg cps etd 28 ii",2020-07-21
 "Lanxib 30mg cps etd 28 ii",2020-07-21
 "Lanxib 30mg cps etd 56 ii",2020-07-21
 "Atomoxetin glenmark 80mg cps dur 28 i",2020-07-21
 "Atomoxetin glenmark 100mg cps dur 28 i",2020-07-21
-"Telmisartan/hydrochlorothiazid egis 80mg/12,5mg tbl nob 30 i",2020-07-21
-"Telmisartan/hydrochlorothiazid egis 80mg/25mg tbl nob 30 i",2020-07-21
 "Pantoprazole zentiva 20mg tbl ent 98",2020-07-21
 "Pantoprazole zentiva 40mg tbl ent 98",2020-07-21
 "Rosuvastatin accord 10mg film-coated tablets 30",2020-07-21
@@ -1055,8 +1055,8 @@
 "Vitrakvi 25mg cps dur 56",2019-12-18
 "Vitrakvi 100mg cps dur 56",2019-12-18
 "Ultomiris 300mg/30ml inf cnc sol 1x30ml",2019-12-17
-"Takhzyro 300mg inj sol 1x2ml+stř+2j",2019-12-16
 "Flixabi 100mg inf plv csl 1",2019-12-16
+"Takhzyro 300mg inj sol 1x2ml+stř+2j",2019-12-16
 "Benepali 50mg inj sol 4x0,98ml",2019-12-16
 "Tadalafil aop 20mg film-coated tablets 56",2019-12-16
 "Cablivi 10mg inj pso lqf 1+1x1ml isp+ad+j",2019-12-12
