@@ -1,4 +1,8 @@
 "Product","Submission"
+"Polivy 30mg inf plv csl 1",2021-04-20
+"Cyramza 10mg/ml inf cnc sol 2x10ml",2021-04-20
+"Paroxetin +pharma 20mg film-coated tablets 30",2021-04-19
+"Paroxetin +pharma 20mg film-coated tablets 100",2021-04-19
 "Azacitidin sandoz 25mg/ml inj plv sus 1",2021-04-13
 "Ibandronic acid aurobindo 150 mg potahované tablety 150mg film-coated tablets 3",2021-04-01
 "Ibandronic acid aurovitas 150mg film-coated tablets 3",2021-04-01
@@ -128,10 +132,10 @@
 "Darzalex 20mg/ml inf cnc sol 1x20ml",2021-02-11
 "Darzalex 1800mg inj sol 1x15ml",2021-02-11
 "Olumiant 4mg film-coated tablets 28 i",2021-02-11
+"Trimbow 87mcg/5mcg/9mcg inh sol pss 1x120dáv",2021-02-10
 "Siranalen 150mg cps dur 84 ii",2021-02-10
 "Siranalen 75mg cps dur 84 ii",2021-02-10
 "Taflosin 0,4mg cps rdr 100",2021-02-10
-"Trimbow 87mcg/5mcg/9mcg inh sol pss 1x120dáv",2021-02-10
 "Zepatier 50mg/100mg film-coated tablets 28",2021-02-08
 "Descovy 200mg/10mg film-coated tablets 30",2021-02-08
 "Descovy 200mg/25mg film-coated tablets 30",2021-02-08
@@ -158,9 +162,9 @@
 "Zibor 25000iu/ml inj sol isp 2x0,3ml",2021-01-18
 "Zibor 25000iu/ml inj sol isp 2x0,4ml",2021-01-18
 "Zibor 25000iu/ml inj sol isp 2x0,2ml",2021-01-18
-"Azacitidine betapharm 25mg/ml inj plv sus 1x100mg",2021-01-15
 "Mitomycin accord 20mg inj/inf/ivs plv sol 1",2021-01-15
 "Mitomycin accord 20mg inj/inf/ivs plv sol 5",2021-01-15
+"Azacitidine betapharm 25mg/ml inj plv sus 1x100mg",2021-01-15
 "Ruconest 2100u inj plv sol 1",2021-01-15
 "Sumetrolim 400mg/80mg tbl nob 20",2021-01-15
 "Valsacor 80mg film-coated tablets 28",2021-01-15
@@ -204,9 +208,9 @@
 "Xeljanz 5mg film-coated tablets 56",2021-01-07
 "Xeljanz 5mg film-coated tablets 182",2021-01-07
 "Ogivri 150mg inf plv csl 1",2021-01-07
-"Ultibro breezhaler 85mcg/43mcg inh plv cps dur 90x1+inh",2021-01-06
 "Emanera 20mg cps etd 30 i",2021-01-06
 "Emanera 40mg cps etd 30 i",2021-01-06
+"Ultibro breezhaler 85mcg/43mcg inh plv cps dur 90x1+inh",2021-01-06
 "Kventiax 100mg film-coated tablets 90",2021-01-06
 "Kventiax 200mg film-coated tablets 90",2021-01-06
 "Kventiax 300mg film-coated tablets 90",2021-01-06
@@ -625,16 +629,23 @@
 "Cosentyx 150mg inj sol pep 2x1ml",2020-07-26
 "Cosentyx 150mg inj sol isp 2x1ml",2020-07-24
 "Fluocyne 10% 10% inj sol 10x5ml",2020-07-24
-"Atomoxetine accord 80mg cps dur 28 i",2020-07-21
-"Atomoxetine accord 100mg cps dur 28 i",2020-07-21
-"Bitinex 80mg cps dur 28 i",2020-07-21
+"Atorvastatin actavis 10mg film-coated tablets 28",2020-07-21
+"Atorvastatin actavis 10mg film-coated tablets 98",2020-07-21
+"Atorvastatin actavis 20mg film-coated tablets 28",2020-07-21
+"Atorvastatin actavis 20mg film-coated tablets 98",2020-07-21
+"Atorvastatin actavis 40mg film-coated tablets 28",2020-07-21
+"Atorvastatin ratiopharm gmbh 10mg film-coated tablets 28",2020-07-21
+"Atorvastatin ratiopharm gmbh 10mg film-coated tablets 90",2020-07-21
+"Atorvastatin ratiopharm gmbh 20mg film-coated tablets 28",2020-07-21
+"Atorvastatin ratiopharm gmbh 20mg film-coated tablets 90",2020-07-21
+"Atorvastatin ratiopharm gmbh 40mg film-coated tablets 28",2020-07-21
+"Atorvastatin ratiopharm gmbh 40mg film-coated tablets 90",2020-07-21
 "Corvapro 10mg film-coated tablets 30",2020-07-21
 "Corvapro 10mg film-coated tablets 90",2020-07-21
 "Corvapro 20mg film-coated tablets 30",2020-07-21
 "Corvapro 20mg film-coated tablets 90",2020-07-21
 "Corvapro 40mg film-coated tablets 30",2020-07-21
 "Corvapro 40mg film-coated tablets 90",2020-07-21
-"Atomoxetin mylan 80mg cps dur 28",2020-07-21
 "Strattera 80mg cps dur 28",2020-07-21
 "Strattera 100mg cps dur 28",2020-07-21
 "Rosi 10mg film-coated tablets 30",2020-07-21
@@ -642,11 +653,21 @@
 "Rosi 40mg film-coated tablets 30",2020-07-21
 "Pantoprazole zentiva 20mg tbl ent 98",2020-07-21
 "Pantoprazole zentiva 40mg tbl ent 98",2020-07-21
+"Atorvastatin aurovitas 10mg film-coated tablets 90 i",2020-07-21
+"Atorvastatin aurovitas 20mg film-coated tablets 90 i",2020-07-21
+"Atorvastatin aurovitas 40mg film-coated tablets 30 ii",2020-07-21
+"Atorvastatin aurovitas 40mg film-coated tablets 30 i",2020-07-21
+"Atorvastatin aurovitas 80mg film-coated tablets 30 ii",2020-07-21
+"Atorvastatin aurovitas 80mg film-coated tablets 30 i",2020-07-21
 "Zahron 15mg film-coated tablets 28",2020-07-21
 "Zahron 30mg film-coated tablets 28",2020-07-21
 "Lanxib 15mg cps etd 28 ii",2020-07-21
 "Lanxib 30mg cps etd 28 ii",2020-07-21
 "Lanxib 30mg cps etd 56 ii",2020-07-21
+"Atomoxetine accord 80mg cps dur 28 i",2020-07-21
+"Atomoxetine accord 100mg cps dur 28 i",2020-07-21
+"Bitinex 80mg cps dur 28 i",2020-07-21
+"Atomoxetin mylan 80mg cps dur 28",2020-07-21
 "Atomoxetin glenmark 80mg cps dur 28 i",2020-07-21
 "Atomoxetin glenmark 100mg cps dur 28 i",2020-07-21
 "Telhycar 80mg/12,5mg tbl nob 28",2020-07-21
@@ -664,25 +685,8 @@
 "Rosuvastatin accord 40mg film-coated tablets 90",2020-07-21
 "Rosuvastatin teva pharma 40mg film-coated tablets 100 ii",2020-07-21
 "Rosuvastatin teva pharma 40mg film-coated tablets 30 ii",2020-07-21
-"Atorvastatin actavis 10mg film-coated tablets 28",2020-07-21
-"Atorvastatin actavis 10mg film-coated tablets 98",2020-07-21
-"Atorvastatin actavis 20mg film-coated tablets 28",2020-07-21
-"Atorvastatin actavis 20mg film-coated tablets 98",2020-07-21
-"Atorvastatin actavis 40mg film-coated tablets 28",2020-07-21
-"Atorvastatin ratiopharm gmbh 10mg film-coated tablets 28",2020-07-21
-"Atorvastatin ratiopharm gmbh 10mg film-coated tablets 90",2020-07-21
-"Atorvastatin ratiopharm gmbh 20mg film-coated tablets 28",2020-07-21
-"Atorvastatin ratiopharm gmbh 20mg film-coated tablets 90",2020-07-21
-"Atorvastatin ratiopharm gmbh 40mg film-coated tablets 28",2020-07-21
-"Atorvastatin ratiopharm gmbh 40mg film-coated tablets 90",2020-07-21
 "Mertenil 15mg film-coated tablets 30",2020-07-21
 "Mertenil 30mg film-coated tablets 30",2020-07-21
-"Atorvastatin aurovitas 10mg film-coated tablets 90 i",2020-07-21
-"Atorvastatin aurovitas 20mg film-coated tablets 90 i",2020-07-21
-"Atorvastatin aurovitas 40mg film-coated tablets 30 ii",2020-07-21
-"Atorvastatin aurovitas 40mg film-coated tablets 30 i",2020-07-21
-"Atorvastatin aurovitas 80mg film-coated tablets 30 ii",2020-07-21
-"Atorvastatin aurovitas 80mg film-coated tablets 30 i",2020-07-21
 "Ozempic 0,25mg inj sol 1x1,5ml+4j",2020-07-21
 "Ozempic 0,5mg inj sol 1x1,5ml+4j",2020-07-21
 "Ozempic 1mg inj sol 1x3ml+4j",2020-07-21
