@@ -202,9 +202,9 @@
 "Lyrica 20mg/ml por sol 1x473ml",2021-01-08
 "Montelukast medreg 10mg film-coated tablets 28",2021-01-08
 "Montelukast medreg 10mg film-coated tablets 98",2021-01-08
-"Rebetol 200mg cps dur 168",2021-01-07
 "Febuxostat krka 80mg film-coated tablets 84",2021-01-07
 "Febuxostat krka 120mg film-coated tablets 84",2021-01-07
+"Rebetol 200mg cps dur 168",2021-01-07
 "Hyrimoz 20mg inj sol 2x0,4ml",2021-01-07
 "Xeljanz 5mg film-coated tablets 56",2021-01-07
 "Xeljanz 5mg film-coated tablets 182",2021-01-07
@@ -647,6 +647,12 @@
 "Atorvastatin ratiopharm gmbh 20mg film-coated tablets 90",2020-07-21
 "Atorvastatin ratiopharm gmbh 40mg film-coated tablets 28",2020-07-21
 "Atorvastatin ratiopharm gmbh 40mg film-coated tablets 90",2020-07-21
+"Atorvastatin aurovitas 10mg film-coated tablets 90 i",2020-07-21
+"Atorvastatin aurovitas 20mg film-coated tablets 90 i",2020-07-21
+"Atorvastatin aurovitas 40mg film-coated tablets 30 ii",2020-07-21
+"Atorvastatin aurovitas 40mg film-coated tablets 30 i",2020-07-21
+"Atorvastatin aurovitas 80mg film-coated tablets 30 ii",2020-07-21
+"Atorvastatin aurovitas 80mg film-coated tablets 30 i",2020-07-21
 "Corvapro 10mg film-coated tablets 30",2020-07-21
 "Corvapro 10mg film-coated tablets 90",2020-07-21
 "Corvapro 20mg film-coated tablets 30",2020-07-21
@@ -660,12 +666,6 @@
 "Rosi 40mg film-coated tablets 30",2020-07-21
 "Pantoprazole zentiva 20mg tbl ent 98",2020-07-21
 "Pantoprazole zentiva 40mg tbl ent 98",2020-07-21
-"Atorvastatin aurovitas 10mg film-coated tablets 90 i",2020-07-21
-"Atorvastatin aurovitas 20mg film-coated tablets 90 i",2020-07-21
-"Atorvastatin aurovitas 40mg film-coated tablets 30 ii",2020-07-21
-"Atorvastatin aurovitas 40mg film-coated tablets 30 i",2020-07-21
-"Atorvastatin aurovitas 80mg film-coated tablets 30 ii",2020-07-21
-"Atorvastatin aurovitas 80mg film-coated tablets 30 i",2020-07-21
 "Zahron 15mg film-coated tablets 28",2020-07-21
 "Zahron 30mg film-coated tablets 28",2020-07-21
 "Lanxib 15mg cps etd 28 ii",2020-07-21
@@ -1031,11 +1031,11 @@
 "Bilamcar 8mg/10mg cps dur 28",2020-01-08
 "Rixathon 100mg inf cnc sol 2x10ml",2020-01-08
 "Rixathon 500mg inf cnc sol 1x50ml",2020-01-08
-"Kartesada 75mg cps dur 70",2019-12-29
-"Kartesada 150mg cps dur 70",2019-12-29
 "Pregabalin mylan 75mg cps dur 100",2019-12-29
 "Pregabalin mylan 150mg cps dur 100",2019-12-29
 "Pregabalin mylan 300mg cps dur 100",2019-12-29
+"Kartesada 75mg cps dur 70",2019-12-29
+"Kartesada 150mg cps dur 70",2019-12-29
 "Siranalen 150mg cps dur 112 ii",2019-12-29
 "Siranalen 150mg cps dur 84 ii",2019-12-29
 "Siranalen 75mg cps dur 84 ii",2019-12-29
@@ -1061,8 +1061,8 @@
 "Vitrakvi 25mg cps dur 56",2019-12-18
 "Vitrakvi 100mg cps dur 56",2019-12-18
 "Ultomiris 300mg/30ml inf cnc sol 1x30ml",2019-12-17
-"Takhzyro 300mg inj sol 1x2ml+stř+2j",2019-12-16
 "Flixabi 100mg inf plv csl 1",2019-12-16
+"Takhzyro 300mg inj sol 1x2ml+stř+2j",2019-12-16
 "Benepali 50mg inj sol 4x0,98ml",2019-12-16
 "Tadalafil aop 20mg film-coated tablets 56",2019-12-16
 "Cablivi 10mg inj pso lqf 1+1x1ml isp+ad+j",2019-12-12
