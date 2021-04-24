@@ -1,17 +1,21 @@
 "Product","Submission"
+"Phesgo 1200mg/600mg inj sol 1x15ml",2021-04-23
+"Phesgo 600mg/600mg inj sol 1x10ml",2021-04-23
 "Desloratadin xantis 5mg tbl nob 30",2021-04-20
 "Polivy 30mg inf plv csl 1",2021-04-20
 "Cyramza 10mg/ml inf cnc sol 2x10ml",2021-04-20
 "Paroxetin +pharma 20mg film-coated tablets 30",2021-04-19
 "Paroxetin +pharma 20mg film-coated tablets 100",2021-04-19
 "Azacitidin sandoz 25mg/ml inj plv sus 1",2021-04-13
-"Ibandronic acid aurobindo 150 mg potahované tablety 150mg film-coated tablets 3",2021-04-01
-"Ibandronic acid aurovitas 150mg film-coated tablets 3",2021-04-01
-"Miflonid breezhaler 200mcg inh plv cps dur 60",2021-04-01
 "Alendronic acid/vitamin d3 aurovitas 70mg/2800iu tbl nob 12",2021-04-01
+"Ibandronic acid aurobindo 150 mg potahované tablety 150mg film-coated tablets 3",2021-04-01
 "Alendronic acid/vitamin d3 accord 70mg/2800iu tbl nob 4",2021-04-01
 "Alendronic acid/vitamin d3 accord 70mg/2800iu tbl nob 12",2021-04-01
 "Alendronic acid/vitamin d3 accord 70mg/5600iu tbl nob 12",2021-04-01
+"Ibandronic acid aurovitas 150mg film-coated tablets 3",2021-04-01
+"Alendronic acid/vitamin d3 mylan 70mg/2800iu tbl nob 12",2021-04-01
+"Alendronic acid/vitamin d3 mylan 70mg/5600iu tbl nob 12",2021-04-01
+"Miflonid breezhaler 200mcg inh plv cps dur 60",2021-04-01
 "Valaciclovir mylan 500mg film-coated tablets 42",2021-04-01
 "Valaciclovir +pharma 500mg film-coated tablets 14",2021-04-01
 "Valaciclovir +pharma 500mg film-coated tablets 42",2021-04-01
@@ -19,8 +23,6 @@
 "Zovirax 400mg tbl nob 25",2021-04-01
 "Linezolid krka 2mg/ml inf sol 1x300ml",2021-04-01
 "Linezolid accord 2mg/ml inf sol 10x300ml",2021-04-01
-"Alendronic acid/vitamin d3 mylan 70mg/2800iu tbl nob 12",2021-04-01
-"Alendronic acid/vitamin d3 mylan 70mg/5600iu tbl nob 12",2021-04-01
 "Trulicity 1,5mg inj sol 2x0,5ml",2021-04-01
 "Zejula 100mg cps dur 56x1",2021-03-31
 "Tolak 40mg/g crm 20g",2021-03-31
@@ -624,8 +626,8 @@
 "Blincyto 38,5mcg inf pcs sol 1+1x10ml",2020-07-29
 "Empliciti 300mg inf plv csl 1",2020-07-27
 "Empliciti 400mg inf plv csl 1",2020-07-27
-"Vizilatan 50mcg/ml oph gtt sol 1x2,5ml",2020-07-27
 "Cosopt bez konzervačních přísad 20mg/ml+5mg/ml oph gtt sol 1x10ml",2020-07-27
+"Vizilatan 50mcg/ml oph gtt sol 1x2,5ml",2020-07-27
 "Ewofex 120mg film-coated tablets 100",2020-07-27
 "Cosentyx 150mg inj sol pep 2x1ml",2020-07-26
 "Cosentyx 150mg inj sol isp 2x1ml",2020-07-24
@@ -636,6 +638,8 @@
 "Rosuvastatin accord 20mg film-coated tablets 90",2020-07-21
 "Rosuvastatin accord 40mg film-coated tablets 30",2020-07-21
 "Rosuvastatin accord 40mg film-coated tablets 90",2020-07-21
+"Rosuvastatin teva pharma 40mg film-coated tablets 100 ii",2020-07-21
+"Rosuvastatin teva pharma 40mg film-coated tablets 30 ii",2020-07-21
 "Atorvastatin actavis 10mg film-coated tablets 28",2020-07-21
 "Atorvastatin actavis 10mg film-coated tablets 98",2020-07-21
 "Atorvastatin actavis 20mg film-coated tablets 28",2020-07-21
@@ -647,6 +651,8 @@
 "Atorvastatin ratiopharm gmbh 20mg film-coated tablets 90",2020-07-21
 "Atorvastatin ratiopharm gmbh 40mg film-coated tablets 28",2020-07-21
 "Atorvastatin ratiopharm gmbh 40mg film-coated tablets 90",2020-07-21
+"Mertenil 15mg film-coated tablets 30",2020-07-21
+"Mertenil 30mg film-coated tablets 30",2020-07-21
 "Atorvastatin aurovitas 10mg film-coated tablets 90 i",2020-07-21
 "Atorvastatin aurovitas 20mg film-coated tablets 90 i",2020-07-21
 "Atorvastatin aurovitas 40mg film-coated tablets 30 ii",2020-07-21
@@ -684,10 +690,6 @@
 "Telmisartan/hydrochlorothiazid egis 80mg/25mg tbl nob 30 i",2020-07-21
 "Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 28 i",2020-07-21
 "Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 98 i",2020-07-21
-"Rosuvastatin teva pharma 40mg film-coated tablets 100 ii",2020-07-21
-"Rosuvastatin teva pharma 40mg film-coated tablets 30 ii",2020-07-21
-"Mertenil 15mg film-coated tablets 30",2020-07-21
-"Mertenil 30mg film-coated tablets 30",2020-07-21
 "Ozempic 0,25mg inj sol 1x1,5ml+4j",2020-07-21
 "Ozempic 0,5mg inj sol 1x1,5ml+4j",2020-07-21
 "Ozempic 1mg inj sol 1x3ml+4j",2020-07-21
