@@ -92,9 +92,9 @@
 "Polivy 30mg inf plv csl 1",2021-03-26
 "Preglenix 75mg cps dur 84",2021-03-26
 "Preglenix 150mg cps dur 84",2021-03-26
-"Anoro ellipta 55mcg/22mcg inh plv dos 1x30dáv",2021-03-25
 "Spiolto respimat 2,5mcg/2,5mcg inh sol 1x60dáv+1inh",2021-03-25
 "Spiolto respimat 2,5mcg/2,5mcg inh sol 3x60dáv+1inh",2021-03-25
+"Anoro ellipta 55mcg/22mcg inh plv dos 1x30dáv",2021-03-25
 "Corvapro 10mg film-coated tablets 30",2021-03-24
 "Corvapro 20mg film-coated tablets 30",2021-03-24
 "Zevesin 10mg film-coated tablets 100",2021-03-23
@@ -166,14 +166,14 @@
 "Aclexa 200mg cps dur 60",2021-02-22
 "Aclexa 100 mg tvrdé tobolky 100mg cps dur 60",2021-02-22
 "Aclexa 200 mg tvrdé tobolky 200mg cps dur 60",2021-02-22
-"Keytruda 25mg/ml inf cnc sol 1x4ml",2021-02-19
 "Keytruda 50mg inf plv csl 1",2021-02-19
+"Keytruda 25mg/ml inf cnc sol 1x4ml",2021-02-19
 "Truvada 200mg/245mg film-coated tablets 30",2021-02-19
 "Emtricitabine/tenofovir disoproxil mylan 200mg/245mg film-coated tablets 30",2021-02-19
-"Olumiant 4mg film-coated tablets 28 i",2021-02-11
 "Darzalex 20mg/ml inf cnc sol 1x5ml",2021-02-11
 "Darzalex 20mg/ml inf cnc sol 1x20ml",2021-02-11
 "Darzalex 1800mg inj sol 1x15ml",2021-02-11
+"Olumiant 4mg film-coated tablets 28 i",2021-02-11
 "Trimbow 87mcg/5mcg/9mcg inh sol pss 1x120dáv",2021-02-10
 "Siranalen 150mg cps dur 84 ii",2021-02-10
 "Siranalen 75mg cps dur 84 ii",2021-02-10
@@ -888,6 +888,8 @@
 "Atoris 30mg film-coated tablets 30",2020-04-14
 "Atoris 60mg film-coated tablets 30",2020-04-14
 "Atoris 80mg film-coated tablets 30",2020-04-14
+"Mekinist 0,5mg film-coated tablets 30",2020-04-09
+"Mekinist 2mg film-coated tablets 30",2020-04-09
 "Hemlibra 30mg/ml inj sol 1x1ml",2020-04-09
 "Hemlibra 150mg/ml inj sol 1x0,4ml",2020-04-09
 "Hemlibra 150mg/ml inj sol 1x0,7ml",2020-04-09
@@ -895,8 +897,6 @@
 "Tafinlar 50mg cps dur 120",2020-04-09
 "Tafinlar 75mg cps dur 28",2020-04-09
 "Tafinlar 75mg cps dur 120",2020-04-09
-"Mekinist 0,5mg film-coated tablets 30",2020-04-09
-"Mekinist 2mg film-coated tablets 30",2020-04-09
 "Mabthera 1600mg inj sol 1x13,4ml",2020-04-08
 "Darzalex 20mg/ml inf cnc sol 1x5ml",2020-04-08
 "Darzalex 20mg/ml inf cnc sol 1x20ml",2020-04-08
