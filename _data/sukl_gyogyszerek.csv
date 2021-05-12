@@ -7,7 +7,6 @@
 "Lutrate depot 22,5mg inj plq sus pro 1+1x2ml isp",2021-05-03
 "Leptoprol 5mg imp isp 1",2021-05-03
 "Diphereline s.r. 22,5mg inj plq sus pro 1+1x2ml amp",2021-05-03
-"Plegridy pro intramuskulární podání 125mcg inj sol 2x0,5ml",2021-05-03
 "Reseligo 10,8mg imp isp 1",2021-05-03
 "Reseligo 3,6mg imp isp 1",2021-05-03
 "Novapio 15mg tbl nob 28",2021-05-03
@@ -17,12 +16,13 @@
 "Novapio 45mg tbl nob 28",2021-05-03
 "Novapio 45mg tbl nob 30",2021-05-03
 "Pioglitazone accord 45mg tbl nob 28",2021-05-03
+"Plegridy pro intramuskulární podání 125mcg inj sol 2x0,5ml",2021-05-03
 "Copaxone 40mg/ml inj sol isp 3x1ml",2021-05-01
 "Copaxone 40mg/ml inj sol isp 36(3x12)x1ml",2021-05-01
+"Adcetris 50mg inf plv csl 1",2021-04-30
 "Cabometyx 20mg film-coated tablets 30",2021-04-30
 "Cabometyx 40mg film-coated tablets 30",2021-04-30
 "Cabometyx 60mg film-coated tablets 30",2021-04-30
-"Adcetris 50mg inf plv csl 1",2021-04-30
 "Calquence 100mg cps dur 56",2021-04-29
 "Dupixent 300mg inj sol 2x2ml i",2021-04-28
 "Acidum folicum léčiva 10mg tbl obd 30",2021-04-28
@@ -131,12 +131,12 @@
 "Dupixent 300mg inj sol 2x2ml ii",2021-03-09
 "Dupixent 200mg inj sol 2x1,14ml ii",2021-03-09
 "Memigmin 10mg film-coated tablets 56",2021-03-07
+"Opdivo 10mg/ml inf cnc sol 1x4ml",2021-03-05
+"Opdivo 10mg/ml inf cnc sol 1x10ml",2021-03-05
 "Letrox 125mcg tbl nob 100",2021-03-05
 "Letrox 75mcg tbl nob 100",2021-03-05
 "Letrox 50mcg tbl nob 100",2021-03-05
 "Letrox 100mcg tbl nob 100",2021-03-05
-"Opdivo 10mg/ml inf cnc sol 1x4ml",2021-03-05
-"Opdivo 10mg/ml inf cnc sol 1x10ml",2021-03-05
 "Fulvestrant stada 250mg/5ml inj sol 1x5ml+1j",2021-03-05
 "Aridya 2mg tbl nob 28",2021-03-05
 "Aridya 2mg tbl nob 84",2021-03-05
@@ -152,8 +152,8 @@
 "Holoxan 2g inf plv sol 1",2021-03-02
 "Magnerot 500mg tbl nob 50 i",2021-03-02
 "Magnerot 500mg tbl nob 100 i",2021-03-02
-"Opdivo 10mg/ml inf cnc sol 1x24ml",2021-02-26
 "Bavencio 20mg/ml inf cnc sol 1x10ml",2021-02-26
+"Opdivo 10mg/ml inf cnc sol 1x24ml",2021-02-26
 "Tisercin 25mg film-coated tablets 50",2021-02-26
 "Humira 20mg inj sol 2x0,2ml i",2021-02-25
 "Fucidin 20mg/g crm 1x15g",2021-02-23
@@ -171,10 +171,10 @@
 "Keytruda 25mg/ml inf cnc sol 1x4ml",2021-02-19
 "Truvada 200mg/245mg film-coated tablets 30",2021-02-19
 "Emtricitabine/tenofovir disoproxil mylan 200mg/245mg film-coated tablets 30",2021-02-19
+"Olumiant 4mg film-coated tablets 28 i",2021-02-11
 "Darzalex 20mg/ml inf cnc sol 1x5ml",2021-02-11
 "Darzalex 20mg/ml inf cnc sol 1x20ml",2021-02-11
 "Darzalex 1800mg inj sol 1x15ml",2021-02-11
-"Olumiant 4mg film-coated tablets 28 i",2021-02-11
 "Trimbow 87mcg/5mcg/9mcg inh sol pss 1x120dáv",2021-02-10
 "Siranalen 150mg cps dur 84 ii",2021-02-10
 "Siranalen 75mg cps dur 84 ii",2021-02-10
@@ -251,9 +251,9 @@
 "Xeljanz 5mg film-coated tablets 56",2021-01-07
 "Xeljanz 5mg film-coated tablets 182",2021-01-07
 "Ogivri 150mg inf plv csl 1",2021-01-07
+"Ultibro breezhaler 85mcg/43mcg inh plv cps dur 90x1+inh",2021-01-06
 "Emanera 20mg cps etd 30 i",2021-01-06
 "Emanera 40mg cps etd 30 i",2021-01-06
-"Ultibro breezhaler 85mcg/43mcg inh plv cps dur 90x1+inh",2021-01-06
 "Kventiax 100mg film-coated tablets 90",2021-01-06
 "Kventiax 200mg film-coated tablets 90",2021-01-06
 "Kventiax 300mg film-coated tablets 90",2021-01-06
@@ -366,10 +366,10 @@
 "Adenuric 80mg film-coated tablets 84 ii",2020-12-03
 "Lynparza 100mg film-coated tablets 56",2020-12-02
 "Lynparza 150mg film-coated tablets 56",2020-12-02
-"Tavlesse 100mg film-coated tablets 60",2020-12-01
-"Tavlesse 150mg film-coated tablets 60",2020-12-01
 "Solu-medrol 40mg/ml inj pso lqf 40mg+1ml",2020-12-01
 "Solu-medrol 62,5mg/ml inj pso lqf 500mg+7,8ml",2020-12-01
+"Tavlesse 100mg film-coated tablets 60",2020-12-01
+"Tavlesse 150mg film-coated tablets 60",2020-12-01
 "Darzalex 1800mg inj sol 1x15ml",2020-11-27
 "Opsumit 10mg film-coated tablets 30",2020-11-27
 "Januvia 100mg film-coated tablets 28",2020-11-26
@@ -673,10 +673,10 @@
 "Cosentyx 150mg inj sol isp 2x1ml",2020-07-24
 "Fluocyne 10% 10% inj sol 10x5ml",2020-07-24
 "Bitinex 80mg cps dur 28 i",2020-07-21
-"Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 28 i",2020-07-21
-"Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 98 i",2020-07-21
 "Telmisartan/hydrochlorothiazid egis 80mg/12,5mg tbl nob 30 i",2020-07-21
 "Telmisartan/hydrochlorothiazid egis 80mg/25mg tbl nob 30 i",2020-07-21
+"Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 28 i",2020-07-21
+"Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 98 i",2020-07-21
 "Mertenil 15mg film-coated tablets 30",2020-07-21
 "Mertenil 30mg film-coated tablets 30",2020-07-21
 "Rosuvastatin teva pharma 40mg film-coated tablets 100 ii",2020-07-21
