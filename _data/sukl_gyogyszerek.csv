@@ -1,4 +1,8 @@
 "Product","Submission"
+"Adcetris 50mg inf plv csl 1",2021-05-17
+"Asolfena 5mg film-coated tablets 90",2021-05-17
+"Asolfena 10mg film-coated tablets 90",2021-05-17
+"Kesimpta 20mg inj sol pep 1x0,4ml",2021-05-17
 "Skudexa 75mg/25mg por gra sol scc 15",2021-05-13
 "Azacitidin sandoz 25mg/ml inj plv sus 1",2021-05-12
 "Fulvestrant fresenius kabi 250mg inj sol isp 2x5ml+2j",2021-05-11
@@ -153,9 +157,9 @@
 "Trexan neo 2,5mg tbl nob 100 i",2021-03-03
 "Trexan neo 2,5mg tbl nob 100 ii",2021-03-03
 "Trexan neo 10mg tbl nob 100 ii",2021-03-03
-"Holoxan 2g inf plv sol 1",2021-03-02
 "Magnerot 500mg tbl nob 50 i",2021-03-02
 "Magnerot 500mg tbl nob 100 i",2021-03-02
+"Holoxan 2g inf plv sol 1",2021-03-02
 "Bavencio 20mg/ml inf cnc sol 1x10ml",2021-02-26
 "Opdivo 10mg/ml inf cnc sol 1x24ml",2021-02-26
 "Tisercin 25mg film-coated tablets 50",2021-02-26
@@ -175,10 +179,10 @@
 "Keytruda 50mg inf plv csl 1",2021-02-19
 "Truvada 200mg/245mg film-coated tablets 30",2021-02-19
 "Emtricitabine/tenofovir disoproxil mylan 200mg/245mg film-coated tablets 30",2021-02-19
-"Olumiant 4mg film-coated tablets 28 i",2021-02-11
 "Darzalex 20mg/ml inf cnc sol 1x5ml",2021-02-11
 "Darzalex 20mg/ml inf cnc sol 1x20ml",2021-02-11
 "Darzalex 1800mg inj sol 1x15ml",2021-02-11
+"Olumiant 4mg film-coated tablets 28 i",2021-02-11
 "Trimbow 87mcg/5mcg/9mcg inh sol pss 1x120dáv",2021-02-10
 "Siranalen 150mg cps dur 84 ii",2021-02-10
 "Siranalen 75mg cps dur 84 ii",2021-02-10
@@ -210,11 +214,11 @@
 "Zibor 25000iu/ml inj sol isp 2x0,4ml",2021-01-18
 "Zibor 25000iu/ml inj sol isp 2x0,2ml",2021-01-18
 "Ruconest 2100u inj plv sol 1",2021-01-15
-"Valsacor 80mg film-coated tablets 28",2021-01-15
 "Mitomycin accord 20mg inj/inf/ivs plv sol 1",2021-01-15
 "Mitomycin accord 20mg inj/inf/ivs plv sol 5",2021-01-15
-"Azacitidine betapharm 25mg/ml inj plv sus 1x100mg",2021-01-15
 "Sumetrolim 400mg/80mg tbl nob 20",2021-01-15
+"Valsacor 80mg film-coated tablets 28",2021-01-15
+"Azacitidine betapharm 25mg/ml inj plv sus 1x100mg",2021-01-15
 "Ebixa 10mg film-coated tablets 50 i",2021-01-13
 "Ebixa 5mg/dáv por sol 1x100ml",2021-01-13
 "Ebixa 20mg film-coated tablets 98 i",2021-01-13
@@ -255,9 +259,9 @@
 "Xeljanz 5mg film-coated tablets 56",2021-01-07
 "Xeljanz 5mg film-coated tablets 182",2021-01-07
 "Ogivri 150mg inf plv csl 1",2021-01-07
-"Ultibro breezhaler 85mcg/43mcg inh plv cps dur 90x1+inh",2021-01-06
 "Emanera 20mg cps etd 30 i",2021-01-06
 "Emanera 40mg cps etd 30 i",2021-01-06
+"Ultibro breezhaler 85mcg/43mcg inh plv cps dur 90x1+inh",2021-01-06
 "Kventiax 100mg film-coated tablets 90",2021-01-06
 "Kventiax 200mg film-coated tablets 90",2021-01-06
 "Kventiax 300mg film-coated tablets 90",2021-01-06
@@ -677,6 +681,12 @@
 "Cosentyx 150mg inj sol isp 2x1ml",2020-07-24
 "Fluocyne 10% 10% inj sol 10x5ml",2020-07-24
 "Bitinex 80mg cps dur 28 i",2020-07-21
+"Ozempic 0,25mg inj sol 1x1,5ml+4j",2020-07-21
+"Ozempic 0,5mg inj sol 1x1,5ml+4j",2020-07-21
+"Ozempic 1mg inj sol 1x3ml+4j",2020-07-21
+"Telhycar 80mg/12,5mg tbl nob 28",2020-07-21
+"Atomoxetin sandoz 80mg cps dur 28 i",2020-07-21
+"Atomoxetin sandoz 100mg cps dur 28 i",2020-07-21
 "Telmisartan/hydrochlorothiazid egis 80mg/12,5mg tbl nob 30 i",2020-07-21
 "Telmisartan/hydrochlorothiazid egis 80mg/25mg tbl nob 30 i",2020-07-21
 "Telmisartan/hydrochlorothiazid teva 80mg/12,5mg tbl nob 28 i",2020-07-21
@@ -731,12 +741,6 @@
 "Atomoxetin mylan 80mg cps dur 28",2020-07-21
 "Atomoxetin glenmark 80mg cps dur 28 i",2020-07-21
 "Atomoxetin glenmark 100mg cps dur 28 i",2020-07-21
-"Telhycar 80mg/12,5mg tbl nob 28",2020-07-21
-"Atomoxetin sandoz 80mg cps dur 28 i",2020-07-21
-"Atomoxetin sandoz 100mg cps dur 28 i",2020-07-21
-"Ozempic 0,25mg inj sol 1x1,5ml+4j",2020-07-21
-"Ozempic 0,5mg inj sol 1x1,5ml+4j",2020-07-21
-"Ozempic 1mg inj sol 1x3ml+4j",2020-07-21
 "Bydureon 2mg inj plq sus pro 4x1+1j",2020-07-21
 "Rosuvastatin newline pharma 10mg film-coated tablets 30",2020-07-21
 "Rosuvastatin newline pharma 10mg film-coated tablets 90",2020-07-21
@@ -1107,8 +1111,8 @@
 "Vitrakvi 25mg cps dur 56",2019-12-18
 "Vitrakvi 100mg cps dur 56",2019-12-18
 "Ultomiris 300mg/30ml inf cnc sol 1x30ml",2019-12-17
-"Takhzyro 300mg inj sol 1x2ml+stř+2j",2019-12-16
 "Flixabi 100mg inf plv csl 1",2019-12-16
+"Takhzyro 300mg inj sol 1x2ml+stř+2j",2019-12-16
 "Benepali 50mg inj sol 4x0,98ml",2019-12-16
 "Tadalafil aop 20mg film-coated tablets 56",2019-12-16
 "Cablivi 10mg inj pso lqf 1+1x1ml isp+ad+j",2019-12-12
