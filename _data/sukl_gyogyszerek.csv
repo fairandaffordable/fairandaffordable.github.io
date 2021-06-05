@@ -98,8 +98,8 @@
 "Paroxetin +pharma 20mg film-coated tablets 100",2021-04-19
 "Azacitidin sandoz 25mg/ml inj plv sus 1",2021-04-13
 "Ibandronic acid aurobindo 150 mg potahované tablety 150mg film-coated tablets 3",2021-04-01
-"Linezolid olikla 2mg/ml inf sol 10x300ml",2021-04-01
 "Ibandronic acid aurovitas 150mg film-coated tablets 3",2021-04-01
+"Linezolid olikla 2mg/ml inf sol 10x300ml",2021-04-01
 "Alendronic acid/vitamin d3 aurovitas 70mg/2800iu tbl nob 12",2021-04-01
 "Alendronic acid/vitamin d3 accord 70mg/2800iu tbl nob 4",2021-04-01
 "Alendronic acid/vitamin d3 accord 70mg/2800iu tbl nob 12",2021-04-01
@@ -416,25 +416,18 @@
 "Adenuric 80mg film-coated tablets 84 ii",2020-12-03
 "Lynparza 100mg film-coated tablets 56",2020-12-02
 "Lynparza 150mg film-coated tablets 56",2020-12-02
-"Tavlesse 100mg film-coated tablets 60",2020-12-01
-"Tavlesse 150mg film-coated tablets 60",2020-12-01
 "Solu-medrol 40mg/ml inj pso lqf 40mg+1ml",2020-12-01
 "Solu-medrol 62,5mg/ml inj pso lqf 500mg+7,8ml",2020-12-01
+"Tavlesse 100mg film-coated tablets 60",2020-12-01
+"Tavlesse 150mg film-coated tablets 60",2020-12-01
 "Opsumit 10mg film-coated tablets 30",2020-11-27
 "Darzalex 1800mg inj sol 1x15ml",2020-11-27
 "Januvia 100mg film-coated tablets 28",2020-11-26
 "Januvia 100mg film-coated tablets 98",2020-11-26
-"Sulfasalazin k 500mg film-coated tablets 50",2020-11-23
-"Sorvasta plus 10mg/10mg film-coated tablets 60",2020-11-23
-"Sorvasta plus 20mg/10mg film-coated tablets 60",2020-11-23
 "Nolibeta 5mg tbl nob 28 i",2020-11-23
 "Nolibeta 5mg tbl nob 90 i",2020-11-23
 "Meaxin 400mg film-coated tablets 30 ii",2020-11-23
 "Meaxin 400mg film-coated tablets 30 i",2020-11-23
-"Marixino 10mg film-coated tablets 30",2020-11-23
-"Marixino 20mg film-coated tablets 30",2020-11-23
-"Losartan/hydrochlorothiazid krka 50mg/12,5mg film-coated tablets 28",2020-11-23
-"Lamegom 25mg film-coated tablets 84",2020-11-23
 "Kventiax prolong 400mg tbl pro 90",2020-11-23
 "Kventiax prolong 50mg tbl pro 100",2020-11-23
 "Camdero 8mg/5mg tbl nob 28",2020-11-23
@@ -443,11 +436,18 @@
 "Betaklav 500mg/125mg film-coated tablets 21",2020-11-23
 "Betaklav 875mg/125mg film-coated tablets 14",2020-11-23
 "Betaklav 875mg/125mg film-coated tablets 20",2020-11-23
-"Amprilan 1,25mg tbl nob 90",2020-11-23
 "Amprilan h 2,5mg/12,5mg tbl nob 30",2020-11-23
 "Amprilan h 2,5mg/12,5mg tbl nob 100",2020-11-23
 "Amprilan h 5mg/25mg tbl nob 30",2020-11-23
 "Amprilan h 5mg/25mg tbl nob 100",2020-11-23
+"Sulfasalazin k 500mg film-coated tablets 50",2020-11-23
+"Sorvasta plus 10mg/10mg film-coated tablets 60",2020-11-23
+"Sorvasta plus 20mg/10mg film-coated tablets 60",2020-11-23
+"Marixino 10mg film-coated tablets 30",2020-11-23
+"Marixino 20mg film-coated tablets 30",2020-11-23
+"Losartan/hydrochlorothiazid krka 50mg/12,5mg film-coated tablets 28",2020-11-23
+"Lamegom 25mg film-coated tablets 84",2020-11-23
+"Amprilan 1,25mg tbl nob 90",2020-11-23
 "Vasilip 40mg film-coated tablets 28",2020-11-23
 "Tramadol krka 50mg cps dur 30",2020-11-23
 "Tramadol krka 100mg tbl pro 30x1",2020-11-23
