@@ -2,9 +2,9 @@
 "Ninlaro 2,3mg cps dur 3(3x1)",2021-07-01
 "Ninlaro 3mg cps dur 3(3x1)",2021-07-01
 "Ninlaro 4mg cps dur 3(3x1)",2021-07-01
-"Trimbow 88mcg/5mcg/9mcg inh plv 1x120dáv",2021-07-01
 "Pioglitazone accord 15mg tbl nob 84",2021-07-01
 "Pioglitazone accord 30mg tbl nob 84",2021-07-01
+"Trimbow 88mcg/5mcg/9mcg inh plv 1x120dáv",2021-07-01
 "Aripiprazol +pharma 15mg tbl nob 30",2021-06-30
 "Tamsulosin +pharma 0,4mg tbl pro 100 i",2021-06-30
 "Tamsulosin +pharma 0,4mg tbl pro 100 iii",2021-06-30
@@ -122,8 +122,8 @@
 "Lynparza 150mg film-coated tablets 56",2021-04-23
 "Phesgo 1200mg/600mg inj sol 1x15ml",2021-04-23
 "Phesgo 600mg/600mg inj sol 1x10ml",2021-04-23
-"Cyramza 10mg/ml inf cnc sol 2x10ml",2021-04-20
 "Polivy 30mg inf plv csl 1",2021-04-20
+"Cyramza 10mg/ml inf cnc sol 2x10ml",2021-04-20
 "Desloratadin xantis 5mg tbl nob 30",2021-04-20
 "Paroxetin +pharma 20mg film-coated tablets 30",2021-04-19
 "Paroxetin +pharma 20mg film-coated tablets 100",2021-04-19
@@ -145,15 +145,11 @@
 "Linezolid krka 2mg/ml inf sol 1x300ml",2021-04-01
 "Linezolid accord 2mg/ml inf sol 10x300ml",2021-04-01
 "Trulicity 1,5mg inj sol 2x0,5ml",2021-04-01
-"Zejula 100mg cps dur 56x1",2021-03-31
 "Erbitux 5mg/ml inf sol 1x100ml",2021-03-31
-"Tolak 40mg/g crm 20g",2021-03-31
-"Empliciti 300mg inf plv csl 1",2021-03-31
-"Empliciti 400mg inf plv csl 1",2021-03-31
-"Lamegom 25mg film-coated tablets 28",2021-03-31
-"Lamegom 25mg film-coated tablets 98",2021-03-31
 "Zilbea 25mg film-coated tablets 28",2021-03-31
 "Zilbea 25mg film-coated tablets 84",2021-03-31
+"Lamegom 25mg film-coated tablets 28",2021-03-31
+"Lamegom 25mg film-coated tablets 98",2021-03-31
 "Assimil 25mg film-coated tablets 28x1 kal",2021-03-31
 "Agomelatine teva 25mg film-coated tablets 28",2021-03-31
 "Agomelatine teva 25mg film-coated tablets 84",2021-03-31
@@ -167,6 +163,10 @@
 "Agomelatin +pharma 25mg film-coated tablets 84",2021-03-31
 "Agomelatine mylan 25mg film-coated tablets 28",2021-03-31
 "Agomelatine mylan 25mg film-coated tablets 84",2021-03-31
+"Zejula 100mg cps dur 56x1",2021-03-31
+"Tolak 40mg/g crm 20g",2021-03-31
+"Empliciti 300mg inf plv csl 1",2021-03-31
+"Empliciti 400mg inf plv csl 1",2021-03-31
 "Doptelet 20mg film-coated tablets 10",2021-03-30
 "Doptelet 20mg film-coated tablets 15",2021-03-30
 "Pradaxa 150mg cps dur 180(3x60x1) i",2021-03-28
@@ -451,8 +451,8 @@
 "Tavlesse 150mg film-coated tablets 60",2020-12-01
 "Solu-medrol 40mg/ml inj pso lqf 40mg+1ml",2020-12-01
 "Solu-medrol 62,5mg/ml inj pso lqf 500mg+7,8ml",2020-12-01
-"Opsumit 10mg film-coated tablets 30",2020-11-27
 "Darzalex 1800mg inj sol 1x15ml",2020-11-27
+"Opsumit 10mg film-coated tablets 30",2020-11-27
 "Januvia 100mg film-coated tablets 28",2020-11-26
 "Januvia 100mg film-coated tablets 98",2020-11-26
 "Nolibeta 5mg tbl nob 28 i",2020-11-23
@@ -754,11 +754,11 @@
 "Cosentyx 150mg inj sol isp 2x1ml",2020-07-24
 "Fluocyne 10% 10% inj sol 10x5ml",2020-07-24
 "Bitinex 80mg cps dur 28 i",2020-07-21
+"Telmisartan/hydrochlorothiazid egis 80mg/12,5mg tbl nob 30 i",2020-07-21
+"Telmisartan/hydrochlorothiazid egis 80mg/25mg tbl nob 30 i",2020-07-21
 "Zahron 15mg film-coated tablets 28",2020-07-21
 "Zahron 30mg film-coated tablets 28",2020-07-21
 "Bydureon 2mg inj plq sus pro 4x1+1j",2020-07-21
-"Telmisartan/hydrochlorothiazid egis 80mg/12,5mg tbl nob 30 i",2020-07-21
-"Telmisartan/hydrochlorothiazid egis 80mg/25mg tbl nob 30 i",2020-07-21
 "Rosuvastatin teva pharma 40mg film-coated tablets 100 ii",2020-07-21
 "Rosuvastatin teva pharma 40mg film-coated tablets 30 ii",2020-07-21
 "Vipidia 12,5mg film-coated tablets 28",2020-07-21
