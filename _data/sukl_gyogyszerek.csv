@@ -1,4 +1,16 @@
 "Product","Submission"
+"Remsima 120mg inj sol 1x1ml i",2021-07-12
+"Remsima 120mg inj sol 2x1ml i",2021-07-12
+"Remsima 120mg inj sol 4x1ml i",2021-07-12
+"Remsima 120mg inj sol 1x1ml ii",2021-07-12
+"Remsima 120mg inj sol 2x1ml ii",2021-07-12
+"Remsima 120mg inj sol 4x1ml ii",2021-07-12
+"Remsima 120mg inj sol 1x1ml",2021-07-12
+"Remsima 120mg inj sol 2x1ml",2021-07-12
+"Remsima 120mg inj sol 4x1ml",2021-07-12
+"Remsima 120mg inj sol 6x1ml i",2021-07-12
+"Remsima 120mg inj sol 6x1ml ii",2021-07-12
+"Remsima 120mg inj sol 6x1ml",2021-07-12
 "Ninlaro 2,3mg cps dur 3(3x1)",2021-07-01
 "Ninlaro 3mg cps dur 3(3x1)",2021-07-01
 "Ninlaro 4mg cps dur 3(3x1)",2021-07-01
@@ -13,8 +25,8 @@
 "Olpinat 5mg film-coated tablets 49",2021-06-25
 "Olpinat 10mg film-coated tablets 49",2021-06-25
 "Doxorubicin pharmagen 2mg/ml inf cnc sol 1x50ml",2021-06-24
-"Adcetris 50mg inf plv csl 1",2021-06-23
 "Infalin duo 3mg/ml+0,25mg/ml aur gtt sol mdc 15x0,25ml",2021-06-23
+"Adcetris 50mg inf plv csl 1",2021-06-23
 "Acesial 10mg tbl nob 30",2021-06-18
 "Acesial 2,5mg tbl nob 30",2021-06-18
 "Acesial 5mg tbl nob 30",2021-06-18
@@ -72,10 +84,10 @@
 "Novapio 30mg tbl nob 30",2021-05-19
 "Novapio 45mg tbl nob 28",2021-05-19
 "Novapio 45mg tbl nob 30",2021-05-19
-"Kesimpta 20mg inj sol pep 1x0,4ml",2021-05-17
-"Adcetris 50mg inf plv csl 1",2021-05-17
 "Asolfena 5mg film-coated tablets 90",2021-05-17
 "Asolfena 10mg film-coated tablets 90",2021-05-17
+"Kesimpta 20mg inj sol pep 1x0,4ml",2021-05-17
+"Adcetris 50mg inf plv csl 1",2021-05-17
 "Skudexa 75mg/25mg por gra sol scc 15",2021-05-13
 "Azacitidin sandoz 25mg/ml inj plv sus 1",2021-05-12
 "Fulvestrant fresenius kabi 250mg inj sol isp 2x5ml+2j",2021-05-11
@@ -100,10 +112,10 @@
 "Pioglitazone accord 45mg tbl nob 28",2021-05-03
 "Copaxone 40mg/ml inj sol isp 3x1ml",2021-05-01
 "Copaxone 40mg/ml inj sol isp 36(3x12)x1ml",2021-05-01
-"Adcetris 50mg inf plv csl 1",2021-04-30
 "Cabometyx 20mg film-coated tablets 30",2021-04-30
 "Cabometyx 40mg film-coated tablets 30",2021-04-30
 "Cabometyx 60mg film-coated tablets 30",2021-04-30
+"Adcetris 50mg inf plv csl 1",2021-04-30
 "Calquence 100mg cps dur 56",2021-04-29
 "Dupixent 300mg inj sol 2x2ml i",2021-04-28
 "Acidum folicum léčiva 10mg tbl obd 30",2021-04-28
@@ -223,8 +235,8 @@
 "Aridya 2mg tbl nob 84",2021-03-05
 "Gabapentin teva 100mg cps dur 90",2021-03-05
 "Gabapentin teva 300mg cps dur 90",2021-03-05
-"Vyndaqel 61mg cps mol 30x1",2021-03-04
 "Lynparza 150mg film-coated tablets 56",2021-03-04
+"Vyndaqel 61mg cps mol 30x1",2021-03-04
 "Estracyt 140mg cps dur 100",2021-03-03
 "Trexan neo 10mg tbl nob 100 i",2021-03-03
 "Trexan neo 2,5mg tbl nob 100 i",2021-03-03
@@ -626,6 +638,8 @@
 "Syntroxine 175mcg cps mol 30",2020-10-29
 "Syntroxine 200mcg cps mol 30",2020-10-29
 "Syntroxine 112mcg cps mol 30",2020-10-29
+"Braftovi 50mg cps dur 28",2020-10-27
+"Braftovi 75mg cps dur 42",2020-10-27
 "Prelica 75mg cps dur 112",2020-10-27
 "Prelica 150mg cps dur 112",2020-10-27
 "Pregabalin teva 75mg cps dur 90",2020-10-27
@@ -633,13 +647,11 @@
 "Preato 75mg tbl nob 84",2020-10-27
 "Preato 150mg tbl nob 84",2020-10-27
 "Preato 300mg tbl nob 56",2020-10-27
-"Pragiola 75mg cps dur 100",2020-10-27
-"Pragiola 150mg cps dur 100",2020-10-27
-"Braftovi 50mg cps dur 28",2020-10-27
-"Braftovi 75mg cps dur 42",2020-10-27
 "Naxalgan 75mg cps dur 50",2020-10-27
 "Naxalgan 150mg cps dur 50",2020-10-27
 "Naxalgan 300mg cps dur 50",2020-10-27
+"Pragiola 75mg cps dur 100",2020-10-27
+"Pragiola 150mg cps dur 100",2020-10-27
 "Tienam 500mg/500mg inf plv sol 10",2020-10-27
 "Imbruvica 140mg cps dur 120",2020-10-26
 "Conisor 100mg cps dur 4",2020-10-23
@@ -753,14 +765,14 @@
 "Cosentyx 150mg inj sol pep 2x1ml",2020-07-26
 "Cosentyx 150mg inj sol isp 2x1ml",2020-07-24
 "Fluocyne 10% 10% inj sol 10x5ml",2020-07-24
+"Rosuvastatin teva pharma 40mg film-coated tablets 100 ii",2020-07-21
+"Rosuvastatin teva pharma 40mg film-coated tablets 30 ii",2020-07-21
 "Bitinex 80mg cps dur 28 i",2020-07-21
 "Telmisartan/hydrochlorothiazid egis 80mg/12,5mg tbl nob 30 i",2020-07-21
 "Telmisartan/hydrochlorothiazid egis 80mg/25mg tbl nob 30 i",2020-07-21
 "Zahron 15mg film-coated tablets 28",2020-07-21
 "Zahron 30mg film-coated tablets 28",2020-07-21
 "Bydureon 2mg inj plq sus pro 4x1+1j",2020-07-21
-"Rosuvastatin teva pharma 40mg film-coated tablets 100 ii",2020-07-21
-"Rosuvastatin teva pharma 40mg film-coated tablets 30 ii",2020-07-21
 "Vipidia 12,5mg film-coated tablets 28",2020-07-21
 "Ozempic 0,25mg inj sol 1x1,5ml+4j",2020-07-21
 "Ozempic 0,5mg inj sol 1x1,5ml+4j",2020-07-21
