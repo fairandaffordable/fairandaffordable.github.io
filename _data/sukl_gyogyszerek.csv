@@ -1,4 +1,5 @@
 "Product","Submission"
+"Zassida 25mg/ml inj plv sus 1x100mg",2021-08-04
 "Adtralza 150mg inj sol 4(2x2)x1ml",2021-08-03
 "Gabanox 400mg cps dur 50",2021-08-01
 "Gabanox 300mg cps dur 50",2021-08-01
@@ -45,9 +46,9 @@
 "Ninlaro 4mg cps dur 3(3x1)",2021-07-01
 "Pioglitazone accord 15mg tbl nob 84",2021-07-01
 "Pioglitazone accord 30mg tbl nob 84",2021-07-01
-"Aripiprazol +pharma 15mg tbl nob 30",2021-06-30
 "Tamsulosin +pharma 0,4mg tbl pro 100 i",2021-06-30
 "Tamsulosin +pharma 0,4mg tbl pro 100 iii",2021-06-30
+"Aripiprazol +pharma 15mg tbl nob 30",2021-06-30
 "Dupixent 200mg inj sol 2x1,14ml",2021-06-29
 "Dupixent 300mg inj sol 2x2ml",2021-06-29
 "Olpinat 5mg film-coated tablets 49",2021-06-25
@@ -300,11 +301,11 @@
 "Siranalen 150mg cps dur 84 ii",2021-02-10
 "Siranalen 75mg cps dur 84 ii",2021-02-10
 "Taflosin 0,4mg cps rdr 100",2021-02-10
+"Brintellix 10mg film-coated tablets 98",2021-02-08
+"Brintellix 15mg film-coated tablets 98",2021-02-08
 "Zepatier 50mg/100mg film-coated tablets 28",2021-02-08
 "Descovy 200mg/10mg film-coated tablets 30",2021-02-08
 "Descovy 200mg/25mg film-coated tablets 30",2021-02-08
-"Brintellix 10mg film-coated tablets 98",2021-02-08
-"Brintellix 15mg film-coated tablets 98",2021-02-08
 "Gefitinib alvogen 250mg film-coated tablets 30x1",2021-02-05
 "Erlotinib zentiva 100mg film-coated tablets 30",2021-02-05
 "Erlotinib zentiva 150mg film-coated tablets 30",2021-02-05
@@ -332,8 +333,8 @@
 "Ruconest 2100u inj plv sol 1",2021-01-15
 "Valsacor 80mg film-coated tablets 28",2021-01-15
 "Sumetrolim 400mg/80mg tbl nob 20",2021-01-15
-"Ebixa 10mg film-coated tablets 50 i",2021-01-13
 "Ebixa 5mg/dáv por sol 1x100ml",2021-01-13
+"Ebixa 10mg film-coated tablets 50 i",2021-01-13
 "Ebixa 20mg film-coated tablets 98 i",2021-01-13
 "Memantine aurovitas 10mg film-coated tablets 56",2021-01-13
 "Memantine aurovitas 20mg film-coated tablets 28",2021-01-13
@@ -372,6 +373,11 @@
 "Febuxostat krka 120mg film-coated tablets 84",2021-01-07
 "Rebetol 200mg cps dur 168",2021-01-07
 "Ogivri 150mg inf plv csl 1",2021-01-07
+"Hedonin prolong 200mg tbl pro 30",2021-01-06
+"Hedonin prolong 300mg tbl pro 30",2021-01-06
+"Hedonin prolong 400mg tbl pro 30",2021-01-06
+"Hedonin 100mg film-coated tablets 90",2021-01-06
+"Hedonin 200mg film-coated tablets 90",2021-01-06
 "Kventiax 100mg film-coated tablets 90",2021-01-06
 "Kventiax 200mg film-coated tablets 90",2021-01-06
 "Kventiax 300mg film-coated tablets 90",2021-01-06
@@ -395,9 +401,6 @@
 "Ketilept prolong 200mg tbl pro 30",2021-01-06
 "Ketilept prolong 300mg tbl pro 30",2021-01-06
 "Ketilept prolong 400mg tbl pro 30",2021-01-06
-"Hedonin prolong 200mg tbl pro 30",2021-01-06
-"Hedonin prolong 300mg tbl pro 30",2021-01-06
-"Hedonin prolong 400mg tbl pro 30",2021-01-06
 "Quetiapine passauer 50mg film-coated tablets 60",2021-01-06
 "Quetiapine passauer 100mg film-coated tablets 60",2021-01-06
 "Quetiapine passauer 150mg film-coated tablets 60",2021-01-06
@@ -420,8 +423,6 @@
 "Ketilept 100mg film-coated tablets 90",2021-01-06
 "Ketilept 200mg film-coated tablets 80",2021-01-06
 "Ketilept 200mg film-coated tablets 90",2021-01-06
-"Hedonin 100mg film-coated tablets 90",2021-01-06
-"Hedonin 200mg film-coated tablets 90",2021-01-06
 "Derin prolong 200mg tbl pro 60",2021-01-06
 "Derin prolong 300mg tbl pro 60",2021-01-06
 "Derin prolong 400mg tbl pro 60",2021-01-06
@@ -616,6 +617,10 @@
 "Monopost 50mcg/ml oph gtt sol mdc 90(18x5)x0,2ml iv",2020-11-11
 "Plenvu por plv sol 1",2020-11-10
 "Adenuric 80mg film-coated tablets 84 ii",2020-11-10
+"Olanzapin mylan 5mg film-coated tablets 56",2020-11-09
+"Olanzapin mylan 10mg film-coated tablets 56",2020-11-09
+"Olanzapin mylan 5mg por tbl dis 56x1",2020-11-09
+"Olanzapin mylan 10mg por tbl dis 56x1",2020-11-09
 "Nykob 10mg film-coated tablets 28",2020-11-09
 "Nykob 5 mg potahované tablety 5mg film-coated tablets 28",2020-11-09
 "Nykob 10 mg potahované tablety 10mg film-coated tablets 28",2020-11-09
@@ -632,10 +637,6 @@
 "Egolanza 20mg film-coated tablets 56",2020-11-09
 "Egolanza 5mg film-coated tablets 49",2020-11-09
 "Egolanza 10mg film-coated tablets 49",2020-11-09
-"Olanzapin mylan 5mg por tbl dis 56x1",2020-11-09
-"Olanzapin mylan 10mg por tbl dis 56x1",2020-11-09
-"Olanzapin mylan 5mg film-coated tablets 56",2020-11-09
-"Olanzapin mylan 10mg film-coated tablets 56",2020-11-09
 "Olpinat 5mg film-coated tablets 49",2020-11-09
 "Olpinat 10mg film-coated tablets 49",2020-11-09
 "Olazax 5mg tbl nob 56",2020-11-09
