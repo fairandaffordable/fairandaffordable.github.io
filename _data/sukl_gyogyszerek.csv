@@ -1,4 +1,10 @@
 "Product","Submission"
+"Zykalor 10mg tbl nob 28",2021-08-05
+"Zykalor 15mg tbl nob 28",2021-08-05
+"Kanilad 100mg film-coated tablets 56",2021-08-05
+"Kanilad 150mg film-coated tablets 56",2021-08-05
+"Kanilad 200mg film-coated tablets 56",2021-08-05
+"Folinar 10mg film-coated tablets 100 i",2021-08-05
 "Zassida 25mg/ml inj plv sus 1x100mg",2021-08-04
 "Adtralza 150mg inj sol 4(2x2)x1ml",2021-08-03
 "Gabanox 400mg cps dur 50",2021-08-01
@@ -12,8 +18,8 @@
 "Daurismo 25mg film-coated tablets 60",2021-07-27
 "Daurismo 100mg film-coated tablets 30",2021-07-27
 "Clarithromycin hameln 500mg inf plv csl 10",2021-07-26
-"Solifenacin aurovitas 10mg film-coated tablets 100",2021-07-23
 "Imbruvica 140mg cps dur 90",2021-07-23
+"Solifenacin aurovitas 10mg film-coated tablets 100",2021-07-23
 "Muscarisan 5mg film-coated tablets 90",2021-07-23
 "Muscarisan 10mg film-coated tablets 90",2021-07-23
 "Ocaliva 5mg film-coated tablets 30",2021-07-22
@@ -82,14 +88,14 @@
 "Perjeta 420mg inf cnc sol 1x14ml",2021-06-01
 "Thiogamma oral 600mg film-coated tablets 30",2021-05-31
 "Thiogamma oral 600mg film-coated tablets 60",2021-05-31
-"Rybelsus 3mg tbl nob 30",2021-05-28
-"Rybelsus 7mg tbl nob 30",2021-05-28
-"Rybelsus 14mg tbl nob 30",2021-05-28
 "Adempas 0,5mg film-coated tablets 42",2021-05-28
 "Adempas 1mg film-coated tablets 42",2021-05-28
 "Adempas 1,5mg film-coated tablets 42",2021-05-28
 "Adempas 2mg film-coated tablets 42",2021-05-28
 "Adempas 2,5mg film-coated tablets 42",2021-05-28
+"Rybelsus 3mg tbl nob 30",2021-05-28
+"Rybelsus 7mg tbl nob 30",2021-05-28
+"Rybelsus 14mg tbl nob 30",2021-05-28
 "Hydrocortison vuab 100mg inj plv sol 1 iii",2021-05-26
 "Diozen 500mg film-coated tablets 180",2021-05-25
 "Mvasi 25mg/ml inf cnc sol 1x4ml",2021-05-24
@@ -141,10 +147,10 @@
 "Pioglitazone accord 45mg tbl nob 28",2021-05-03
 "Copaxone 40mg/ml inj sol isp 3x1ml",2021-05-01
 "Copaxone 40mg/ml inj sol isp 36(3x12)x1ml",2021-05-01
+"Adcetris 50mg inf plv csl 1",2021-04-30
 "Cabometyx 20mg film-coated tablets 30",2021-04-30
 "Cabometyx 40mg film-coated tablets 30",2021-04-30
 "Cabometyx 60mg film-coated tablets 30",2021-04-30
-"Adcetris 50mg inf plv csl 1",2021-04-30
 "Calquence 100mg cps dur 56",2021-04-29
 "Dupixent 300mg inj sol 2x2ml i",2021-04-28
 "Acidum folicum léčiva 10mg tbl obd 30",2021-04-28
@@ -366,9 +372,9 @@
 "Lyrica 20mg/ml por sol 1x473ml",2021-01-08
 "Montelukast medreg 10mg film-coated tablets 28",2021-01-08
 "Montelukast medreg 10mg film-coated tablets 98",2021-01-08
-"Hyrimoz 20mg inj sol 2x0,4ml",2021-01-07
 "Xeljanz 5mg film-coated tablets 56",2021-01-07
 "Xeljanz 5mg film-coated tablets 182",2021-01-07
+"Hyrimoz 20mg inj sol 2x0,4ml",2021-01-07
 "Febuxostat krka 80mg film-coated tablets 84",2021-01-07
 "Febuxostat krka 120mg film-coated tablets 84",2021-01-07
 "Rebetol 200mg cps dur 168",2021-01-07
@@ -446,9 +452,9 @@
 "Lacosamide glenmark 100mg film-coated tablets 56",2020-12-17
 "Lacosamide glenmark 150mg film-coated tablets 56",2020-12-17
 "Lacosamide glenmark 200mg film-coated tablets 56",2020-12-17
-"Alozex 1mg film-coated tablets 28",2020-12-15
 "Anaprex 1mg film-coated tablets 100",2020-12-15
 "Aletro 2,5mg film-coated tablets 100",2020-12-15
+"Alozex 1mg film-coated tablets 28",2020-12-15
 "Letrovena 2,5 mg potahované tablety 2,5mg film-coated tablets 30",2020-12-15
 "Letrovena 2,5mg film-coated tablets 30",2020-12-15
 "Etruzil 2,5mg film-coated tablets 90",2020-12-15
@@ -608,17 +614,23 @@
 "Pergoveris (300iu+150iu)/0,48ml inj sol 1x0,48ml+5j",2020-11-16
 "Pergoveris (450iu+225iu)/0,72ml inj sol 1x0,72ml+7j",2020-11-16
 "Pergoveris (900iu+450iu)/1,44ml inj sol 1x1,44ml+14j",2020-11-16
-"Trexan 2,5mg tbl nob 100",2020-11-12
-"Trexan 10mg tbl nob 100",2020-11-12
 "Verzenios 50mg film-coated tablets 28",2020-11-12
 "Verzenios 100mg film-coated tablets 28",2020-11-12
 "Verzenios 150mg film-coated tablets 28",2020-11-12
+"Trexan 2,5mg tbl nob 100",2020-11-12
+"Trexan 10mg tbl nob 100",2020-11-12
 "Abilify 1mg/ml por sol 1x150ml",2020-11-11
 "Monopost 50mcg/ml oph gtt sol mdc 90(18x5)x0,2ml iv",2020-11-11
 "Plenvu por plv sol 1",2020-11-10
 "Adenuric 80mg film-coated tablets 84 ii",2020-11-10
 "Olanzapin mylan 5mg film-coated tablets 56",2020-11-09
 "Olanzapin mylan 10mg film-coated tablets 56",2020-11-09
+"Olazax 5mg tbl nob 56",2020-11-09
+"Olazax 10mg tbl nob 56",2020-11-09
+"Olazax disperzi 5mg por tbl dis 56",2020-11-09
+"Olazax disperzi 10mg por tbl dis 56",2020-11-09
+"Olanzapine aurovitas 5mg por tbl dis 28",2020-11-09
+"Olanzapine aurovitas 10mg por tbl dis 28",2020-11-09
 "Olanzapin mylan 5mg por tbl dis 56x1",2020-11-09
 "Olanzapin mylan 10mg por tbl dis 56x1",2020-11-09
 "Nykob 10mg film-coated tablets 28",2020-11-09
@@ -639,14 +651,6 @@
 "Egolanza 10mg film-coated tablets 49",2020-11-09
 "Olpinat 5mg film-coated tablets 49",2020-11-09
 "Olpinat 10mg film-coated tablets 49",2020-11-09
-"Olazax 5mg tbl nob 56",2020-11-09
-"Olazax 10mg tbl nob 56",2020-11-09
-"Olazax disperzi 5mg por tbl dis 56",2020-11-09
-"Olazax disperzi 10mg por tbl dis 56",2020-11-09
-"Olanzapine aurobindo 5mg por tbl dis 28",2020-11-09
-"Olanzapine aurobindo 10mg por tbl dis 28",2020-11-09
-"Olanzapine aurovitas 5mg por tbl dis 28",2020-11-09
-"Olanzapine aurovitas 10mg por tbl dis 28",2020-11-09
 "Aedon 5mg por tbl dis 56",2020-11-09
 "Aedon 10mg por tbl dis 56",2020-11-09
 "Trimethoprim tablets bp 200mg 200mg tbl nob 14",2020-11-08
