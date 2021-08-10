@@ -186,8 +186,8 @@
 "Paroxetin +pharma 20mg film-coated tablets 100",2021-04-19
 "Azacitidin sandoz 25mg/ml inj plv sus 1",2021-04-13
 "Ibandronic acid aurobindo 150 mg potahované tablety 150mg film-coated tablets 3",2021-04-01
-"Ibandronic acid aurovitas 150mg film-coated tablets 3",2021-04-01
 "Trulicity 1,5mg inj sol 2x0,5ml",2021-04-01
+"Ibandronic acid aurovitas 150mg film-coated tablets 3",2021-04-01
 "Linezolid olikla 2mg/ml inf sol 10x300ml",2021-04-01
 "Alendronic acid/vitamin d3 aurovitas 70mg/2800iu tbl nob 12",2021-04-01
 "Alendronic acid/vitamin d3 accord 70mg/2800iu tbl nob 4",2021-04-01
@@ -202,6 +202,7 @@
 "Zovirax 400mg tbl nob 25",2021-04-01
 "Linezolid krka 2mg/ml inf sol 1x300ml",2021-04-01
 "Linezolid accord 2mg/ml inf sol 10x300ml",2021-04-01
+"Erbitux 5mg/ml inf sol 1x100ml",2021-03-31
 "Zilbea 25mg film-coated tablets 28",2021-03-31
 "Zilbea 25mg film-coated tablets 84",2021-03-31
 "Lamegom 25mg film-coated tablets 28",2021-03-31
@@ -222,7 +223,6 @@
 "Empliciti 400mg inf plv csl 1",2021-03-31
 "Assimil 25mg film-coated tablets 28x1 kal",2021-03-31
 "Tolak 40mg/g crm 20g",2021-03-31
-"Erbitux 5mg/ml inf sol 1x100ml",2021-03-31
 "Zejula 100mg cps dur 56x1",2021-03-31
 "Doptelet 20mg film-coated tablets 10",2021-03-30
 "Doptelet 20mg film-coated tablets 15",2021-03-30
@@ -389,6 +389,16 @@
 "Febuxostat krka 120mg film-coated tablets 84",2021-01-07
 "Rebetol 200mg cps dur 168",2021-01-07
 "Ogivri 150mg inf plv csl 1",2021-01-07
+"Kventiax prolong 150mg tbl pro 90",2021-01-06
+"Kventiax prolong 400mg tbl pro 60",2021-01-06
+"Kventiax prolong 200mg tbl pro 90",2021-01-06
+"Kventiax prolong 300mg tbl pro 90",2021-01-06
+"Kventiax prolong 400mg tbl pro 90",2021-01-06
+"Kventiax prolong 50mg tbl pro 90",2021-01-06
+"Kventiax prolong 50mg tbl pro 100",2021-01-06
+"Ketilept prolong 200mg tbl pro 30",2021-01-06
+"Ketilept prolong 300mg tbl pro 30",2021-01-06
+"Ketilept prolong 400mg tbl pro 30",2021-01-06
 "Hedonin prolong 200mg tbl pro 30",2021-01-06
 "Hedonin prolong 300mg tbl pro 30",2021-01-06
 "Hedonin prolong 400mg tbl pro 30",2021-01-06
@@ -403,13 +413,6 @@
 "Kventiax 100mg film-coated tablets 90",2021-01-06
 "Kventiax 200mg film-coated tablets 90",2021-01-06
 "Kventiax 300mg film-coated tablets 90",2021-01-06
-"Kventiax prolong 150mg tbl pro 90",2021-01-06
-"Kventiax prolong 400mg tbl pro 60",2021-01-06
-"Kventiax prolong 200mg tbl pro 90",2021-01-06
-"Kventiax prolong 300mg tbl pro 90",2021-01-06
-"Kventiax prolong 400mg tbl pro 90",2021-01-06
-"Kventiax prolong 50mg tbl pro 90",2021-01-06
-"Kventiax prolong 50mg tbl pro 100",2021-01-06
 "Emanera 20mg cps etd 30 i",2021-01-06
 "Emanera 40mg cps etd 30 i",2021-01-06
 "Ultibro breezhaler 85mcg/43mcg inh plv cps dur 90x1+inh",2021-01-06
@@ -418,9 +421,6 @@
 "Quetiapin mylan 300 mg tablety s prodlouženým uvolňováním 300mg tbl pro 30",2021-01-06
 "Quetiapin mylan 200mg tbl pro 30",2021-01-06
 "Quetiapin mylan 300mg tbl pro 30",2021-01-06
-"Ketilept prolong 200mg tbl pro 30",2021-01-06
-"Ketilept prolong 300mg tbl pro 30",2021-01-06
-"Ketilept prolong 400mg tbl pro 30",2021-01-06
 "Quetiapine passauer 50mg film-coated tablets 60",2021-01-06
 "Quetiapine passauer 100mg film-coated tablets 60",2021-01-06
 "Quetiapine passauer 150mg film-coated tablets 60",2021-01-06
@@ -648,8 +648,6 @@
 "Aedon 5mg por tbl dis 56",2020-11-09
 "Aedon 10mg por tbl dis 56",2020-11-09
 "Nykob 10mg film-coated tablets 28",2020-11-09
-"Nykob 5 mg potahované tablety 5mg film-coated tablets 28",2020-11-09
-"Nykob 10 mg potahované tablety 10mg film-coated tablets 28",2020-11-09
 "Nykob 5mg film-coated tablets 28",2020-11-09
 "Zalasta 5mg tbl nob 70",2020-11-09
 "Zalasta 10mg tbl nob 70",2020-11-09
