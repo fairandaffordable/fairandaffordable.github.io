@@ -420,15 +420,19 @@
 "Ketilept prolong 200mg tbl pro 30",2021-01-06
 "Ketilept prolong 300mg tbl pro 30",2021-01-06
 "Ketilept prolong 400mg tbl pro 30",2021-01-06
-"Hedonin prolong 200mg tbl pro 30",2021-01-06
-"Hedonin prolong 300mg tbl pro 30",2021-01-06
-"Hedonin prolong 400mg tbl pro 30",2021-01-06
 "Olpinat 5mg film-coated tablets 56",2021-01-06
 "Olpinat 10mg film-coated tablets 56",2021-01-06
 "Olanzapin teva 5mg film-coated tablets 56",2021-01-06
 "Olanzapin teva 10mg film-coated tablets 56",2021-01-06
 "Olanzapin actavis 5mg por tbl dis 56 ii",2021-01-06
 "Olanzapin actavis 10mg por tbl dis 56 ii",2021-01-06
+"Ketilept 300mg film-coated tablets 30",2021-01-06
+"Ketilept 100mg film-coated tablets 90",2021-01-06
+"Ketilept 200mg film-coated tablets 80",2021-01-06
+"Ketilept 200mg film-coated tablets 90",2021-01-06
+"Hedonin prolong 200mg tbl pro 30",2021-01-06
+"Hedonin prolong 300mg tbl pro 30",2021-01-06
+"Hedonin prolong 400mg tbl pro 30",2021-01-06
 "Hedonin 100mg film-coated tablets 90",2021-01-06
 "Hedonin 200mg film-coated tablets 90",2021-01-06
 "Kventiax 100mg film-coated tablets 90",2021-01-06
@@ -456,10 +460,6 @@
 "Questax prolong 300mg tbl pro 60",2021-01-06
 "Questax prolong 400mg tbl pro 60",2021-01-06
 "Questax prolong 600mg tbl pro 30",2021-01-06
-"Ketilept 300mg film-coated tablets 30",2021-01-06
-"Ketilept 100mg film-coated tablets 90",2021-01-06
-"Ketilept 200mg film-coated tablets 80",2021-01-06
-"Ketilept 200mg film-coated tablets 90",2021-01-06
 "Derin prolong 200mg tbl pro 60",2021-01-06
 "Derin prolong 300mg tbl pro 60",2021-01-06
 "Derin prolong 400mg tbl pro 60",2021-01-06
@@ -654,8 +654,6 @@
 "Monopost 50mcg/ml oph gtt sol mdc 90(18x5)x0,2ml iv",2020-11-11
 "Plenvu por plv sol 1",2020-11-10
 "Adenuric 80mg film-coated tablets 84 ii",2020-11-10
-"Olanzapin mylan 5mg film-coated tablets 56",2020-11-09
-"Olanzapin mylan 10mg film-coated tablets 56",2020-11-09
 "Olpinat 5mg film-coated tablets 49",2020-11-09
 "Olpinat 10mg film-coated tablets 49",2020-11-09
 "Olazax 5mg tbl nob 56",2020-11-09
@@ -664,12 +662,14 @@
 "Olazax disperzi 10mg por tbl dis 56",2020-11-09
 "Olanzapine aurovitas 5mg por tbl dis 28",2020-11-09
 "Olanzapine aurovitas 10mg por tbl dis 28",2020-11-09
-"Olanzapin mylan 5mg por tbl dis 56x1",2020-11-09
-"Olanzapin mylan 10mg por tbl dis 56x1",2020-11-09
 "Aedon 5mg por tbl dis 56",2020-11-09
 "Aedon 10mg por tbl dis 56",2020-11-09
 "Nykob 10mg film-coated tablets 28",2020-11-09
 "Nykob 5mg film-coated tablets 28",2020-11-09
+"Olanzapin mylan 5mg film-coated tablets 56",2020-11-09
+"Olanzapin mylan 10mg film-coated tablets 56",2020-11-09
+"Olanzapin mylan 5mg por tbl dis 56x1",2020-11-09
+"Olanzapin mylan 10mg por tbl dis 56x1",2020-11-09
 "Zalasta 5mg tbl nob 70",2020-11-09
 "Zalasta 10mg tbl nob 70",2020-11-09
 "Zalasta 15mg tbl nob 70",2020-11-09
@@ -1085,6 +1085,10 @@
 "Mavenclad 10mg tbl nob 4",2020-03-30
 "Mavenclad 10mg tbl nob 6",2020-03-30
 "Adcetris 50mg inf plv csl 1",2020-03-30
+"Midza 50mg film-coated tablets 14",2020-03-29
+"Midza 100mg film-coated tablets 56",2020-03-29
+"Midza 150mg film-coated tablets 56",2020-03-29
+"Midza 200mg film-coated tablets 56",2020-03-29
 "Lacosamide glenmark 50mg film-coated tablets 14",2020-03-29
 "Lacosamide glenmark 100mg film-coated tablets 56",2020-03-29
 "Lacosamide glenmark 150mg film-coated tablets 56",2020-03-29
@@ -1093,24 +1097,20 @@
 "Lacosamide accord 100mg film-coated tablets 56",2020-03-29
 "Lacosamide accord 150mg film-coated tablets 56",2020-03-29
 "Lacosamide accord 200mg film-coated tablets 56",2020-03-29
-"Midza 50mg film-coated tablets 14",2020-03-29
-"Midza 100mg film-coated tablets 56",2020-03-29
-"Midza 150mg film-coated tablets 56",2020-03-29
-"Midza 200mg film-coated tablets 56",2020-03-29
-"Kanilad 50mg film-coated tablets 14",2020-03-28
-"Kanilad 100mg film-coated tablets 56",2020-03-28
-"Kanilad 150mg film-coated tablets 56",2020-03-28
-"Kanilad 200mg film-coated tablets 56",2020-03-28
 "Trelema 50mg film-coated tablets 14 ii",2020-03-28
 "Trelema 100mg film-coated tablets 56 ii",2020-03-28
 "Trelema 150mg film-coated tablets 56 ii",2020-03-28
 "Trelema 200mg film-coated tablets 56 ii",2020-03-28
+"Kanilad 50mg film-coated tablets 14",2020-03-28
+"Kanilad 100mg film-coated tablets 56",2020-03-28
+"Kanilad 150mg film-coated tablets 56",2020-03-28
+"Kanilad 200mg film-coated tablets 56",2020-03-28
+"Vimpat 10mg/ml sir 1x200ml",2020-03-27
 "Arkvimma 50mg film-coated tablets 14",2020-03-27
 "Arkvimma 50mg film-coated tablets 56",2020-03-27
 "Arkvimma 100mg film-coated tablets 56",2020-03-27
 "Arkvimma 150mg film-coated tablets 56",2020-03-27
 "Arkvimma 200mg film-coated tablets 56",2020-03-27
-"Vimpat 10mg/ml sir 1x200ml",2020-03-27
 "Esbriet 267mg film-coated tablets 252(84x3) ii",2020-03-26
 "Tecentriq 1200mg inf cnc sol 1x20ml",2020-03-26
 "Ibalgin 600mg film-coated tablets 30",2020-03-26
